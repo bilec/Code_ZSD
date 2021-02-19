@@ -17,10 +17,15 @@ class NewWordsPanel: JPanel() {
     val inputJTextArea = JTextArea()
     val outputJTextArea = JTextArea()
 
+    private val inputJScrollPane = JScrollPane(inputJTextArea)
+    private val outputJScrollPane = JScrollPane(outputJTextArea)
+
     init {
         layout = BoxLayout(this, BoxLayout.Y_AXIS)
         tabPanel.layout = FlowLayout()
         ioPanel.layout = BoxLayout(ioPanel, BoxLayout.Y_AXIS)
+
+        tabPanel.maximumSize = Constants.MAXIMUM_PANEL_SIZE
 
         cleanButton.addActionListener(CleanButtonListener(inputJTextArea, outputJTextArea))
         saveButton.addActionListener(SaveButtonListener(inputJTextArea, outputJTextArea))
@@ -28,10 +33,10 @@ class NewWordsPanel: JPanel() {
         tabPanel.add(saveButton)
         tabPanel.add(cleanButton)
 
-        inputJTextArea.border = BorderFactory.createTitledBorder(Constants.WORD_INPUT_LABEL)
-        ioPanel.add(inputJTextArea)
-        outputJTextArea.border = BorderFactory.createTitledBorder(Constants.CODE_INPUT_LABEL)
-        ioPanel.add(outputJTextArea)
+        inputJScrollPane.border = BorderFactory.createTitledBorder(Constants.WORD_INPUT_LABEL)
+        ioPanel.add(inputJScrollPane)
+        outputJScrollPane.border = BorderFactory.createTitledBorder(Constants.CODE_INPUT_LABEL)
+        ioPanel.add(outputJScrollPane)
 
 
         add(tabPanel)
