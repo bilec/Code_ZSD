@@ -1,0 +1,105 @@
+188
+
+00 výkonný rotmistr 
+01 vykopati 
+02 vykořistiti 
+03 vykoupiti 
+04 vykrásti 
+05 výkres 
+06 vykresliti 
+07 výkřik 
+08 vykřiknouti 
+09 vykročiti 
+10 vykroutiti se 
+11 vykupné 
+12 vykupovati 
+13 vylákati 
+14 vylámati 
+15 vyléčiti 
+16 výlet 
+17 vyletěti 
+18 výletní 
+19 vylézti 
+20 vylhaný 
+21 vylhati 
+22 vylíčení 
+23 vylíčiti 
+24 vylodění 
+25 vyloditi 
+26 výlohy 
+27 vylomiti 
+28 vyloučeno 
+29 vyloučený 
+30 vyloučiti 
+31 vyloupiti 
+32 vyložení 
+33 vyložený
+33 vyloženě
+34 vyložiti 
+35 vyložiti terče 
+36 výlučně 
+37 výlučný 
+38 vylučovati 
+39 výluka 
+40 vymáhaný 
+41 vymáhati 
+42 vymaněný 
+43 vymaniti se 
+44 výmaz
+45 vymazati 
+46 výměna 
+47 vyměněný 
+48 vyměniti 
+49 vyměňovati 
+50 výměr 
+51 výměra 
+52 výměra střeliva 
+53 výměra trestu 
+54 vyměřený 
+55 vyměřiti 
+56 vyměřování 
+57 vyměřovati 
+58 vymezený 
+59 vymítiti si 
+60 vymíňovati si 
+61 vymknouti se 
+62 vymlouvati se 
+63 výmluva
+64 výmluvnost 
+65 výmluvný 
+65 výmluvně
+66 vymoci 
+67 vymoženost 
+68 vymstíti se 
+69 vymykati se 
+70 výmysl 
+71 vymyšlený 
+72 vymysliti 
+73 vynahraditi 
+74 vynajíti 
+75 vynakládati 
+76 vynález
+77 vynélezce 
+78 vynalézti 
+79 vynaložení 
+80 vynaložiti 
+81 vynasnažiti se 
+82 vynášeti 
+83 výňatek 
+84 vynechati 
+85 vynésti 
+86 vynikající 
+87 vynikati 
+88 vynořiti se 
+89 výnos 
+90 výnos MNO
+91 výnos MNO čj.
+92 výnosem 
+93 výnosem MNO
+94 výnosem MNO čj.
+95 výnosnost 
+96 výnosný 
+96 výnosně 
+97 vynucovati 
+98 vynutiti 
+99 vyobcovati 

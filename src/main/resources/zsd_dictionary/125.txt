@@ -1,0 +1,105 @@
+125
+ 
+00 primitívní
+01 přímluvčí 
+02 přimluviti ge 
+03 přímo 
+04 přímoří 
+05 přímý 
+06 přímá ochrana 
+07 přímá podpora 
+08 přímá střelba
+09 přimysliti si 
+10 přinášeti 
+11 princ 
+12 princezna 
+13 princip 
+14 principiální 
+14 principiálně  
+15 přinésti 
+16 přinesený 
+17 prior 
+18 priorita 
+19 přinucený
+19 přinuceně  
+20 přinutiti 
+21 případ 
+22 případně 
+23 případný 
+24 připadnouti 
+25 připevněný 
+26 připevniti 
+27 připínati 
+28 přípis 
+29 příplatek 
+30 připlacený 
+31 připláceti 
+32 připlésti 
+33 připlouti 
+34 připočísti 
+35 připočtený 
+36 připojiti 
+37 připojený 
+38 připomenouti 
+39 připomenutý 
+40 připomínán 
+41 připouštěti 
+42 připověď 
+43 příprava 
+44 přípraviti 
+45 připravovati 
+46 připravovati se
+47 přípravný 
+48 přípravná palba 
+49 přípravné práce 
+50 přípravný rozkaz 
+51 připsati 
+52 připsaný 
+53 přípustný 
+54 připustiti 
+55 připuštěný 
+56 připouštěti
+57 přiřaditi 
+58 přiraziti 
+59 přirážka 
+60 přiřčený 
+61 přiřknouti 
+62 příroda 
+63 přírodní 
+64 přirovnati 
+65 přirozeně 
+66 přirozený 
+67 přirozenost 
+68 příruční 
+69 přírustek 
+70 přirůstati 
+71 přísaha 
+72 přísahati 
+73 přísedící 
+74 přísežný 
+75 přiskočiti 
+76 přislíbiti
+77 přislíbený 
+78 příslovečný
+78 příslovečně
+79 přísloví 
+80 příslušenství 
+81 příslušeti 
+82 příslušník 
+83 příslušný 
+84 přísně 
+85 přísně důvěrný 
+86 přísný 
+87 přísnost 
+88 přisouditi 
+89 přispěti 
+90 příspěvěk 
+91 přispívati 
+92 přistáti 
+93 přístav 
+94 přístavba 
+95 přístaviště 
+96 přistaviti 
+97 přístavní 
+98 přistěhovalec
+99 přistěhovati

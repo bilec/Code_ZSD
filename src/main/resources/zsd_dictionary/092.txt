@@ -1,0 +1,105 @@
+092
+
+00 nitro 
+01 nitroceluloaa 
+02 nitrocelulosový 
+03 nitroglycerin 
+04 nitroglycerinový 
+05 niu 
+06 niv 
+07 niva 
+08 nive 
+09 niveau 
+10 nivelace 
+11 nivelovaný 
+12 nivelovati 
+13 niz 
+14 nízko 
+15 nízký 
+16 níž 
+17 níže 
+18 nižina 
+19 nížiti 
+20 nižší 
+21 nižší důstojník
+22 nižší jednotka 
+23 nl 
+24 nk
+25 nn 
+26 no 
+27 noc 
+28 noci 
+29 nocleh 
+30 noclehárna 
+31 noční 
+32 noční boj 
+35 noční pochod
+34 noční útok 
+35 noe 
+36 noh 
+37 noha 
+38 noch 
+39 noi 
+40 noj 
+41 nok 
+42 nol 
+43 nom 
+44 nominální 
+44 nominálně 
+45 non 
+46 nor 
+47 nora 
+48 nord 
+49 norem 
+50 nori 
+51 norn 
+52 norma 
+53 normalisační
+54 normalisační komise 
+55 normalita 
+56 normálně 
+57 normální 
+58 Norsko 
+59 norský 
+60 nos 
+61 nosič 
+62 nositi 
+63 nosnost 
+64 nosný 
+65 nost 
+66 not 
+67 nota 
+68 notář 
+69 notný 
+69 notně 
+70 nou 
+71 nouti 
+72 nouze 
+73 nouzové přistání 
+74 nouzový  
+74 nouzově
+75 nov 
+76 nová 
+77 Nová Paka 
+78 nováček 
+79 nové 
+80 Nové Město 
+81 novela 
+82 novelisovati 
+83 novi
+84 novina 
+85 novinář 
+86 novinářský 
+87 noviny 
+88 novo 
+89 novodobý 
+90 novost 
+91 novota 
+92 nový 
+93 Nový Targ 
+94 noz 
+95 nož 
+96 nožní 
+97 nr 
+98 ns 
+99 nsk

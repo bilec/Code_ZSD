@@ -1,0 +1,103 @@
+187
+
+00 vyhoštěný 
+01 vyhostiti 
+02 vyhotovení 
+03 vyhotovený 
+04 vyhotoviti 
+05 vyhovovati 
+06 výhra 
+07 výhrada 
+08 výhradně 
+09 výhradní 
+10 výhradný 
+11 vyhraditi 
+12 vyhraný 
+13 vyhrávati 
+14 vyhražovati 
+15 vyhrnouti 
+16 vyhrožovati 
+17 vyhrůžka 
+18 vyhubiti 
+19 vyhýbati se 
+20 vyhýbavě 
+21 vyhýbavý 
+22 vyhýbka 
+23 vych
+24 vycházeti 
+25 vycházka 
+26 východ 
+27 východisko 
+28 východiště 
+29 východiště útoku 
+30 vychoditi 
+31 východně 
+32 východní 
+33 východní křídlo 
+34 východní okraj 
+35 východní úsek 
+36 výchova 
+37 vychování 
+38 vychovatel 
+39 vychovati 
+40 vychovávati 
+41 výchovný 
+41 výchovně 
+42 výchozí 
+43 výchozí základna 
+44 vychvalovati 
+45 vychýliti se 
+46 výchylka 
+47 vychylovati se 
+48 vyj 
+49 vyjádření  
+50 vyjádřený
+51 vyjádřiti se
+52 vyjasnění
+53 vyjasniti 
+54 vyjednaný 
+55 vyjednati
+56 vyjednávání 
+57 vyjdnavatel 
+58 vyjednávati
+59 vyjeti 
+60 výjev
+61 výjezd 
+62 vyjímaje 
+63 vyjímati 
+64 vyjímati se
+65 vyjímečně 
+66 vyjímečný 
+67 výjimka 
+68 vyjíti 
+69 vyjížděti 
+70 vyjížďka 
+71 vyjma 
+72 vyjmouti 
+73 vyk 
+74 vykati 
+75 výkaz 
+76 vykázaný 
+77 vykázati 
+78 vykazovati 
+79 výklad 
+80 vykládací 
+81 vykládací nádraží 
+82 vykládací stanice 
+83 vykládání 
+84 vykládati 
+85 výkladní 
+86 vykliditi 
+87 vyklizení 
+88 vyklizený 
+89 vyklízeti 
+90 vyklizování 
+91 vykloniti 
+92 výkon 
+93 vykonání 
+94 vykonavatel 
+95 vykonaný 
+96 vykonati 
+97 výkonnost 
+98 výkonný 
+99 výkonný orgán 

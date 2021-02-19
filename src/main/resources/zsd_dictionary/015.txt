@@ -1,0 +1,105 @@
+015
+
+00 branná moc
+01 branné předpisy
+02 brannost
+03 branný zákon
+04 braš
+05 brat
+06 bráti
+07 Bratislava
+08 bratr
+09 bratranec
+10 brau
+11 brav
+12 bráz
+13 bre
+14 bře
+15 Břeclav
+16 břeh
+17 břemeno
+18 bren
+19 břet
+20 Břetislav
+21 březen
+22 Březno
+23 březnový
+24 bri
+25 brigáda
+26 brigádní
+27 brigádní generál
+28 brigádní pobočník
+29 brigádní rozkaz
+30 brigádní soud
+31 brigádní velitel
+32 brigádní záloha
+33 brigádník
+34 bři
+35 břímě
+36 brit
+37 Britanie
+38 britský
+39 břit
+40 brn
+41 brnění
+42 Brno
+43 bro
+44 brod
+45 Brod nad Lesy
+46 brodný
+47 brok
+48 brom
+49 bromid
+50 bronz
+51 brou
+52 Broumov
+53 browning
+54 bru
+55 Bruck
+56 brunet
+57 Brutál
+58 brus
+59 brut
+60 brutalita
+61 brutální 
+61 brutálně
+62 brv
+63 bry
+64 brýle
+65 brz
+66 brzda
+67 brzditi
+68 brzy
+69 bs 
+70 bu 
+71 buben
+72 bud
+73 buď
+74 buda
+75 Budapešt
+76 budapeštský
+77 bude
+78 bude 
+78 budeli 
+79 budeli se
+80 budeme
+81 budete
+82 Budějovice
+83 budget
+84 buditi
+85 budka
+86 budou
+87 budoucí
+88 budoucně
+89 budoucnost
+90 budova
+91 budovati
+92 buďme
+93 buďte
+94 buďto
+95 budu
+96 bůh
+96 Bůh
+97 buch
+98 buj
+99 buk

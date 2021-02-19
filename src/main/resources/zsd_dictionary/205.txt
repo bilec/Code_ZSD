@@ -1,0 +1,108 @@
+205
+
+00 zchudlý 
+01 zchvácený 
+02 zchvátiti 
+03 zi 
+04 zí
+05 zima 
+06 zimní 
+07 zimnice 
+08 zin 
+09 zinek 
+10 zir 
+11 zis 
+12 zisk 
+13 získání času 
+14 zskaný 
+15 získati 
+16 ziskuchtivost 
+17 ziskuchtivý 
+17 ziskuchtivě
+18 zištný 
+18 zištně
+18 zištnost  
+19 zítra 
+20 zítřejší 
+21 zjednání 
+22 zjednání dotyku 
+23 zjednaný 
+24 zjednati 
+25 zjednati dotyk 
+26 zjednati styk 
+27 zjednodušený 
+28 zjednodušiti 
+29 zjev 
+30 zjevený 
+31 zjeviti 
+32 zjevný 
+32 zjevně 
+33 zjištěný 
+34 zjistiti 
+35 zjišťovati 
+36 zk 
+37 zkáza 
+38 zkažený 
+39 zkaziti 
+40 zkázonosný 
+41 zklamání 
+42 zklamaný
+42 zklamaně 
+43 zklamati 
+44 zkomolenina 
+45 zkomolený 
+46 zkomolené depeše 
+47 zkomolený telegram 
+48 zkontrolovati 
+49 zkoumání 
+50 zkoumaný 
+51 zkoumati 
+52 zkoumavý 
+53 zkoušení 
+54 zkoušený 
+55 zkoušeti 
+56 zkouška 
+57 zkrácený 
+58 zkrátiti 
+59 zkratka 
+60 zkrátka 
+61 zkrotiti 
+62 zkrotnouti 
+63 zkroutiti 
+64 zkušebna 
+65 zkušebný 
+66 zkušenost 
+67 zkušenosti 
+68 zkušený 
+69 zkusiti 
+70 zlákati 
+71 zlýmaný 
+72 zlámati 
+73 zlato 
+74 zlatý 
+75 zle 
+76 zlehčiti 
+77 zlehka 
+78 zlepšení 
+79 zlepšený 
+80 zlepšiti 
+81 zlepšiti se 
+82 zlí 
+83 zlíbiti se 
+84 zlo 
+85 zloba 
+86 zlobiti 
+87 zločin 
+88 zločinec 
+89 zločinnost 
+90 zločinný 
+91 Zloczów 
+92 zloděj 
+93 zlomek 
+94 zlomený 
+95 zloniti 
+96 zlomyslnost 
+97 zlomyslný
+97 zlomyslně
+98 zlořád 
+99 zlořečiti 

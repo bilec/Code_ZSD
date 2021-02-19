@@ -1,0 +1,106 @@
+204
+
+00 zdrženlivost 
+01 zdrženlivý 
+01 zdrženlivě
+02 zdržeti 
+03 zdržovaný 
+04 zdržovati 
+05 zdržovati se
+06 zdůrazniti 
+07 zdůraznovati 
+08 zdv 
+09 zdvihati 
+10 zdvihnouti 
+11 zdvojnásobený 
+12 zdvojnásobiti 
+13 zdvořilý
+13 zdvořile 
+14 zdýmadlo 
+15 ze 
+16 ze
+17 ze dne 
+18 zeb 
+19 zed 
+20 zeď 
+21 zei 
+22 zeit 
+23 Zeitung 
+24 zejména 
+25 zek 
+26 zel
+27 zele 
+28 zelí 
+29 zem 
+30 zeměbrana 
+31 zeměbranec 
+32 zemědělec 
+33 zemědělský 
+34 zemědělství 
+35 zeměměřičský 
+36 zeměpisné 
+37 zeměpisné souřadnice 
+38 zeměpisný
+39 zeměpisnýustav 
+40 zemi 
+41 zemní 
+42 zemřelý 
+43 zemříti 
+44 zemská 
+45 zemská silnice 
+46 zemská polit.správa 
+47 zemské 
+48 zemskéčetn.velitelstvá
+49 zemské hranice 
+50 zemské terit.velit. 
+51 zemské vojen.velit.
+52 zemský 
+53 zemský úřad
+54 Zemplin 
+55 zen 
+56 Zepelin 
+57 zeptati se 
+58 zer 
+59 zes 
+60 zesíliti 
+61 zesilte 
+62 zesilte palbu 
+63 zesilovací 
+64 zet 
+65 zeu 
+66 zev 
+67 zevně 
+68 zevnějšek 
+69 zevnější 
+70 zevní 
+71 zevnitř 
+72 zevrubně 
+73 zevrubný 
+74 zevrubná zpráva 
+75 zevrubné hlášení 
+76 zevrubné vylíčení 
+77 zevšedněti 
+78 zfanatisovaný 
+79 zfanatisovati 
+80 zhanobený 
+81 zhanobiti 
+82 zhatiti 
+83 zhlou 
+84 zhluboka 
+85 zhnusiti se 
+86 zho 
+87 zhola 
+88 zhoršený 
+89 zhoršiti 
+90 zhostiti se 
+91 zhotovený 
+92 zhotoýiti 
+93 zhouba 
+94 zhoubný 
+94 zhoubně 
+95 zhruba 
+96 zhusta 
+97 zhuštěný 
+97 zhuštěně  
+98 zhynouti 
+99 zchladnouti

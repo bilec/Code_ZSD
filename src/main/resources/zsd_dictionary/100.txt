@@ -1,0 +1,109 @@
+100
+
+00 ohraničený 
+01 ohražený 
+02 Ohře 
+03 Ohří 
+04 ohro  
+05 ohromený
+06 ohromiti 
+07 ohromný  
+07 ohromnýě 
+08 ohroziti 
+09 ohrožený 
+10 ohrožený  prostor 
+11 ohrožovati 
+12 ohu 
+13 ohy 
+14 ohý 
+15 och 
+16 ochabovati 
+17 ochabnutí 
+18 ochablý
+18 ochable 
+19 oche 
+20 ochi 
+21 ochlazený 
+22 ocho
+23 ochota 
+24 ochotný  
+24 ochotně 
+25 ochrana 
+26 ochrana boku 
+27 ochrana doprovodem
+28 ochrana nepřímá 
+29 ochrana přímá 
+30 ochraňovati 
+31 ochranný 
+32 ochranná opatření 
+33 ochranná palba 
+34 ochranný prostředek 
+35 ochs 
+36 oi
+37 oj
+38 oja 
+39 oje 
+40 ojedinělý
+40 ojediněle
+41 ok 
+42 okamžik 
+43 okamžitě 
+44 okanžitý 
+45 okázalý
+45 okázale
+45 okázalost  
+46 oke 
+47 oké 
+48 oki 
+49 okl 
+50 oklamaný 
+51 oklamati
+52 okle 
+53 oklika 
+54 okno 
+55 oko 
+56 okolí 
+57 okolkovati 
+58 okolní 
+59 okolnost 
+60 okolo 
+61 okop 
+62 okou 
+63 okov 
+64 okr 
+65 okrádati 
+66 okradený 
+67 okraj 
+68 okraj lesa 
+69 vokraj esnice 
+70 okrasa 
+71 okrášliti 
+72 okrášlený 
+73 okre 
+74 okres 
+75 okresní 
+76 okresní hranice 
+77 okresní silnice 
+78 okresní úřad 
+79 okří 
+80 okřídlený 
+81 okro 
+82 okrou 
+83 okrouhlý
+83 okrouhle
+84 okrsek 
+85 okrskový 
+86 okruh 
+87 okruh činnosti 
+88 okruh působnosti 
+89 okruží 
+90 okt 
+91 oku 
+92 okupace 
+93 okupovati 
+94 okupovaný 
+95 ol 
+96 ola 
+97 old 
+98 ole 
+99 olej 

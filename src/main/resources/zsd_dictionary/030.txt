@@ -1,0 +1,105 @@
+030
+
+00 dojista 
+01 dojíti 
+02 dojížděti 
+03 dok 
+04 dokázaný 
+04 dokázaně
+05 dokazatelný 
+05 dokazatelně 
+06 dokázati 
+07 doklad 
+08 dokládati 
+09 doklady 
+10 dokonale 
+11 dokonalost 
+12 dokonalý 
+13 dokonati 
+14 dokonce 
+15 dokončený 
+16 dokončiti 
+17 doktor 
+18 doktor filosofie 
+19 doktor medicíny 
+20 doktor práv 
+21 doktor přírodních věd 
+22 doktor theologie 
+23 doktrína 
+24 dokud 
+25 dokument 
+26 dokumentovati 
+27 doky 
+28 dol 
+29 dolar 
+30 dole 
+31 doléhati 
+32 dolehnouti 
+33 dolejší 
+34 doli 
+35 dolina 
+36 dolní 
+37 Dolní Rakousy 
+38 dolno 
+39 dolnorakouský 
+40 dolovati 
+41 doložiti 
+42 doložka 
+43 dolů 
+44 doly 
+45 dom 
+46 doma 
+47 domácí 
+48 domácnost 
+49 domáhati se
+50 Domažlice 
+51 dome 
+52 domi 
+53 dominovati 
+54 domkář 
+55 domlouvati 
+56 domluva 
+57 domluviti 
+58 domnělý 
+59 domněnka 
+60 domnívám se že 
+61 domnívati se 
+62 domo 
+63 domobrana 
+64 domobranec 
+65 domobranecký 
+66 domoci se 
+67 domorodec 
+68 domorodý 
+69 domov 
+70 domovem 
+71 domovní 
+72 domovní prohlídka 
+73 domovník 
+74 domovské právo 
+75 domovský 
+76 domovský list 
+77 domu 
+77 domů
+78 domy 
+79 domýšleti se 
+80 domysliti se 
+81 domýšlivec 
+82 domýšlivý 
+83 don 
+84 dona 
+85 donašeč 
+86 donášeti 
+87 donésti 
+88 donucený 
+89 donucovací 
+90 donutiti 
+91 doopravdy 
+92 dop 
+93 dopad 
+94 dopadený 
+95 dopadnouti 
+96 dopátrati se 
+97 dopíditi se 
+98 dopis 
+99 dopis následuje 

@@ -1,0 +1,112 @@
+051
+
+00 chorvatský
+01 chot
+02 choť
+03 chou
+04 choulostivý 
+04 choulostivě
+05 choutka
+06 chov
+07 chovanec
+08 chování
+09 chovati se
+10 chr
+11 chra
+12 chrabrost
+13 chrabrý
+13 chrabře
+14 chrám
+15 chráněnec
+16 chráněný
+17 chránící
+18 chrániti
+19 chrániti se
+20 chre
+21 chře
+22 chri
+23 chři
+24 chřipka
+25 chrliti
+26 chrom
+27 chromová ocel
+28 chromý
+29 chronologický
+29 chronologicky
+30 chrt
+31 Chrzanov
+32 cht
+33 chta
+34 chtě
+35 chtěl
+36 chtěli
+37 chti
+38 chtíti
+39 chtivost
+40 chtivý
+40 chtivě
+41 chu
+42 chud
+43 chudoba
+44 chudobinec
+45 chudobný
+45 chudobně
+46 chudý 
+46 chudě
+47 chuch
+48 chum
+49 chur
+50 churavěti
+51 churavost
+52 churavý
+52 churavě
+53 Chust
+54 chut
+55 chuť
+56 chutnati
+57 chutný
+58 chůze
+59 chv
+60 chva
+61 chvalitebný
+62 chváliti
+63 chvalný 
+63 chvalně
+64 chvast
+65 chvátati
+66 chvatný
+66 chvatně
+67 chvěti se
+68 chvíle
+69 chvilka
+70 chvilkový
+71 chvilku
+72 chvo
+73 chy
+74 chý
+75 chyb
+76 chyba
+77 chyběti
+78 chybí
+79 chybiti
+80 chycený
+81 chybný
+81 chybně
+82 Chýrov
+83 chystati
+84 chytati
+85 chytiti
+86 chytlavý
+87 chytrák
+88 chytrost
+89 chytrý
+90 chyž
+91 
+92 
+93 
+94 
+95 
+96 
+97 
+98 
+99 

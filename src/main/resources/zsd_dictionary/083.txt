@@ -1,0 +1,103 @@
+083
+
+00 namítati 
+01 námitka 
+02 namítnouti 
+03 namluviti 
+04 namnoze 
+05 namočiti 
+06 námořní 
+07 námořnícký 
+08 námořníctvo 
+09 námořník 
+10 nan 
+11 nane 
+12 nanésti 
+13 nanic 
+14 nános 
+15 nanositi 
+16 nanovo 
+17 naopak 
+18 nap 
+19 nápad 
+20 napadnouti 
+21 napadení 
+22 nápadníctví 
+23 nápadník 
+24 napadnouti 
+25 nápadně 
+26 nápadný 
+27 napáliti 
+28 napětí 
+29 napiatá situace 
+30 napiatý 
+31 napiatý poměr 
+32 napínati 
+33 napínavý 
+34 nápis 
+35 náplast 
+36 náplň 
+37 naplniti 
+38 napnouti 
+39 napodobiti 
+40 nápoj 
+41 napolo 
+42 napomáhati 
+45 napomenouti 
+44 napomenutí 
+45 nápomocný 
+46 nápor 
+47 naposledy 
+48 napověděti 
+49 náprava 
+50 napravitelný 
+51 napraviti 
+52 napravo 
+53 napřed 
+54 napříč 
+55 naprosto 
+56 naprostý 
+57 naproti  
+58 naproti tomu
+59 napsaný 
+60 napsati
+61 nar 
+62 nář 
+63 nářadí 
+64 náramný 
+64 náramně 
+65 náraz 
+66 narážeti 
+67 naraziti 
+68 narážka 
+69 nárazový 
+70 nařčený 
+71 nářečí 
+72 nářek 
+73 naříditi 
+74 nařídil 
+75 naěídím 
+76 nařiďte 
+77 nařizuji 
+78 naříkati 
+79 nařízení 
+80 nařízený 
+81 nařizovací 
+82 naro 
+83 národ 
+84 naroditi se 
+85 narozený 
+86 národní 
+87 Národní Listy 
+88 Národní Osvobození 
+89 Národní Politika 
+90 Národní Shromáždění 
+91 Národní sjednocení 
+92 Národní socialisté 
+93 národnost 
+94 národnostní 
+95 národnostní otázka 
+96 národnostní poměry 
+97 národohospodářský 
+98 národohospodářství 
+99 národopisný 

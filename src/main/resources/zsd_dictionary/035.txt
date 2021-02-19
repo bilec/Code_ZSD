@@ -1,0 +1,120 @@
+035
+
+00 důsledkem 
+01 důslednost 
+02 důsledný
+02 důsledně
+03 dusno 
+04 dusný 
+04 dusně
+05 důstojnický 
+06 důstojnický čekatel 
+07 důstojnický sbor 
+08 důstojnictvo 
+09 důstojník 
+10 důstojník automob. vojska 
+11 důstojník dělostřelectva 
+12 důstojník duchovní 
+13 důstojník gen. štábu 
+14 důstojník intendantstva 
+15 důstojník jezdectva 
+16 důstojník letectva 
+17 důstojník pěchoty 
+18 důstojník pro plynovou služ. 
+19 důstojník služeb 
+20 důstojník telegrafního voj. 
+21 důstojník v záloze 
+22 důstojník ve výslužbě 
+23 důstojník z povolání 
+24 důstojník ženijního vojska 
+25 důstojný
+25 důstojně 
+25 důstojnost
+26 duše 
+27 duševní
+27 duševně 
+28 Düsseldorf 
+29 dut 
+30 dutina 
+31 dutink
+31 dutinka 
+31 dutinky 
+32 důtka 
+33 důtklivý 
+33 důtklivě  
+34 dův 
+35 důvěra 
+36 důvěřivý 
+36 důvěřivě
+37 důvěrná zpráva 
+38 důvěrné 
+39 důvěrné informace 
+40 důvěrné jednání
+41 důvěrník 
+42 důvěrnost 
+43 důvěrný 
+43 důvěrný
+43 důvěrně 
+44 důvěrný rozkaz 
+45 důvěrný spis 
+46 důvěřovati 
+47 důvěryhodný 
+47 důvěryhodně 
+48 důvod 
+49 důvodné podezření
+50 důvodný 
+50 důvodně
+51 důvtip
+52 důvtipný
+52 důvtipně
+53 duž 
+54 dv 
+55 dva 
+56 dve 
+57 dvě 
+58 dvéře 
+59 dvi 
+60 dvo
+61 dvoj
+62 dvojakost 
+63 dvojaký 
+64 dvojdílný 
+65 dvojení 
+66 dvojí 
+67 dvojiti 
+68 dvojité vedení 
+69 dvojitý
+69 dvojitě
+70 dvojjazyčný 
+71 dvojka 
+72 dvojmo 
+73 dvojnásobný  
+73 dvojnásobně
+74 dvojroj 
+75 dvojsmyslný 
+75 dvojsmyslně 
+76 dvojstup 
+77 dvor
+78 dvorec 
+79 dvořiti se 
+80 dvou 
+81 dvoudenní 
+82 dvoučlenný 
+83 dvoukolejná dráha 
+84 dvoulanová dráha 
+85 dvouletý 
+86 dvouměsíční 
+87 dvoupatrový 
+88 dvůr 
+89 dy 
+90 dý
+91 dých 
+92 dýchati 
+93 dychtivý 
+93 dychtivě
+94 Dyje
+95 dyk 
+96 dým 
+97 dýmná clona 
+98 dýmná střela 
+99 dýmné střely 

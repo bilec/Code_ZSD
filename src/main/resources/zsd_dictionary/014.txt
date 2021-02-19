@@ -1,0 +1,108 @@
+014
+
+00 bočný
+01 bočný útok
+02 bočný voj
+03 bod
+04 bodák
+05 bodákový útok
+06 bodati
+07 bodnouti
+08 Bodrog
+09 boh
+10 bohatý 
+10 bohatě
+11 Bohemia
+12 boho
+13 bohu
+14 bohudíky
+15 Bohumín
+16 bohužel
+17 boch
+18 Bochnia
+19 boj
+20 boj na široké frontě
+21 boj na zdrženou
+22 boje
+23 bojechtivý
+23 bojechtivě
+23 bojechtivost
+24 bojeschopný
+24 bojeschopnost
+25 boji
+26 bojiště
+27 bojkot
+28 bojkotovati
+29 bojová
+30 bojová činnost
+31 bojová jednotka
+32 bojové
+33 bojové pásmo
+34 bojové plyny
+35 bojové stanoviště
+36 bojově
+37 bojový
+38 bojový pochod
+39 bojový průzkum
+40 bojový terén
+41 bojový úsek
+42 bojovati
+43 bojovník
+44 bojovný
+44 bojovně
+45 bok
+46 bol
+47 bola
+48 bole
+49 bolest
+50 bolestný
+51 boleti
+52 bolševik
+53 bolševismus
+54 bom
+55 bomb
+56 bomba
+57 bombardovací
+58 bombardovací letectvo
+59 bombardovací nálet
+60 bombardování
+61 bombardovati
+62 bombový
+63 bon
+64 bor
+65 bora
+66 bord
+67 Bordeaux
+68 bore
+69 Boris
+70 bořiti
+71 bořivé práce
+72 boro
+73 boru
+74 bory
+75 bos
+76 Bosna
+77 boso
+78 bota
+79 boty
+80 bou
+81 bouda
+82 bourati
+83 bouře
+84 bouřiti se
+85 bouřlivý
+85 bouřlivě
+86 box
+87 bož
+88 boží
+89 boží muka
+90 br
+91 bř
+92 bra
+93 brada
+94 brak
+95 bran
+96 brána
+97 branec
+98 brániti
+99 brániti se

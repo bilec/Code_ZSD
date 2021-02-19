@@ -1,0 +1,147 @@
+089
+
+00 nepříčetný
+00 nepříčetně
+01 nepříhodný 
+01 nepříhodně  
+02 nepříjemný 
+02 nepříjemně
+02 nepříjemnost
+03 nepřijeti 
+04 nepřímá ochrana 
+05 nepřímá střelba 
+06 nepřímo 
+07 nepřímý 
+08 nepřípustný  
+08 nepřípustně
+09 nepřirozený  
+09 nepřirozeně
+10 nepříslušný 
+10 nepříslušně 
+11 nepřistoupiti 
+12 nepřítel 
+13 nepřítel je 
+14 nepřítel má
+15 nepřítel ohrožuje 
+16 nepřítel postupuje 
+17 nepřítel připravuje 
+18 nepřítel se 
+19 nepřítel se opevňuje 
+20 nepřítel se snaží 
+21 nepřítel ustupuje 
+22 nepřítel útočí 
+23 nepřítomnost 
+24 nepřítomný 
+25 nepřívěýivý 
+25 nepřívěýivě
+26 nepřízen 
+27 nepříznivý
+27 nepříznivě
+28 nepříznivý posudek 
+29 neprodleně 
+30 neprozřetelný 
+30 neprozřetelně
+31 ner 
+32 neř 
+33 nerad 
+34 neradno 
+35 neřest 
+36 nerovný  
+36 nerovně 
+37 nerozdílný 
+37 nerozdílně 
+38 nerozhodnost 
+39 nerozhodný  
+39 nerozhodně 
+40 nerozlučný  
+40 nerozlučně 
+41 nerozum 
+42 nerozunný 
+42 nerozunně
+43 nerozvážný 
+43 nerozvážně 
+44 nerv 
+45 nervosita 
+46 nervosní 
+46 nervosně
+47 nervy 
+48 nes 
+49 neš  
+50 nesamostatný 
+50 nesamostatně 
+51 nesčetný
+51 nesčetně 
+52 nesčíslný 
+52 nesčíslně 
+53 nesdílný 
+54 neshoda 
+55 neschopnost 
+56 neschopný 
+56 neschopně
+57 neschůdný 
+58 nesjízdný 
+59 neskonalý 
+59 neskonale 
+60 neskromný 
+60 neskromně 
+61 neslavný 
+61 neslavně 
+62 neslušný 
+62 neslušně 
+63 neslýchaný 
+63 neslýchaně 
+64 nesmělý
+64 nesmělě
+65 nesmí 
+66 nesmí se 
+67 nesmysl 
+68 nesnadný 
+68 nesnadně 
+69 nesnáz 
+70 nesnesitelný
+70 nesnesitelně 
+71 nesouhlas 
+72 nesouhlasiti 
+73 nesouhlasný 
+73 nesouhlasně
+74 nesouvislý  
+74 nesouvisle
+75 nespokojenost 
+76 nespokojený 
+76 nespokojeně
+77 nespolehlivost 
+78 nespolehlivý 
+78 nespolehlivě 
+79 nespořádaný  
+79 nespořádaně
+80 nesporný 
+80 nesporně
+81 nesprávnost 
+82 nesprávný 
+82 nesprávně
+83 nesrovnalost 
+84 nesrozumitelný 
+84 nesrozumitelně 
+85 nestálý 
+85 nestále
+86 nestáti 
+87 nestejný 
+87 nestejně  
+88 nésti 
+89 nestoudný  
+89 nestoudně
+90 nestranný  
+90 nestranně
+91 nesvár 
+92 nesvědomitost 
+93 nesvědomitý
+93 nesvědomitě
+94 nesvorný  
+94 nesvorně
+95 nešlechetný
+95 nešlechetně 
+96 nešťastný
+96 nešťastně
+97 nešťastnou náhodou 
+98 neštěstí 
+99 nešvar 

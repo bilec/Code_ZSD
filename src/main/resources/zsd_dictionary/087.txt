@@ -1,0 +1,112 @@
+087
+
+00 někde 
+01 někdo 
+02 někdy  
+03 neklamný 
+04 neklamný důkaz
+05 neklid 
+06 neklidný  
+06 neklidně
+07 někoho 
+08 několik 
+09 několikerý 
+10 někomu 
+11 nekonečný
+11 nekonečně 
+12 nekrytý  
+12 nekrytě
+13 některý 
+14 někudy 
+15 nel
+16 neleniti 
+17 nelibiti se 
+18 nelíčený 
+18 nelíčeně 
+19 nelidský 
+19 nelidsky 
+20 nelze 
+21 nelze pochybovati 
+22 nelze vyhověti 
+23 nem 
+24 ném 
+25 něm 
+26 nemá 
+27 nemá smyslu 
+28 nemajetný 
+29 nemálo 
+30 nemalý 
+31 nemám 
+32 nemáme 
+33 nemáte 
+34 nemají 
+35 němčina 
+36 Němci 
+37 Němec 
+38 německá 
+39 německá armáda 
+40 německá brigáda 
+41 německá divise 
+42 německá pěchota 
+43 německá pohr.stráž 
+44 německá vláda 
+45 německé 
+46 německé dělostřelectvo 
+47 německé hranice 
+48 německé jezdectvo 
+49 německé letadlo 
+50 německé letectvo  
+51 německé území
+52 německé vyslanectví 
+53 Německo 
+54 německý 
+55 německý děl.pluk 
+56 německý gen.štáb 
+57 německý jezd.pluk 
+58 německý konsulát 
+59 německý pěš.pluk 
+60 německý sbor 
+61 německý voj.attaché 
+62 německý vyzvědač 
+63 německý zběh 
+64 nemilý 
+64 nemile
+65 nemírný 
+65 nemírně 
+66 nemístný 
+66 nemístně 
+67 neníti 
+68 nemnoho 
+69 nemnohý 
+70 nemoc 
+71 nemocnice 
+72 nemocniční 
+73 nemocniční vlak 
+74 nemocný 
+75 nemohl 
+76 nemohou 
+77 nemohu 
+78 nemoudrý 
+79 nenovitost 
+80 nemožnost 
+81 nemožný  
+81 nemožně
+82 nemrav 
+83 němu 
+84 nemusí 
+85 nemusíte 
+86 němuž 
+87 nemůže 
+88 nemůžeme 
+89 nemůžete 
+90 němž 
+91 nen 
+92 něn 
+93 nedbalý 
+93 nedbale
+94 nenadání 
+95 nenahraditelný 
+96 nenápadně 
+97 nenápadný 
+98 nenapravitelný 
+99 nenáslyšný 

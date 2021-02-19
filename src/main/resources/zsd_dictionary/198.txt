@@ -1,0 +1,104 @@
+198
+
+00 zajímavost 
+01 zajímavý 
+02 zajisté 
+03 zajištění 
+04 zajištění boku 
+05 zajištění útoku 
+06 zajištěný 
+07 zajištěný pochod 
+08 zajištěná střelba 
+09 zajistiti 
+10 zajistiti se 
+11 zajistiti si 
+12 zajišťovací 
+13 zajišťovací čára
+14 zajišťovací nepř.jednotky 
+15 zajišťovací opatření 
+16 zajišťovací vazba 
+17 zajišťovati
+18 zajíti 
+19 zajížděti 
+20 zak 
+21 zákaz 
+22 zakázáno 
+23 zakázaný 
+24 zakázati 
+25 zakazovati 
+26 zakazuji 
+27 zákeřnícký 
+28 základ 
+29 zakladatel 
+30 zakládati 
+31 základna 
+32 základní 
+33 základní dotace 
+34 základní letiště 
+35 základní prov.výbava 
+36 zákon 
+37 zakončení 
+38 zakončený 
+39 zakončiti 
+40 zákoník 
+41 zákonitý 
+41 zákonitě 
+42 zákonodár 
+43 zákop 
+44 zákopnícká četa 
+45 zákopnícké družstvo 
+46 zákopnícký 
+47 zákopnictvo 
+48 zákopník 
+49 zákopový 
+50 zakořeněný 
+51 zakořeniti 
+52 zakoupený 
+53 zakoupiti 
+54 zakřiknouti 
+55 zakřiknutý 
+56 zakročení 
+57 zakročiti 
+58 zakročte 
+59 zákryt 
+60 zakrýti 
+61 zakrytý 
+62 zákulisí 
+63 zakusiti 
+64 zal 
+65 zaleknouti se 
+66 zaleknutý 
+67 zalepený 
+68 zalepiti 
+69 zálepka 
+70 zalesněný 
+71 zalesněný masiv 
+72 zalesněný terén 
+73 zalézti
+74 záležeti 
+75 záleží na 
+76 záležitost 
+77 záliba 
+78 zalíbiti se 
+79 záloha 
+80 záloha předních stráží 
+81 I. záloha
+82 II. záloha 
+83 zálohu 
+84 zálohy 
+85 založený 
+86 založiti 
+87 záložna 
+88 záložní 
+89 záložní dávka 
+90 záložní důstojník 
+91 záložní nemocnice 
+92 záložní součástky
+93 záložní útvar 
+94 záložník 
+95 záložníci 
+96 zálud 
+97 záludný 
+97 záludně 
+98 zam
+99 zama 

@@ -1,0 +1,106 @@
+117
+
+00 postrach
+01 postranní
+02 postrašiti
+03 postřeh  
+04 postřehnouti
+05 postřeliti 
+06 postří 
+07 postroj 
+08 postup 
+09 postup boje
+10 postupně 
+11 postupný
+12 postupný cíl
+13 1. postupný cíl  
+14 2. postupný cíl 
+15 3. postupný cíl 
+16 4. postupný cíl 
+17 5. postupný cíl 
+18 postupovati 
+19 postupový 
+20 postupový tvar
+21 posu 
+22 posud 
+23 posudek 
+24 posun 
+25 posuněk 
+26 posunouti 
+27 posunutý 
+28 posuzovaný 
+29 posuzovati 
+30 poš 
+31 pošetilý 
+32 poši 
+33 poškození 
+34 poškozený 
+35 pošlete 
+36 pošlý 
+37 pošta 
+38 poštěstiti se 
+39 poštou 
+40 poštovna 
+41 poštovní 
+42 poštovní doprava 
+43 poštovní holub 
+44 poštovní spojení 
+45 poštovní úřad
+46 poštvati 
+47 pot 
+48 potáceti se 
+49 potah 
+50 potahovati 
+51 potají 
+52 potápěč 
+53 pote 
+54 potěšení 
+55 potěšitelný 
+56 poti 
+57 potírati 
+58 potíž 
+59 potkati se 
+60 potlačený 
+61 potlačiti 
+62 potlouci 
+63 potloukati se 
+64 potměšilý
+64 potměšile
+65 poto 
+66 potok 
+67 potom 
+68 potomek 
+69 potomní
+70 potop 
+71 potopiti se 
+72 potrava 
+73 potraviny 
+74 potravní 
+75 potřeba 
+76 potřebí 
+77 potřeby 
+78 potřebný
+78 potřebně 
+79 potřebovati 
+80 potřebujeme 
+81 potrestaný 
+82 potrestati 
+83 potu 
+84 potud 
+85 potucha 
+86 potuchy 
+87 potulka 
+88 potulný 
+88 potulně
+89 potulovati se
+90 potupa 
+91 potupený 
+92 potupiti 
+93 potupný 
+93 potupně 
+94 potvrditi 
+95 potvrďte 
+96 potvrzuji 
+97 potvrzuji příjem
+98 potvrzení 
+99 potvrzení příjmu

@@ -1,0 +1,103 @@
+010
+
+00 ať si                 
+01 ata                  
+02 atak                 
+03 atakovaný            
+04 atakovati            
+05 ate                  
+06 atelier              
+07 atentát              
+08 Atheny               
+09 ati                  
+10 ation                
+11 ativ                 
+12 Atlantický oceán     
+13 atlet                
+14 atletický            
+15 atmosfera            
+16 atmosferický        
+17 atmosferická porucha     
+18 atn              
+19 ato                  
+20 atom                 
+21 átor                 
+22 atu                  
+23 aty
+23 atý                
+24 att                  
+25 attaché               
+26 au                   
+27 audience             
+28 auditor              
+29 auer                 
+30 aug                  
+31 augmentační          
+32 augmentační sklad         
+33 augmentační skladištsé    
+34 augmentační zásoby        
+35 aum                  
+36 aus                  
+37 aut                  
+38 autentický
+38 autenticky        
+39 auto                 
+40 auto nákladní           
+41 auto osobní             
+42 autobus              
+43 autokar 
+44 autokolona           
+45 automatický 
+45 automaticky       
+46 automobil            
+47 automobilisace       
+48 automobilisovaný
+49 automibilisovati
+50 automobilní
+51 automobilní dělo
+52 automobilní houfnice
+53 automobilní kanoe
+54 automobilní kolona
+55 automobilní moždIř
+56 automobilní oddíl
+57 automobilní prapor
+58 automobilní rota
+59 automobilní sklad
+60 automobilní služba
+61 automobilní správkárna
+62 automobilní učiliště
+63 automobilní vojsko
+64 automobilní zbrojovka
+65 autonom
+66 autor
+67 autorita
+68 aux
+69 av
+70 ava
+71 ave
+72 avi
+73 avia
+74 aviatický
+75 aviatika
+76 avion
+77 avisovati
+78 avo
+79 avšak
+80 avu
+81 avy
+82 ay
+83 az
+84 Az Est
+85 aza
+86 aze
+87 až
+88 až bude
+89 až do
+90 až do dalšího
+91 až do dalšího rozkazu
+92 až do konce
+93 až do odvolání
+94 až do příchodu.
+95 až osud
+96 až po
+97 ažio

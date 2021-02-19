@@ -1,0 +1,105 @@
+207
+
+00 zneuznaný 
+01 zneuznati 
+02 zneužíti 
+03 zneužitý 
+04 zneužívaný 
+05 zneužívati 
+06 zničení 
+07 zničený 
+08 zničiti 
+09 zničující 
+10 zno 
+11 Znojmo 
+12 znovu 
+13 zo 
+14 zobecnělý 
+15 zobraziti 
+16 zodpovědnost 
+17 zodpovědný 
+18 zodpovědným 
+19 zodpovídati 
+20 zodpovídati se 
+21 zorati 
+22 zorný 
+23 zosobniti 
+24 zostření 
+25 zostřený 
+26 zostřiti 
+27 zotaviti se 
+28 zou 
+29 zoufalství 
+30 zoufalý 
+30 zoufale 
+31 zoufati 
+32 zpaměti 
+33 zpáteční 
+34 zpátečnícký 
+35 zpátečník 
+36 zpátky 
+37 zpe 
+38 zpečetěný 
+39 zpečetiti 
+40 zpečovati se 
+41 zpeněžený 
+42 zpeněžiti 
+43 zpět 
+44 zpětný 
+45 zpětný pohyb 
+46 zpl 
+47 zplnomocnění 
+48 zplnomocniti 
+49 zpo
+50 zpod 
+51 zpověď 
+52 zpoždění 
+53 zpožděný
+53 zpožděně
+54 zpozdilý
+54 zpozdile 
+55 zpozditi se 
+56 zpozorovaný 
+57 zpozorovati 
+58 zpraccvání 
+59 zpracovati 
+60 zprav 
+61 zpráv 
+62 zpráva 
+63 zprávy 
+64 zpravený 
+65 zpravidla 
+66 zpraviti 
+67 zpravodaj 
+68 zpravodajská 
+69 zpravodajská činnost 
+70 zpravodajská hlídka 
+71 zpravodajská sběrna 
+72 zpravodajská skupina 
+73 zpravodajská ústředna 
+74 zpravodajské 
+75 zpravodajské oddělení 
+76 zpravodajské oddělení hl.št. 
+77 zpravodajské oddělení štábu 
+78 zpravodajské orgány 
+79 zpravodajské prostředky 
+80 zpravodajský 
+81 zpravodajský agent 
+82 zpravodajský důstojník 
+83 zpravodajský oddíl 
+84 zpravodajský orgán 
+85 zpravodajský plán 
+86 zpravodajský prostředek 
+87 zpravodajský referent 
+88 zpravodajský systém 
+89 zpravodajství 
+90 zprávu 
+91 zprávu zašlu 
+92 zprávu zašlete 
+93 zprávy 
+94 zprávy jsou 
+95 zprávy o nepříteli 
+96 zprávy zašlu 
+97 zprávy zašlete 
+98 zpře 
+99 zpří 

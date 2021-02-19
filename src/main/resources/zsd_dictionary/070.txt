@@ -1,0 +1,109 @@
+070
+
+00 lna 
+01 lněný 
+02 lni 
+03 lnouti 
+04 lo 
+05 loď 
+06 loděnice 
+07 loďkový most 
+08 lodní 
+09 lodní četa 
+10 lodní rota 
+11 loďstvo 
+12 loďstvo dunajské 
+13 loďstvo labské 
+14 loďstvo obchodní 
+15 loďstvo říční 
+16 loďstvo válečné 
+17 log 
+18 logický
+18 logicky
+19 logika 
+20 loj 
+21 lok 
+22 lokál 
+23 lokalisovaný 
+24 lokalisovati 
+25 lokální 
+25 lokálně
+26 loket 
+27 lokomobila 
+28 lokomotiva 
+29 lol
+30 lom 
+31 lombard 
+32 lomený 
+33 Ioniti 
+34 Lomnice 
+35 lomoz 
+36 lon 
+37 Londýn 
+38 londýnský 
+39 loni
+40 lonňký 
+41 lop 
+42 lor 
+43 lord 
+44 los 
+45 losovati 
+46 Iot 
+47 loterie 
+48 loterní 
+49 lotr 
+50 Lotrinsko 
+51 Lotyšsko 
+52 lotyšský 
+53 lou
+54 loučiti se 
+55 loudavý  
+55 loudavě
+55 loudavost
+56 louditi 
+57 louka 
+58 loupení 
+59 loupež 
+60 loupežný 
+61 loupiti 
+62 loutka 
+63 lov 
+64 lovec 
+65 loviti 
+66 loyalita 
+67 loyálně 
+68 loyální 
+69 lož 
+70 ložisko 
+71 lpíti na 
+72 lsk
+73 lstivý 
+73 lstivě
+73 lstivost
+74 lt
+75 lu
+76 Lublaň 
+77 Lublín 
+78 Iuč
+79 lučebnina 
+80 Lučenec 
+81 lud 
+82 ľudová strana 
+83 Ludvík
+84 Lugano 
+85 lůj 
+86 lupa 
+87 lupič 
+88 Lupkov 
+89 lue 
+90 luterán 
+91 lux 
+92 Luxenburg 
+93 luxus 
+94 luxusní  
+94 luxusně 
+95 lůza 
+96 Luzern 
+97 Lužice 
+98 lůžko
+99 lůžková slána 

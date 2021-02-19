@@ -1,0 +1,105 @@
+171
+
+00 udeřiti 
+0l udíleti 
+02 udivený 
+03 údobí 
+04 údolí 
+05 údolní 
+06 údolní přehrada 
+07 údolní rovina 
+08 udržeti se 
+09 udržovaný 
+10 udržovaná voz.cesta 
+11 udržovati 
+12 udržovati dotyk 
+13 udržovati spojení 
+14 udržovati styk 
+15 udu 
+16 udy 
+17 uh 
+18 uhádnouti 
+19 uhájený 
+20 uhájiti 
+21 uhasiti 
+22 uhe 
+23 uhé 
+24 úhel 
+25 uhelný 
+26 uher 
+27 uherský 
+28 Uherský Brod 
+29 Uherské Hradiště
+30 úhlavní
+31 uhlazený 
+31 uhlazeně 
+32 úhledný 
+32 úhledně 
+33 uhlí 
+34 uhlídati 
+35 uhlo 
+36 uhlohydrát 
+37 úhloměr 
+38 uhnati 
+39 uhnízditi se 
+40 uhnouti 
+41 uhoditi 
+42 uhodnouti 
+43 úhony 
+44 uhořeti 
+45 uhr 
+46 úhrada 
+47 uhraditi 
+48 uhražený 
+49 úhrn 
+50 úhrnem 
+51 uch 
+52 uchazeč
+53 ucházeti 
+54 uchlácholiti
+55 ucho 
+56 uchopiti 
+57 uchovati 
+58 uchrátiti 
+59 uchvátiti
+60 uchy
+61 uchý 
+62 úchylka  
+63 uchýliti se
+64 uchystati 
+65 uchytiti se 
+66 uj 
+67 uje 
+68 ujednati 
+69 ujednání 
+70 ujednaný 
+71 uješ 
+72 ujeti 
+73 újezd 
+74 uji 
+75 ují 
+76 ujímati še 
+77 ujištění 
+78 ujištěný 
+79 ujistiti 
+80 ujišťovati 
+81 ujíti 
+82 újma 
+83 ujmouti se 
+84 újmu 
+85 ujte 
+86 uk
+87 úkaz 
+88 ukazatel cesty 
+89 ukázati 
+90 ukázka 
+91 ukázněný 
+92 ukazovací
+93 ukazovatel 
+94 ukazovati 
+95 ukl
+96 úklad 
+97 ukládati 
+98 úkladný 
+98 úkladně
+99 úklid

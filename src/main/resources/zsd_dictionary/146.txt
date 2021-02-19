@@ -1,0 +1,109 @@
+146
+
+00 ská 
+01 skáceti 
+02 skákati 
+03 skála 
+04 skalnatý 
+05 skalnatý břeh 
+06 skalnatý svah 
+07 skalnatý terén
+08 skály 
+09 skandál 
+10 skandální  
+10 skandálně
+11 ske 
+12 ské 
+13 skelný 
+14 skeptický
+14 skepticky
+15 skeptik 
+16 ski 
+17 skizza 
+18 sklad 
+19 skládací 
+20 skládati 
+21 skládati se
+22 skladba 
+23 skladiště 
+24 skladné 
+25 skladník 
+26 skláněti 
+27 sklář 
+28 sklátiti 
+29 skle 
+30 skleněný 
+31 sklenice 
+32 sklep 
+33 sklepení 
+34 sklíčený 
+34 sklíčeně 
+35 sklíčenost 
+36 sklíčiti 
+37 skliditi 
+38 sklizeň 
+39 sklízeti 
+40 sklo 
+41 sklon 
+42 skloniti 
+43 sklopiti 
+44 sklopený 
+45 sklouznouti 
+46 skluz 
+47 sko 
+48 skoba 
+49 skok 
+50 skoliti 
+51 skom
+52 skon 
+53 skonati 
+54 skoncovati 
+55 skončení 
+56 skončený 
+57 skončiti 
+58 skonto 
+59 skontro 
+60 skop 
+61 skor 
+62 skoro 
+63 skositi 
+64 skot 
+65 skoupiti 
+66 skoupý 
+67 skráň 
+68 skřek 
+69 skříň 
+70 skřípěti 
+71 skrovný  
+71 skrovně 
+72 skrutinium 
+73 skrýš 
+74 skryt 
+75 skrýti se 
+76 skrytý  
+76 skrytě
+77 skrývati 
+78 skrze 
+79 sku 
+80 skulina 
+81 skupina 
+82 skupina domů 
+83 skupina stromů 
+84 skupinový 
+85 skupiti 
+86 skupovati 
+87 skupština 
+88 skutečně 
+89 skutečný 
+90 skutková podstata 
+91 skuek 
+92 skvělý
+92 skvěle  
+93 skvétati 
+94 skvost 
+95 skvostný 
+95 skvostně
+96 skvrna 
+97 skvrnitý 
+98 skvrnitý týf
+99 sky 

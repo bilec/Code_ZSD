@@ -1,0 +1,14 @@
+036
+
+00 dýmný 
+01 dýmný granát 
+02 dýmový 
+03 dynalkol 
+04 dynamit 
+05 dynamitový 
+06 dynamo 
+07 dynastie 
+08 dynastický 
+09 dz 
+10 dž 
+11 džbán

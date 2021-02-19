@@ -1,0 +1,106 @@
+052
+
+00 I
+01 i
+02 i
+03 i.
+04 ing. 
+05 í
+06 i když 
+07 i s 
+08 i v
+09 is
+10 ias 
+11 ib 
+12 ic
+13 ič
+14 ica 
+15 ice 
+16 ici 
+17 ick 
+18 ická 
+19 ické 
+20 ický 
+21 ických 
+22 ickým 
+23 id
+24 ida 
+25 ide 
+26 idea 
+27 ideál 
+28 idealista 
+29 idealní
+29 idealně
+30 ident 
+31 identifik 
+32 identifikace 
+33 identifikační 
+34 identifikační terč 
+35 identický 
+36 identita 
+37 ido 
+38 idyl 
+39 ie
+40 ier 
+41 Ignác 
+42 ignorant 
+43 ignorovati 
+44 ihned 
+45 ihned hlaste 
+46 ihned oznamte 
+47 ihned předložte 
+48 ihned vyřiďte 
+49 iho 
+50 ije 
+51 ik
+52 ika 
+53 iko 
+54 ikt
+55 il
+56 ila 
+57 ile 
+58 ilegální
+58 ilegálně 
+59 iletý 
+60 ili 
+61 ill 
+62 illoyální 
+63 iluse 
+64 ilusorní 
+65 ilustr 
+66 im 
+67 imi 
+68 imitace 
+69 imitovati 
+70 imp 
+71 imperial 
+72 imperialistický 
+73 impertinent 
+74 import 
+75 importovati 
+76 impregnovaný 
+77 improvisace 
+78 improvisovati 
+79 imun 
+80 imunita 
+81 in
+82 in bianco 
+83 in flagranti 
+84 ina 
+85 inač 
+86 indiskretní 
+86 indiskretně
+87 index 
+88 indisponovaný 
+89 indisposice 
+90 individualism 
+91 individuální
+91 individuálně  
+92 individuální obrana 
+93 individuum 
+94 indo 
+95 indolence 
+96 indolentní 
+97 ine 
+98 infekce 
+99 infekční 

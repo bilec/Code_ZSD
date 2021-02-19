@@ -1,0 +1,107 @@
+160
+
+00 šech 
+01 šek 
+02 šekový 
+03 šel 
+04 šepot 
+05 šeptati 
+06 šeplavý
+07 šer 
+08 šetřiti se 
+09 šerm 
+10 šermíř 
+11 šero 
+12 šest 
+13 šesti 
+14 šetrně 
+15 šetrnost 
+16 šetrný
+17 šetření 
+18 šetřiti 
+19 šev
+20 ši 
+21 ší
+22 Šiahy 
+23 Šiator 
+24 šibenice 
+25 šibeniční 
+26 šic 
+27 šicí 
+28 šič 
+29 šid 
+30 šiditi 
+31 šifra 
+32 šifrant 
+33 šifrovací 
+34 šifrovací stroj 
+35 šifrovaný 
+35 šifrovaně 
+36 šifrovaná depeše 
+37 šifrovaný dopis 
+38 šifrovaný telegram 
+39 šifrový 
+40 šifrový klíč 
+41 šifrový kod
+42 šik 
+43 šikem 
+44 šikmo
+45 šikmý
+46 šikmá palba 
+47 šil 
+48 šílenec 
+49 šílenost 
+50 šílený
+50 šíleně
+51 šiling 
+52 šíleti 
+53 šinouti 
+54 šíp 
+55 šipka 
+56 šipka fotografická 
+57 šipka meteorologická 
+58 šipka spojovací 
+59 šipka velitelská 
+60 šíře 
+61 šířený 
+62 šiŕitel 
+63 šířiti 
+64 šířka 
+65 široce 
+66 široko 
+67 široký 
+68 širší 
+69 širý 
+70 šiš 
+71 šíti 
+72 škaredý 
+72 škaredě 
+73 škoda 
+74 škoditi 
+75 škodlivý 
+76 škodovy závody 
+77 škola 
+78 školiti 
+79 školní 
+80 školský 
+81 školství 
+82 škor 
+83 škra 
+84 škraboška 
+85 škrob 
+86 škrtati 
+87 škrtiti 
+88 škrtnouti 
+89 škrtnutý 
+90 škůdce 
+91 šl
+92 šla 
+93 šlapati 
+94 šle 
+95 šlehnouti 
+96 šlechetný 
+96 šlechetně
+96 šlechetnost  
+97 šlechta 
+98 šlechtic 
+99 šlem 

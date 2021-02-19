@@ -1,0 +1,107 @@
+104
+
+00 ostřelovaní 
+01 ostřelovaný 
+02 ostřelovaný prostor 
+03 ostřelovati 
+04 ostři 
+05 Ostřihom 
+06 ostřiti 
+07 ostrov 
+08 ostrovní 
+09 ostru 
+10 ostrůvek 
+11 ostré střelba 
+12 ostrý 
+13 ostua 
+14 ostýchati se 
+15 osu 
+16 osud 
+17 osudný 
+17 osudně
+18 osv 
+19 osvědčiti se 
+20 osvětlení 
+21 osvětliti 
+22 osvětlovací 
+23 osvětlovaný 
+24 osvětlovati 
+25 osvěžiti 
+26 osví 
+27 osvobodí ti 
+28 osvojiti si 
+29 Oswięczim 
+30 osy 
+31 osý 
+32 oš 
+33 oša 
+34 ošáliti 
+35 oše 
+36 ošemetný 
+37 ošetřováni 
+38 ošetřovaný 
+39 ošetřovati 
+40 oši 
+41 ošiditi 
+42 ošklivý
+42 ošklivě 
+43 ošl 
+44 ošt 
+45 ošu 
+46 ošumělý 
+47 ot 
+48 Ota 
+49 otá 
+50 otáčeti 
+51 otálení 
+52 otáleti 
+53 otava 
+54 otázati se 
+55 otázka 
+56 otcovský 
+57 otcovství 
+58 ote 
+59 otec 
+6O otevřený 
+6O otevřeně
+6O otevřenost 
+61 otevříti 
+62 otěž 
+63 oti 
+64 otí 
+65 otisknutý 
+66 otl 
+67 oto 
+68 otočiti 
+69 otr 
+70 otřásti 
+71 otrava 
+72 otrávený 
+73 otráviti 
+74 otravný 
+75 otravný plyn 
+76 otře 
+77 otřesený 
+78 otři 
+79 otříti 
+80 otro 
+81 otrocký 
+82 otrok 
+83 otru 
+84 ott 
+85 otu 
+86 otupělý 
+86 otupěle
+87 otužilý 
+88 otvírati 
+89 otvor 
+90 otý
+91 ou 
+92 ouc 
+93 ov 
+94 ova 
+95 ová 
+96 ovace 
+97 oval 
+98 ovali 
+99 ován

@@ -1,0 +1,107 @@
+064
+
+00 kraj osady 
+01 krajan 
+02 krajně 
+03 krajní 
+04 krajský 
+05 krak 
+06 Krakov
+07 král 
+08 Kralovec 
+09 Královské Vinohrady 
+10 královský 
+11 krém 
+12 Kras 
+13 krása 
+14 Kraslice 
+15 krásný
+15 krásně 
+16 kraso 
+17 krásti 
+18 krát 
+19 krátce 
+20 krátiti 
+21 krátko 
+22 krátkost 
+25 krátkou cestou 
+24 krátkovlnný 
+25 krátkozraký
+26 krátký 
+27 kratší 
+28 krb 
+29 krč 
+30 kre 
+31 kredit 
+32 kreditovati 
+33 krejčí 
+34 Kremnica 
+35 Krens 
+36 kresliti 
+37 křeslo 
+38 křestní 
+39 křestní jméno 
+40 křestní list 
+41 křest. sociál 
+42 krev 
+43 krevní 
+44 kri 
+45 kři
+46 křičeti 
+47 křídelní 
+48 křídlo 
+49 křídlový
+50 křik 
+51 křiklavý 
+51 křiklavě
+52 křiknouti 
+53 krise 
+54 kritická situace 
+55 kritický 
+55 kriticky
+56 kritik 
+57 kritika 
+58 kritisovati
+59 křivda 
+60 křivditi 
+61 křivopřísežn 
+62 křivý 
+63 kříž 
+64 křížem 
+65 křížiti 
+66 křižovatka 
+67 křižovatka silnic 
+68 křižovatka silnice a voz. 
+69 křižovatka železnic 
+69 křižovatka cesty 
+70 křižovatka železnic a cesty 
+71 křižovatka železnic a silnice 
+72 křížový 
+73 křížová palba 
+74 krk 
+75 krkolomný
+75 krkolomně 
+76 Krkonoše 
+77 krm 
+78 krn 
+79 Krnov 
+80 kro 
+81 kroj 
+82 krok 
+83 krokem 
+84 kroků 
+85 kromě 
+86 kromě toho 
+87 kromě Vás 
+88 kronika 
+89 krot 
+90 krotiti 
+91 krotký 
+92 krou 
+93 kroužiti 
+94 krov 
+95 křoví 
+96 krs 
+97 krš 
+98 kru 
+99 kruh 

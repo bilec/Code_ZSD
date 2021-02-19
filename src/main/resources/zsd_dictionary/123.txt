@@ -1,0 +1,105 @@
+123
+
+00 prestyž 
+01 přesun 
+02 přesunouti 
+03 přesunový 
+04 přesvědčení 
+05 přesvědčený 
+06 přesvědčiti se 
+07 přeškrtati 
+08 přeškrtnut 
+09 přetáhnouti 
+10 prete 
+11 přetížení 
+12 přetížený 
+13 přetížiti 
+14 přetřes 
+15 přetrhnouti 
+16 přetrvati 
+17 přetržený 
+18 přetvářka 
+19 přetvařovati se 
+20 přetvořiti 
+21 převaha 
+22 převaha dělostřelectva 
+23 převaha letectva 
+24 převaha palby 
+25 převaha ve vzduchu 
+26 převážeti 
+27 převedení 
+28 převedený 
+29 preventivní 
+30 preventivní opatření 
+31 preventivní vazba 
+32 převésti 
+33 převézti 
+34 převezený 
+35 převládati 
+36 převládající 
+37 převod 
+38 převodní 
+39 převor 
+40 převoz 
+41 převozní 
+42 převozný 
+43 převozný holubník
+44 převozná kuchyně
+45 převrácený  
+46 převrat 
+47 převrátiti 
+48 převýšiti 
+49 převyšovati 
+50 převzatý 
+51 převzetí 
+52 převzíti 
+53 přez 
+54 přezdívka 
+55 přezimovati 
+56 přezkoušený 
+57 přezkoušeti 
+58 přežiti 
+59 přezvědy 
+60 přezvědný 
+61 přezvědná činnost 
+62 přezvědná hlídka 
+63 přezvědný oddíl 
+64 prehati 
+65 prchlivý 
+65 prchlivě 
+66 prchnouti 
+67 pri 
+68 primitívní 
+68 primitívně
+69 při 
+70 při tom 
+71 pří 
+72 příběh 
+73 přiběhhouti 
+74 Příbram 
+75 přibrati 
+76 přibraný 
+77 přiblížení 
+78 přiblížiti se 
+79 přibližně 
+80 přibližný 
+81 přibližný počet 
+82 přibližovací 
+83 přibližovací pochod 
+84 přibližovací tvar 
+85 přibližování 
+86 příboj 
+87 příbuzný 
+88 přibylý 
+89 příbytek 
+90 přibýti 
+91 přibývati 
+92 přič 
+93 příčína 
+94 příčí 
+95 přičiniti se 
+96 přičinlivý
+96 přičinlivě
+97 přičísti 
+98 příčiti se 
+99 příčka

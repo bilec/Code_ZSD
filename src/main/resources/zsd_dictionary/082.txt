@@ -1,0 +1,106 @@
+082
+
+00 nach 
+01 nacházeti 
+02 nacházeti se
+03 nachladiti ge 
+04 Náchod 
+05 náchylný 
+06 nai 
+07 naivně
+07 naivně
+07 naivnost 
+08 naj 
+09 najatý 
+10 nade 
+11 najednou 
+12 nájem 
+13 nájemník 
+14 nájezd 
+15 nají 
+16 najímati 
+17 najisto 
+18 najíti 
+19 najmouti 
+20 nak 
+21 nákaza 
+22 nakázati 
+23 nakaziti 
+24 nakažlivá nemoc 
+25 nakažlivý 
+26 náklad 
+27 nakládací 
+28 nakládací stanice 
+29 nakládání 
+30 nakládati 
+31 nakladatel 
+32 nakladatelství 
+33 nákladiště 
+34 nákladní 
+35 nákladní automobil 
+36 nákladní parník 
+37 nákladní vlak 
+38 nakle 
+39 nakli 
+40 naklo 
+41 nakloniti 
+42 náklonnost 
+43 nakoupený 
+44 nakoupiti 
+45 nákres 
+46 nákup 
+47 nakupení 
+48 nakupený 
+49 nakupiti 
+50 nakupiti se 
+51 nákupní 
+52 nákupní cena 
+53 nákupní pramen 
+54 nakupovati 
+55 nakvap 
+56 nal 
+57 nálada 
+58 naladiti 
+59 naléhati 
+60 naléhavost 
+61 naléhavý
+61 naléhavě 
+62 nalepiti 
+63 nálet 
+64 nalevo 
+65 nález 
+66 nalézati 
+67 nalézati se 
+68 nalezený 
+69 náleziště 
+70 nálezné 
+71 nalézti 
+72 náležeti 
+73 náležitost 
+74 náležitý 
+75 nali 
+76 nalíčený 
+77 nalíčiti 
+78 nalo 
+79 nálož 
+80 naložení 
+81 naložený 
+82 naložiti 
+83 nam 
+84 nám 
+85 námaha 
+86 namáhati 
+87 namáhati se 
+88 namáhavý 
+88 namáhavě
+89 namalovati 
+90 namátkou 
+91 namazati 
+92 náme 
+93 naměřiti 
+94 náměstí 
+95 námět 
+96 námezdní 
+97 námi 
+98 namířený 
+99 namířiti 

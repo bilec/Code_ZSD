@@ -1,0 +1,102 @@
+194
+
+00 W
+01 w
+02 w. 
+03 wa 
+04 wä 
+05 wab 
+06 wach 
+07 wad 
+08 waf 
+09 wag 
+10 wah 
+11 wahr 
+12 wahl 
+13 wai 
+14 waid 
+15 wal 
+16 wald 
+17 wall 
+18 welt 
+19 walz 
+20 wam 
+21 wan 
+22 wand 
+23 wap 
+24 Warszawa 
+25 vart 
+26 warte 
+27 was 
+28 wasser 
+29 wat 
+30 watt 
+31 way 
+32 we 
+33 weck 
+34 weg 
+35 wei 
+36 weil 
+37 wein 
+38 weiss 
+39 weit 
+40 weiz 
+41 wek 
+42 wen 
+43 wer 
+44 wes 
+45 west 
+46 wet
+47 wetz 
+48 wi
+49 wich 
+50 wick 
+51 Wickers 
+52 wid
+53 wie 
+54 Wien 
+55 Wiener 
+56 wig 
+57 wil 
+58 Tild 
+59 Wilsonovo nádraží 
+60 wir 
+61 wis 
+62 Wiszlok 
+63 wit 
+64 witz 
+65 wo 
+66 wob 
+67 woh 
+68 woch 
+69 wok 
+70 wol 
+71 wolf 
+72 wom 
+73 won 
+74 wor 
+75 wort 
+76 wos 
+77 wot 
+78 wr 
+79 wski 
+80 wu
+81 wü
+82 Würtenberg 
+83 Würzburg 
+84 wuss 
+85 wut
+86 wuz 
+87 wy
+88 
+89 
+90 
+91 
+92 
+93 
+94 
+95 
+96 
+97 
+98 
+99 

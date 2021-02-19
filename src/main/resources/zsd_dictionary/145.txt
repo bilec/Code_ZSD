@@ -1,0 +1,107 @@
+145
+
+00 sch 
+01 schema  
+02 schematický 
+02 schematicky 
+03 schematismus
+04 schladiti 
+05 schle 
+06 schli 
+07 schod 
+08 schodek 
+09 schopen 
+10 schopnost 
+11 schopný  
+11 schopně 
+12 schovati 
+13 schovávati 
+14 schránka 
+15 schůdný
+15 schůdně
+16 schůze 
+17 schůzka 
+18 schválení 
+19 schválený 
+20 schváliti 
+21 schválný 
+21 schválně 
+22 schvalovati 
+23 schvátiti 
+24 schýliti se 
+25 schylovati se 
+26 schytati 
+27 si 
+28 si 
+29 sice 
+30 sící
+31 sídelní 
+32 sidecar 
+33 sídliti 
+34 sídlo 
+35 sig 
+36 signál 
+37 signalisace 
+38 signalisační 
+39 signalisování 
+40 signalisovaný 
+41 signalísovati 
+42 signální 
+43 signální lampa 
+44 signální přístroj 
+45 signální vlajka 
+46 signální zařízení 
+47 signálový 
+48 sich 
+49 sil 
+50 síla 
+51 silný
+51 silně 
+52 síliti 
+53 silnice 
+54 silniční 
+55 silniční most 
+56 silniční příkop 
+57 silniční svršek 
+58 simulant 
+59 simulovati 
+60 simultanní 
+61 sin
+62 sín 
+63 sio 
+64 sioni 
+65 sípavý
+65 sípavě 
+66 sir 
+67 síra 
+68 sirka 
+70 sirotčí 
+71 sirotek 
+72 sit 
+73 síť
+74 síť bitevní 
+75 síť operační 
+76 sito 
+77 situace 
+78 situace nepřítele 
+79 situace nezměněna 
+80 situace u
+81 situace v 
+82 situace vlastní 
+83 situační 
+84 situační hlášení 
+85 situační plán 
+86 situační zpráva 
+87 situovaný 
+88 situovati 
+89 sivý 
+90 sjednati 
+91 sjednávati 
+92 sjednocení 
+93 sjednocený 
+94 sjednotiti 
+95 sjeti 
+96 sjezd 
+97 sjízdný 
+98 sjízdný pro 
+99 ska 

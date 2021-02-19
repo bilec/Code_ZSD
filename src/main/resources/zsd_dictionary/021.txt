@@ -1,0 +1,108 @@
+021
+
+00 Č
+01 č
+02 č.
+03 čís. 
+04 čj.
+05 čs.
+06 ča 
+07 čas 
+08 Čaca 
+09 čad 
+10 čaj 
+11 čak 
+12 čal 
+13 čam
+14 čap 
+15 čar 
+16 čára 
+17 čára hlavního odporu 
+18 čára odporu 
+19 čárapředních stráží 
+20 čarkovati 
+20 čarkovaný
+21 čaro 
+22 čarou 
+23 čáru 
+24 čas 
+25 čas odchodu 
+26 čas příchodu 
+27 časem 
+28 časně 
+29 časopis 
+30 časopisecký 
+31 časování 
+32 časovaný 
+33 časově 
+34 časový 
+35 část 
+36 částečná nobilisace 
+37 částečně 
+38 částečný 
+39 částka 
+40 často 
+41 častokrát 
+42 častý 
+43 častý případ 
+44 času
+45 če
+46 čeho 
+47 čehož 
+48 Čech
+49 Čechoslovák 
+50 Čechy 
+51 ček 
+52 čekací 
+53 čekám 
+54 čekám na další rozkazy  
+55 čekám na další zprávy
+56 čekárna 
+57 čekatel 
+58 čekati 
+59 čekejte 
+60 čel 
+61 čele 
+62 čelem 
+63 čeli 
+64 čeliti 
+65 čelní
+65 čelně 
+66 čelní oddíl 
+67 čelní palba 
+68 čelní útok 
+69 čelný
+69 čelně
+70 čelo 
+71 čemu 
+72 čenuž 
+73 čen 
+74 Čeněk 
+75 čep 
+76 čepice 
+77 čer 
+78 Černá Hora 
+79 Černé Moře 
+80 čeľni 
+81 černo 
+82 černobílý 
+83 Černovíce 
+84 černý 
+84 černě
+85 čerpati 
+86 čerstvě 
+87 čerstvé jednotky 
+88 čerstvé síly 
+89 čerstvý
+89 čerstvost 
+90 čert 
+91 červ
+92 červen 
+93 červenec 
+94 červeno 
+95 červenobílý 
+96 červený
+96 červeně
+97 červený kříž 
+98 čes 
+99 česká 

@@ -1,0 +1,111 @@
+048
+
+00 hran 
+01 hrana 
+02 hraní 
+03 hranice 
+04 hraničář 
+05 hraničářská 
+06 hraničářská rota 
+07 hraničářská techn. rota 
+08 hraničářský 
+09 hraničářský prapor 
+10 hraničiti 
+11 hraniční 
+12 hraniční čára 
+13 hraniční mohyla 
+14 hraniční strom 
+15 hraniční tabulka 
+16 hraniční značka 
+17 hráti 
+18 hravý
+18 hravě
+19 hráz 
+20 hrazení 
+21 hrazený 
+22 hrb 
+23 hrbatý 
+24 hřbet 
+25 hrbiti se 
+26 hřbitov 
+27 hrbol 
+28 hrdelní 
+29 hrdina 
+30 hrdiný 
+30 hrdině
+31 hrdinství 
+32 hrdlo 
+33 hrdost 
+34 hrdý
+34 hrdě 
+35 hre 
+36 hře 
+37 hřeb
+38 hřebčinec 
+39 hřebec 
+40 hřeben 
+41 hřešiti 
+42 hři 
+43 hří 
+44 hříbárna 
+45 hříšný  
+45 hříšně 
+46 hřív 
+47 hrk 
+48 hřmot 
+49 hřmotný
+49 hřmotně 
+50 hrn 
+51 hrnouti se 
+52 hro 
+53 hrob 
+54 hrob  neznámého vojína 
+55 hrobka 
+56 hrobový 
+57 hrom 
+58 hromada 
+59 hromaditi 
+60 hromaditi se 
+61 hromadný 
+61 hromadně
+62 hron 
+63 Hron 
+64 hrot 
+65 hrotiti 
+66 hrozba 
+67 hrozebně
+67 hrozebný
+68 hroziti 
+69 hrozný 
+69 hrozně 
+70 hrst 
+71 hrubá 
+72 hrubá houfnice
+73 hrubé 
+74 hrubé dělostřelectvo 
+75 hrubý 
+76 hrubý děl. pluk 
+77 hrubý kanon 
+78 hrubý oddíl 
+79 hruď
+80 hrudní 
+81 hruš 
+82 hrůza 
+83 hu 
+84 huba 
+85 hubený 
+86 Hubert 
+87 hubi 
+88 hubitel 
+89 hubiti 
+90 hubovati 
+91 huč 
+92 hudba 
+93 hudební 
+93 hudebně 
+94 hudebník 
+95 Hughes 
+96 hughesista 
+97 hughesovati 
+98 hughesový 
+99 hughesový aparát 

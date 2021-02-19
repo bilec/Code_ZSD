@@ -1,0 +1,109 @@
+152
+
+00 spojovací plán 
+01 spojovací příčka 
+02 spojovací prostředky  
+03 spojovací rota 
+04 spojovací služba 
+05 spojovací síť
+06 spojovací ustředna 
+07 spojovati 
+08 spokojený 
+09 spokojenost 
+10 spokojiti ae 
+11 spolčiti se 
+12 společenský 
+13 společně 
+14 společník 
+15 společnost 
+16 společnost národů 
+17 společný 
+18 společné průchodiště 
+19 spoléhati se 
+20 spolehlivá 
+21 spolehlivá osoba 
+22 spolehlivá zpráva 
+23 spolehlivé 
+24 spolehlivé informace 
+25 spolehlivé zprávy 
+26 spolehlivě 
+27 spolehlivý 
+28 spolehlivý poddůstojník 
+29 spolehlivý vojín 
+30 spolehlivost 
+31 spolek 
+32 spolknouti 
+33 spolkový 
+34 spolu 
+35 spolupráce 
+36 spon 
+37 spontanní 
+37 spontanně
+38 spor 
+39 spořádati 
+40 spoře 
+41 spoři 
+42 spořiti 
+43 spořivý  
+43 spořivě 
+44 sporný  
+45 sporý 
+46 sport 
+47 sportovní 
+48 spotřeba 
+49 spotřeba materialu 
+50 spotřeba střeliva 
+51 spotřební 
+52 spotřebovaný 
+53 spotřebovati 
+54 spousta 
+55 spouštěti 
+56 spoutati 
+57 spřáteliti se 
+58 správa 
+59 správce 
+60 spravedlivý  
+60 spravedlivě 
+61 spravedlnost 
+62 spraviti 
+63 správka 
+64 správkárna 
+65 správně
+66 správní 
+67 správnost 
+68 správný 
+69 spravovati 
+70 spre 
+71 spře 
+72 spřežení 
+73 spřežní 
+74 spřízněný 
+75 sproštění 
+76 sprostiti 
+77 sprošťovati
+78 sprostředkovaní 
+79 sprostředkovaný 
+79 sprostředkovany
+80 sprostředkovati 
+81 sprostý 
+81 sprostě
+82 sprovoditi 
+83 spustiti 
+84 spustlý 
+85 spustnouti 
+86 sr
+87 sra 
+88 sraz 
+89 sráz 
+90 srázný
+90 srázně 
+91 sraziti 
+92 srážka 
+93 Srb 
+94 Srbové 
+95 Srbochorvat 
+96 Srbsko 
+97 srbský 
+98 srdce 
+99 srdečný 
+99 srdečně 

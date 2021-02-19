@@ -1,0 +1,108 @@
+110
+
+00 poddaný 
+01 poddůstojník 
+02 poddůstojnícký 
+03 podejte 
+04 podejte zprávu  
+05 podejte vysvětlení
+06 poděkovati 
+07 podél 
+08 podél osy 
+09 podél potoka 
+10 podél silnice 
+11 podélná palba 
+12 podélný 
+13 podělený 
+14 poděliti 
+15 podepříti 
+16 podepsaný 
+17 podepsati 
+18 podezřele 
+19 podezřelý 
+20 podezření 
+21 podezřívati 
+22 podchytiti 
+23 podíl 
+24 podíti se 
+25 podiv 
+26 podívati se 
+27 podivný 
+27 podivně 
+28 podjezd 
+29 Podkarpatská Rus 
+30 podkarpatskoruský 
+31 podklad 
+32 podkop 
+33 podkopávati 
+34 podkopový 
+35 podkopový boj 
+36 podkova 
+37 podkovář 
+38 podlamovati 
+39 podle 
+40 podle doslechu
+41 podle došlé zprávy 
+42 podle informací 
+43 podle mého názoru 
+44 podle okolností 
+45 podle potřeby 
+46 podle rozkazu 
+47 podle toho 
+48 podle toho jak 
+49 podle všeho 
+50 podle zpráv 
+51 podle zpráv dodaných jezd. 
+52 podle zpráv dodaných let
+53 podléhati 
+54 podléhající 
+55 podlehnouti 
+56 podlomiti 
+57 podloudnícký 
+58 podloudník 
+59 podloudný 
+59 podloudně 
+60 podlouhlý
+60 podlouhle
+61 podložka 
+62 podložiti 
+63 podlý 
+63 podle
+64 podmanitel 
+65 podmaniti si 
+66 podmínečný 
+66 podmínečně
+67 podmíněný 
+68 podmíniti 
+69 podmínka 
+70 Podmokly 
+71 podmínky 
+72 podmořský 
+73 podnáčelník 
+74 podnáčelník hl.št.
+75 podnájem 
+76 podněcovatel 
+77 podněcovati 
+78 podnes 
+79 podnět 
+80 podnik 
+81 podnikati 
+82 podniknouti 
+83 podnikavý  
+83 podnikavě
+84 podnos 
+85 podo 
+86 podoba 
+87 podobati se 
+88 podobně 
+89 podobný 
+90 podotknouti 
+91 podotknutí 
+92 podpírati 
+93 podpis 
+94 podpis nečitelný
+95 podpisovati  
+96 podplacený
+97 podplatiti
+98 podplukovník  
+99 podplukovník gen.št. 

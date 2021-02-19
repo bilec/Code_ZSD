@@ -1,0 +1,99 @@
+003 
+
+00 osmdesátosm 
+01 osmdesátdevět
+02 devadesát  
+03 devadesátjedna 
+04 devadesátdva 
+05 devadesáttři 
+06 devadesátčtyři
+07 devadesátpět 
+08 devadesátšest 
+09 devadesátsedm 
+10 devadesátosm
+11 devadesátdevět 
+12 sto 
+13 set
+14 jedno sto
+15 dvě stě
+16 tři sta 
+17 čtyři sta 
+18 pět set 
+19 šest set 
+20 sedm set
+21 osm set
+22 devět set 
+23 tisíc 
+24 tisíce 
+25 jeden tisíc 
+26 dva tisíce 
+27 tři tisíce 
+28 čtyři tisíce 
+29 pět tisíc 
+30 šest tisíc
+31 sedm tisíc 
+32 osm tisíc  
+33 devět tisíc 
+34 deset tisíc
+35 milion 
+36 milionů 
+37 miliony 
+38 miliard 
+39 miliarda 
+40 1.
+41 2.
+42 3.
+43 4.
+44 5.
+45 6.
+46 7.
+47 8.
+48 9.
+49 10.
+50 11. 
+51 12. 
+53 14.
+54 15. 
+55 16.
+56 17.
+57 18.
+58 19.
+59 20.
+60 21.
+61 22.
+62 23.
+63 24.
+64 25.
+65 26.
+66 27.
+67 28.
+68 29.
+69 30.
+70 31.
+71 předch.číslo čti kako řadové
+72 ledna
+73 února
+74 března
+75 dubna
+76 května
+77 června
+78 července
+79 srpna
+80 září
+81 října 
+82 listopadu
+83 prosince
+84 I.
+85 I./
+86 II.
+87 II./
+88 III.
+89 III./
+90 IV
+91 V
+92 VI
+93 VII
+94 VIII
+95 IX
+96 X
+97 předch.číslo čti kako římské

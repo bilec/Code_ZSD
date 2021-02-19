@@ -1,0 +1,110 @@
+034
+
+00 dro 
+01 drobně 
+02 drobno 
+03 drobný 
+04 drog 
+05 drogerie 
+06 drogista 
+07 Drohobyez 
+08 drožka 
+09 drožkář 
+10 drs 
+11 drsný
+11 drsně 
+12 drt 
+13 dru 
+14 druh 
+15 druh zbraně 
+16 druhá posice 
+17 druhé 
+18 druhé odd. hlav. štábu 
+19 druhé odd. štábu 
+20 druhého 
+21 druhého dne 
+22 druhopis 
+23 druhý 
+24 druhý mob. den 
+25 druhý sled 
+26 druž 
+27 družina 
+28 družiti se 
+29 družný
+29 družně 
+29 družnost 
+30 družstevní 
+31 družstvo 
+32 drv 
+33 dry 
+34 dryáčník 
+35 drz 
+36 drzý
+36 drze 
+37 drž 
+38 država 
+39 držba 
+40 držeti 
+41 držeti se 
+42 držitel 
+43 ds
+44 dt
+45 du
+46 dualismus 
+47 dualistický 
+48 dub 
+49 duben 
+50 dubový 
+51 Dubrovník 
+52 duh 
+55 duch 
+54 duchaplný 
+54 duchaplně
+55 duchapřítomný  
+55 duchapřítomně
+56 duchapřítomnost 
+57 Duchcov 
+58 důchod 
+59 důchodní 
+60 duchovenstvo 
+61 duchovní 
+62 duchovní správa 
+63 dukát 
+64 důkaz 
+65 důkaz pravdy 
+66 důkladně 
+67 důkladnost 
+68 důkladný 
+69 důl 
+70 důležitá zpráva 
+71 důležitost 
+72 důležitý 
+73 dům 
+74 dum—dum 
+75 dumping 
+76 důmysl 
+77 důmyslný 
+77 důmyslně 
+78 dun 
+79 Dunaj 
+80 Dunajec 
+81 dunajské předmostí 
+82 dunajský 
+83 dup 
+84 duplikát 
+85 dur 
+86 důraz 
+87 důrazný 
+87 důrazně 
+88 Durazzo 
+89 durditi se 
+90 dus 
+91 dusičnan 
+92 dusičnatý 
+95 dusičník 
+94 dusičný 
+95 dusík 
+96 dusiti 
+97 dusivý 
+98 dusivý plyn 
+99 důsledek

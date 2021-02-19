@@ -1,0 +1,105 @@
+159
+
+00 sypati 
+0l sýpka 
+02 sypký 
+05 sýr 
+04 syrový 
+05 sys 
+06 systém 
+07 systematický
+07 systematicky  
+08 systemisace 
+09 systemisovaný 
+10 systemisovati 
+11 syt 
+12 Sytno 
+13 sytý 
+14 sz
+15 sza 
+16 Szatmár—Németi 
+17 sze 
+18 Szeged 
+19 Székesfehérvár 
+20 szent 
+21 Szerencs 
+22 szi 
+23 Szigetvár 
+24 szo
+25 Szolnok 
+26 Szombathely 
+27 szu 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62 
+63 
+64 
+65 
+66 
+67 
+68 
+69 
+70 Š 
+71 š
+72 š. 
+73 ša 
+74 šablona  
+75 šablonovitý 
+75 šablonovitě
+76 šafář 
+77 šach 
+78 šachovitý 
+78 šachovitě
+79 šak 
+80 šal 
+81 šálení 
+82 šáliti 
+83 šam
+84 šanorýn 
+85 šan 
+86 šarvétka 
+87 šarže 
+88 šat 
+89 šátek 
+90 šatiti 
+91 šatlava 
+92 šatna 
+93 šavle
+94 še 
+95 šed 
+96 šedivý
+96 šedivě
+97 šedý 
+98 šéf 
+99 šeflékař 

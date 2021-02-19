@@ -1,0 +1,104 @@
+075
+
+00 mezník 
+01 Mezövári 
+02 mi 
+03 míč 
+04 mie 
+05 mih 
+06 Mihály 
+07 mich 
+08 Michal 
+09 míchati 
+10 níjeti 
+11 mik 
+12 mikro 
+13 Mikuláš 
+14 mil 
+15 milá 
+16 Milán 
+17 mile 
+18 míle 
+19 mili 
+20 miliard 
+21 milice 
+22 miliční 
+23 milion 
+24 milionář 
+25 militarismus 
+26 militarisovaný 
+27 militarisovati 
+28 militaristický 
+29 milo 
+30 milsrdný 
+30 milsrdně 
+31 milost 
+32 milostivý 
+33 milovati 
+34 Mílovice 
+35 milovník 
+36 mimo 
+37 mimo službu 
+38 mimo to 
+39 mimochodem 
+40 mimořádná 
+41 mimořádně 
+42 mimořádné 
+43 mimořádné opatření 
+44 mimořádný 
+45 mimovolný  
+45 mimovolně
+46 min 
+47 míň 
+48 mina 
+49 mince 
+50 mincovna 
+51 mínění 
+52 minerál 
+53 minerální voda 
+54 miniatur 
+55 minimálně 
+56 minimální 
+57 minimum 
+58 ministerská
+59 ministerská rada
+60 ministerské 
+61 ministerské presidium 
+62 ministerský 
+63 ministerský předseda 
+64 ministerský uředník 
+65 ministerstvo
+66 ministerstvo honvédů 
+67 ministerstvo financí 
+68 ministerstvo letectví 
+69 ministerstvo námořníctví 
+70 ministerstvo národ.obrany 
+71 ministerstvo obchodu 
+72 ministerstvo pošt a telegr. 
+73 ministerstvo spravedlnosti 
+74 ministerstvo sociál.péče 
+75 ministerstvo války 
+76 ministerstvo veřejných prací 
+77 ministerstvo vnitra 
+78 ministerstvo vojenství 
+79 ministerstvo vyučování 
+80 ministerstvo zahran.věcí 
+81 ministerstvo zásobování 
+82 ministerstvo zdravotnictví 
+83 ministerstvo zemědělství 
+84 ministerstvo železnic 
+85 ministr 
+86 ministr národní obrany 
+87 ministr války 
+88 ministr vnitra 
+89 ministr vojenství 
+90 ministr zahran.věcí 
+91 míniti 
+92 minomet 
+93 minorita 
+94 minoritní 
+95 minoritní návrh 
+96 minouti 
+97 minová 
+98 minová četa 
+99 minová rota

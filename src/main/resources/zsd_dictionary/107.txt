@@ -1,0 +1,107 @@
+107
+
+00 panství 
+01 panující 
+02 pap 
+03 papež 
+04 papír 
+05 papírový 
+06 paprsek 
+07 par 
+08 pár 
+09 pára 
+10 parabol 
+11 parafa 
+12 parafovati 
+13 paragraf 
+14 paralela 
+15 paralelní  
+15 paralelně 
+16 Pardubice 
+17 pari 
+18 parita 
+19 paritní 
+20 park 
+21 Parkáň 
+22 parlament 
+23 parlamentář 
+24 parlamentní 
+25 parník 
+26 parno 
+27 parný 
+28 paro 
+29 paroplavba 
+30 parta 
+31 parte 
+32 parter 
+33 participovati 
+34 partie 
+35 paruka 
+36 Paříž 
+37 pařížský 
+38 pas 
+39 pás 
+40 pase 
+41 paseka 
+42 pasivita 
+43 pasívní 
+44 pasívní obrana 
+45 pásmo 
+46 pásmo činnosti 
+47 pásmo hlavního odporu 
+48 pásmo střední 
+49 pásmo záchytné 
+50 pásno zanořené plynem 
+51 pasový 
+52 past 
+53 pastor 
+54 pastvina 
+55 paša 
+56 paší 
+57 pat 
+58 pata 
+59 páteční 
+60 pátek 
+61 patent 
+62 patentovati 
+63 patentovaný 
+64 patero 
+65 paterý 
+66 páteř 
+67 patisk 
+68 pátrač 
+69 pátrač dělostř.  
+70 pátrání 
+71 pátrati 
+72 pátravý 
+73 patriarcha 
+74 patriotický 
+74 patrioticky 
+75 patriotismus 
+76 patřící 
+77 patřičný 
+77 patřičně 
+78 patřiti 
+79 patrně 
+80 patrný 
+81 patero 
+82 patron 
+83 pátý 
+84 paušál 
+85 paušální 
+85 paušálně 
+86 pav 
+87 pavilon 
+88 paz 
+89 paž
+90 pe 
+91 pec
+92 péče
+93 pečeť 
+94 pečetiti 
+95 pečlivý 
+95 pečlivě 
+96 pečovati 
+97 Pécs 
+98 pedant 
+99 pěchota 

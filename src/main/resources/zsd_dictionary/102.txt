@@ -1,0 +1,107 @@
+102
+
+00 opevňovací 
+01 opevňovací práce
+02 opevňovati
+03 opi 
+04 opírati se 
+05 opis 
+06 opisovati 
+07 opodál 
+08 opoj 
+09 opol 
+10 opomíjeti 
+11 opominouti 
+12 oponenutí 
+13 opomenut 
+14 opona 
+15 opor 
+16 opora 
+17 opos 
+18 oposice 
+19 oposiční 
+20 oposičník 
+21 opot 
+22 opotřebení 
+23 opotřebovati 
+24 opouštěti 
+25 opovážiti 
+26 opovážlivý 
+27 opovrhovati 
+28 opovržení 
+29 opovržený 
+30 opovržlivý 
+30 opovržlivě 
+31 opoždění
+32 opožděný 
+33 opozdilec 
+34 opozditi se 
+35 opr 
+36 oprá 
+37 oprav 
+38 oprava 
+39 opravdivý
+39 opravdivě
+40 opravdu 
+41 opravený 
+42 opraviti 
+43 opravovati 
+44 oprávněný 
+45 opravnovati 
+46 opravný 
+47 opravte 
+48 opre 
+49 opři 
+50 opříti se 
+51 ops 
+52 opsati 
+53 opsaný 
+54 opt 
+55 optatí se 
+56 optický  
+56 opticky
+57 optické spojeni 
+58 optlnisnus 
+59 optimista 
+60 optimistický
+60 optimisticky
+61 opu 
+62 opustiti 
+63 opuštšný 
+64 or
+65 oř 
+66 ora 
+67 Orava 
+68 ord 
+69 ordinace 
+70 ordinační 
+71 ordonanční
+72 ordonanční důstojník 
+73 ordonanční jezdec 
+74 ordre de bataille 
+75 ore 
+76 oře 
+77 orel 
+78 org 
+79 orgán 
+80 organismus 
+81 organieký 
+81 organieky 
+82 organisace 
+83 organisace spojení 
+84 organisace styku
+85 organisačně 
+86 organisační 
+87 organisační oddělení 
+88 organisovati 
+89 organisovati se
+90 organisovaný 
+91 organisovaná posice 
+92 ori 
+93 oři 
+94 orient 
+95 orientace 
+96 orientační 
+97 orientování 
+98 orientovaný 
+99 orientovati se 

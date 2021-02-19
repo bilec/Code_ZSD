@@ -1,0 +1,107 @@
+126
+
+00 přistihnouti 
+01 přistižený 
+02 přistoupiti 
+03 přístřeší 
+04 přístroj 
+05 přistrojený   
+06 přistrojiti
+07 přístup 
+08 přístupný 
+09 přistupovati
+10 přisunouti 
+11 přisunutý 
+12 přisuzovati 
+13 přisouzený 
+14 přisvědčovati 
+15 přisvojovati si 
+16 přisvojení 
+17 příšerný 
+18 přišlý 
+19 příště 
+20 příští 
+21 přitahovati 
+22 přítel 
+23 přítěž 
+24 přitěžovati 
+25 přitěžující 
+26 přitěžující okolnost 
+27 příti se 
+28 přitížiti 
+29 přitlačiti 
+30 přítmí
+31 přítomnost 
+32 přítomný 
+32 přítomně 
+33 přítrž 
+34 přiučiti se 
+35 přivábený 
+36 přiváděti 
+37 příval 
+38 privátní 
+38 privátně 
+39 přivázati 
+40 přivážeti 
+41 přivedený 
+42 přívěsný 
+43 přivésti 
+44 přivětivý
+44 přivětivě
+45 přivézti
+46 přivezený
+47 přivítati
+48 přivítaný 
+49 privileg  
+50 přivlastniti si
+51 přivléci 
+52 přivoditi 
+53 přivolati 
+54 přivolaný 
+55 přivoliti 
+56 přívoz 
+57 přivrácený svah 
+58 přívrženec 
+59 přivtěliti 
+60 přivyknouti 
+61 příze 
+62 přízemí 
+63 přízemní 
+64 přízeň 
+65 přiznačný 
+66 příznak 
+67 přiznání 
+68 přiznaný 
+68 přiznaně 
+69 přiznati 
+70 přiznati se 
+71 příznivý 
+72 příznivec 
+73 přizpůsobiti
+74 přizpůsobiti se 
+75 přizpůsobený 
+76 přízvuk 
+77 příživník 
+78 prk 
+79 prkno 
+80 pro 
+81 pro případ 
+82 prob 
+83 probíhá 
+84 probíhati 
+85 probíti se 
+86 problém  
+87 problematický
+87 problematicky
+88 probo 
+89 probrati 
+90 probuditi 
+91 probuzený
+92 procent 
+93 procento 
+94 proces 
+95 proč  
+96 pročež
+97 pročísti 
+98 prodaný
+99 prodati

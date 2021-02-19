@@ -1,0 +1,113 @@
+172
+
+00 uklízeti 
+01 uko 
+02 ukojiti 
+03 úkol 
+04 úkoly 
+05 úkoly dělostřelectva 
+06 úkoly letectva 
+07 úkoly žen.vojska 
+08 úkon 
+09 ukončení 
+10 ukončený 
+11 ukončiti 
+12 úkor 
+13 ukořistiti 
+14 ukořistěný 
+15 ukořistěný material 
+16 ukou 
+17 ukr 
+18 ukrácený 
+19 ukradený 
+20 ukrásti 
+21 ukrátiti 
+22 ukřivditi 
+23 ukrutný
+23 ukrutně  
+24 úkryt 
+25 ukrýti 
+26 ukrytý 
+27 ukvapenost 
+28 ukvapený 
+28 ukvapeně 
+29 ukvapiti se 
+30 ul
+31 ula 
+32 ulán 
+33 ule 
+34 ulehčiti 
+35 ulehnouti 
+36 uleknouti se 
+37 uletěti 
+38 uleviti 
+39 úleva 
+40 uli 
+41 ulice 
+42 uliční 
+43 úlisný 
+43 úlisně
+43 úlisnost 
+44 uloha 
+45 uloha dělostřelectva 
+46 úlomek 
+47 ulomiti 
+48 uloupený 
+49 uloupiti 
+50 uložený 
+51 uložiti 
+52 ultimatum 
+53 ultra 
+54 um 
+55 ům
+56 uma
+57 umdlení 
+58 umdlenost 
+59 umdlévati 
+60 umělec 
+61 umělý 
+61 uměle 
+62 umělá mlha 
+63 umění 
+64 umenšiti 
+65 úměrný 
+65 úměrně
+66 uměti
+67 umí
+68 umíněný
+68 umíněně 
+68 umíněnost
+69 umíniti si 
+70 umírati 
+71 umírněný 
+72 umirniti 
+73 umístění 
+74 umístění kulonetů 
+75 umístěný 
+76 umístiti 
+77 umlčený 
+78 umlčeti 
+79 umlčovací palba 
+80 umlčování 
+81 umlčovati 
+82 umlknouti 
+83 umlklý 
+84 úmluva 
+85 umluviti se 
+86 úmor 
+87 úmorný
+87 úmorně 
+88 umožnění 
+88 umožněný 
+89 umožniti 
+90 umříti 
+91 úmrtí 
+92 úmrtní 
+93 úmysl 
+94 úmysl nepřítele 
+95 úmysl velitele 
+96 úmyslem 
+97 úmyslný
+97 úmyslnĚ
+98 un 
+99 una 

@@ -1,0 +1,110 @@
+182
+
+00 vine 
+01 vini  
+02 vinice
+03 viniti 
+04 vinník
+05 vinný 
+06 víno 
+07 vinouti se 
+09 vír 
+10 víř 
+11 víra 
+12 vířiti 
+13 vis
+14 vis major 
+15 visa 
+16 viseti 
+17 visum 
+18 vit 
+19 vít 
+20 vítaný 
+21 vítati 
+22 vítěz 
+23 vítěziti 
+24 vítězný 
+24 vítězně  
+25 vítězství 
+26 vítr 
+27 vitý 
+28 viz 
+29 vjeti 
+30 vjezd 
+31 vjížděti 
+32 vklad 
+33 vkládati 
+34 vklouznouti 
+35 vkrásti se 
+36 vkročiti 
+37 vkus 
+38 vkusný 
+38 vkusně
+39 vláda 
+40 vladař 
+41 vládní 
+42 vládnouti 
+43 vlahý 
+44 vlajka 
+45 vlak 
+46 vlas 
+47 Vlárský průsmyk 
+48 vlast 
+49 vlastenec 
+50 vlastenecký 
+50 vlastenecky
+51 vlastizrada 
+52 vlastně 
+53 vlastní 
+54 vlastní jednotky 
+55 vlastní situace 
+56 vlastní vojska 
+57 vlastníctví 
+58 vlastnoručně 
+58 vlastnoruční
+59 vlastnost 
+60 vlasy 
+61 vlažný 
+61 vlažně
+61 vlažnost 
+62 vlčí 
+63 vléci 
+64 vlečný 
+65 vlečný vůz 
+66 vlek 
+67 vlevo 
+68 vlézti 
+69 vlhký 
+70 vlídný
+70 vlídně 
+71 vlíti 
+72 vliv 
+73 vlivný 
+73 vlivně 
+74 vlk 
+75 vlna 
+76 vlněný 
+77 vlniti 
+78 vlnitý 
+79 vloha 
+80 vlouditi se 
+81 vloupati se 
+82 vložiti 
+83 vložka 
+84 Vltava 
+85 vltavský 
+86 vměstnati 
+87 vmísiti 
+88 vmysliti se 
+89 vna 
+90 vne 
+91 vně 
+92 vnějšek
+93 vnější
+94 vnésti 
+95 vni 
+96 vniknouti
+97 vnímati 
+98 vnímavý 
+98 vnímavě 
+99 vnitro 

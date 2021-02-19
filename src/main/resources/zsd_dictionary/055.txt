@@ -1,0 +1,108 @@
+055
+
+00 J
+01 j
+02 j.
+03 J.U.Dr.
+04 ja
+05 já
+06 jab 
+07 jabl 
+08 Jabloné 
+09 Jablunkov 
+10 jad 
+11 jadrný 
+11 jadrně 
+12 jádro 
+13 Jager 
+14 jachta 
+15 Jáchymov
+16 jak 
+17 jak se
+18 jaká 
+19 jaké 
+20 jalmile 
+21 jako 
+22 jakoby 
+23 jakost 
+24 jaký 
+25 jakýkoliv 
+26 jakýsi 
+27 jal 
+28 jam 
+29 jáma 
+30 jan 
+31 Jan 
+32 Janeček 
+33 Japonec 
+34 Japonsko 
+35 japonský 
+36 jar 
+37 jař 
+38 jarní 
+39 jaro 
+40 Jaroslav 
+41 jas 
+42 Jasina 
+43 jasně 
+44 jasnost 
+45 jasný 
+46 Jassy
+47 Jászberény 
+48 jat
+49 jatečný dobytek 
+50 jatky
+51 jatý 
+52 jav
+53 javor 
+54 Javořina 
+55 Javorník 
+56 jaz
+57 jazyk
+58 jda
+59 jde
+60 jdu 
+61 je
+62 je na 
+63 je nutno 
+64 je to 
+65 je třeba 
+66 je záhodno 
+67 je zde 
+68 ječ 
+69 jed 
+70 jede 
+71 jeden 
+72 jedenkrát 
+73 jediný
+73 jedině 
+74 jedl 
+75 jedna 
+76 jednací 
+77 jednací řád 
+78 jednak 
+79 jednání 
+80 jednatel 
+81 jednati 
+82 jedná se o 
+83 jednejte 
+84 jedním 
+85 jedno 
+86 jednobarevný 
+87 jednodenní 
+88 jednoduché vedení 
+89 jednoduchý 
+90 jednoďuše 
+91 jednohlasný 
+91 jednohlasně 
+92 jednokolejný 
+93 jednokolejná dráh 
+95 jednorázový
+94 jednomyslný 
+94 jednomyslně 
+95 jednorázový 
+96 jednoroční 
+97 jednotvárný 
+97 jednotvárně
+98 jednota
+99 jednotiti

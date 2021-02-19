@@ -1,0 +1,108 @@
+045
+
+00 historka 
+01 hit 
+02 hl
+03 hla
+04 hlad 
+05 hladký 
+05 hladce
+06 hlas 
+07 hlasatel 
+08 hlásati 
+09 hlášení 
+10 hlášený 
+11 hlásím 
+12 hlásiti 
+13 hlásiti se 
+14 hlasitý 
+14 hlasitě 
+15 hláska 
+16 hlásná služba 
+17 hlásný 
+18 hlasovati 
+19 hlaste 
+20 hlaste ihned 
+21 hlaste proč 
+22 hlaste telegraficky 
+23 hlav 
+24 hlava 
+25 hlaveň 
+26 hlavně 
+27 hlavní 
+28 hlavní cíl 
+29 hlavní nápor 
+30 hlavní obranné postavení 
+31 hlavní odpor 
+32 hlavní palebná přehrada 
+33 hlavní pásmo 
+34 hlavní polní stráž 
+35 hlavní postavení 
+36 hlavní přední stráž 
+37 hlavní směr 
+38 hlavní stráž 
+39 hlavní štáb 
+40 hlavní štáb 1. odděl. 
+41 hlavní štáb 2. odděl. 
+42 hlavní štáb 3. odděl.
+43 hlavní štáb 4. odděl. 
+44 hlavní štáb 5. odděl.
+45 hlavní velit. oper. armád 
+46 hlavní věc 
+47 hlavní záloha 
+48 hlavní záloha dělostřelectva
+49 hlavní zbraň 
+50 hle 
+51 hledací 
+52 hledaný 
+53 hledati 
+54 hleděti 
+55 hleděti si 
+56 hlediště 
+57 hli 
+58 hlídač 
+59 hlídaný 
+60 hlídati 
+61 hlídka 
+62 hlin 
+63 hliník 
+64 hliniště 
+65 hlinka 
+66 hlíza 
+67 hlo 
+68 hlomoz 
+69 hlomozna 
+70 hlou 
+71 hloubka 
+72 hloubiti 
+73 hlouček 
+74 hloupý  
+74 hloupě
+74 hloupost
+75 hlt 
+76 hlu 
+77 hluboko 
+78 hluboký 
+79 Hlučín 
+80 Hlučínsko 
+81 hlučný 
+81 hlučně
+82 hluch 
+83 hluchoněmý 
+84 hluchý 
+85 hluk 
+86 hlupák 
+87 hm 
+88 hmat 
+89 hmo 
+90 hmota 
+91 hmotné poměry 
+92 hmotný 
+92 hmotně
+93 hmyz 
+94 hn 
+95 hna 
+96 hnaný 
+97 hnáti 
+98 hned
+99 hnědo 

@@ -1,0 +1,103 @@
+080
+
+00 N
+01 n
+02 n.
+03 na 
+04 na
+05 na celé frontě 
+06 na čáre 
+07 na čj.
+08 na další 
+09 na dobu 
+10 na dovolené 
+11 na jih 
+12 na jihovýchod 
+13 na jihozápad 
+14 na křídle 
+15 na levém křídle 
+16 na mé
+17 na můj 
+18 na náš 
+19 na náš dotaz 
+20 na naše 
+21 na naše čj.
+22 na pravém křídle 
+23 na příklad 
+24 na prvním místě 
+25 na sebe 
+26 na sever 
+27 na severovýchod 
+28 na severozápad 
+29 na stránce 
+30 na straně 
+31 na svou odpovědnost 
+32 na to 
+33 na tom 
+34 na úsvitu 
+35 na Váš
+36 na Váš přípis 
+37 na Váš rozkaz 
+39 na Váš šifr , telegram 
+40 na Vaše čj. 
+41 na Vaše hlášení 
+42 na Vaše sdělení 
+43 na Vaši žádost 
+44 na Vaši žádost zasílám 
+45 na vědomí 
+46 na východ 
+47 na základě 
+48 na základě Vašeho 
+48 na základě Vaší
+49 na západ 
+50 nab 
+51 nabádati 
+52 náběh 
+53 nabídka 
+54 nabídnouti 
+55 nabídnouti své služby 
+56 nabízeti 
+57 nabírati 
+58 nabíti 
+59 nabízeti 
+60 nabízeti se 
+61 nabo 
+62 náboj 
+63 nábojka 
+64 nábojnice 
+65 nábor 
+66 nánoženský 
+66 nánožensky
+67 náboženství 
+68 nabrati 
+69 nábřeží 
+70 nábřežní 
+71 nabrou 
+72 nabýti 
+73 nabýti moci práva 
+74 nabývati 
+75 nac 
+76 nač 
+77 nace 
+78 naci 
+79 nacionalismus
+80 nacionalista 
+81 nacionalistický 
+82 nacionální 
+83 nacvičiti 
+84 načekati se 
+85 náčelník 
+86 náčelník hlav.štábu 
+87 náčelník štábu 
+88 náčelník štábu armády 
+89 náčelník štábu divise 
+90 náčelník štábu sboru 
+91 načerniti 
+92 načež 
+93 náčiní 
+94 načíti 
+95 náčrt 
+96 načrtnouti 
+97 nad 
+98 nadace 
+99 nadační

@@ -1,0 +1,105 @@
+016
+
+00 Bukovina 
+01 Bukurešt 
+02 bukureštský 
+03 bul 
+04 buletin 
+05 Bulhar 
+06 Bulharsko 
+07 bulharský 
+08 bum 
+09 buňka 
+10 burg 
+11 Burgenland 
+12 bureau 
+13 buřič 
+14 buřičský 
+15 burm 
+16 bursa 
+17 bursovní 
+18 buržoasie 
+19 bus 
+20 busola 
+21 but 
+22 buz 
+23 by 
+24 by se 
+25 byd 
+26 bydleti 
+27 bydlí 
+28 bydliště 
+29 bych 
+30 bychom 
+31 byl 
+32 byl by 
+33 byl ihned 
+34 byl jsem 
+35 byl jsem požádán 
+36 byl jsem u
+37 byl sem v 
+37 byl sem ve 
+38 byl sem varován 
+39 byl sem ve spojení 
+40 byl sem vyzván 
+41 byli 
+42 byl mi
+43 byl mu
+44 byl nám 
+45 byl námi 
+46 byl náš 
+47 byl odeslán 
+48 byl pozorován 
+49 byl právě 
+50 byl prohlášen 
+51 byl srozuměn 
+52 byl to 
+53 byl v 
+53 byl ve 
+54 byl zahájen 
+55 byl zajat 
+56 byl zastaven 
+57 byl zjištěn 
+58 byla 
+59 byla by 
+60 byla to 
+61 byli 
+62 byli by 
+63 byli bybychon 
+64 byli byste 
+65 byli ihned 
+66 byli jsme 
+67 byli jsme upozorněni 
+68 byli jste 
+69 bylo 
+70 bylo by
+71 bylo by dobře 
+72 bylo by záhodno 
+73 bylo mi 
+74 bylo byhlášeno 
+75 bylo by oznámeno 
+76 bylo nám 
+77 bylo pozorováno 
+78 bylo to 
+79 bylo v 
+79 bylo ve 
+80 bylo zahájno 
+81 bylo zjištěno 
+82 byly 
+83 byr 
+84 byrokracie 
+85 byrokrat 
+86 byrokratický 
+87 bys 
+88 byste 
+89 bystrost 
+90 bystrozrak 
+91 bystře 
+92 Bystrica 
+93 bystřina 
+94 byt 
+95 bytem 
+96 byť
+97 býti 
+96 bytný 
+99 Bytom 

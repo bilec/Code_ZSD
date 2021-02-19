@@ -1,0 +1,109 @@
+065
+
+00 kruhovka 
+01 Krupina 
+02 Kruppovy závody 
+03 krušiti 
+04 Krušné Hory 
+05 krušný  
+05 krušně
+06 krut 
+07 krutost 
+08 krutý  
+08 krutě
+09 kruž 
+10 kružnice 
+11 krv 
+12 krvavý 
+12 krvavě
+13 krveprolití 
+14 kry 
+15 krycí 
+16 krycí jméno 
+17 krycí pásmo 
+18 krycí posice 
+19 zkrycí načka 
+20 krych 
+21 krychlový 
+22 krychlový centimetr 
+23 krychlový metr 
+24 kryt 
+25 kryt hranic
+26 krýti 
+27 krýti se 
+28 ks 
+29 kt
+30 kte 
+31 kterak 
+32 který 
+35 kterýsi 
+34 ku 
+35 kubický 
+36 kud 
+37 kudy 
+38 kufr 
+39 kuchyně 
+40 kuchyňský 
+41 kuchyňský trén 
+42 kuchyňský vůz 
+43 kuk 
+44 kul 
+45 kulatý 
+46 kulhavý 
+47 kule 
+48 kuli 
+49 kulminační 
+50 kulo 
+51 kulomet 
+52 kulomet proti. letadlům 
+53 kulometná
+54 kulometná četa  
+55 kulometná eskandrona 
+56 kulometná palba 
+57 kulometná rota
+58 kulometné
+59 kulometné družstvo
+60 kulometné seskupení
+61 kulometný 
+62 kultura 
+53 kulturní 
+53 kulturně 
+64 kůň
+65 kup
+66 kupa 
+67 kupec 
+68 kupní 
+69 kupovati 
+70 kur
+71 kurs
+72 kurt 
+73 kurýr 
+74 kurýrem 
+75 kurýrní 
+76 kurýrní spojení 
+77 kus 
+78 kusů 
+79 kusý 
+79 kuse 
+80 kut 
+81 Kúty 
+82 kv
+83 kva 
+84 kvalifikace 
+85 kvalifikační 
+86 kvalifikovaný 
+87 konfiskovati
+88 kvalita
+89 kvalitativní 
+89 kvalitativně
+90 kvalitní 
+91 kvantita 
+92 kvantitativní 
+93 kvantum 
+94 kvapem 
+95 kvapiti 
+96 kvapný  
+96 kvapně 
+97 kvas 
+98 květen 
+99 kvi 

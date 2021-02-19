@@ -1,0 +1,110 @@
+144
+
+00 serie 
+01 seriosní 
+02 serpentina 
+03 serpentinový 
+04 serum 
+05 servírovati 
+06 ses 
+07 sesaditi 
+08 sesílení 
+09 sesílený 
+10 sesílený o 
+11 sesíliti 
+12 sesilovací 
+13 sesilovací postavení 
+14 sesilovati 
+15 seskočiti 
+16 seskok 
+17 seskupení 
+18 seskupený 
+19 seskupiti 
+20 seslabeni 
+21 seslabený 
+22 seslabiti 
+23 seslábnouti 
+24 sestava 
+25 sestava pro útok 
+26 sestávati 
+27 sestavení 
+28 sestavený 
+29 sestaviti 
+30 sestoupiti 
+31 sestra 
+32 sestřelený 
+33 sestřeliti 
+34 sestup 
+35 sestupný
+35 sestupně 
+36 sestupovati 
+37 seš 
+38 sešit 
+39 seškrtaný 
+40 seškrtati 
+41 sešlý 
+42 set 
+43 setina 
+44 setkati se 
+45 setnina 
+46 setříti 
+47 setrvačnost 
+48 setrvačný 
+48 setrvačně
+49 setrvati 
+50 sev 
+51 sever 
+52 severně 
+53 severní 
+54 severní svah 
+55 severovýchod 
+55 severovýchodní
+55 severovýchodně 
+56 severozápad  
+56 severozápadní
+56 severozápadně
+57 Sevljuš 
+58 sevřený 
+59 sevříti 
+60 sez 
+61 sezení 
+62 seznam
+63 seznam ztrát 
+64 seznámen 
+65 seznámení 
+66 seznámiti 
+67 seznati 
+68 sezonní 
+69 sezvaný 
+70 sezvati
+71 sféra 
+72 sh 
+73 sháněti 
+74 sháňka 
+75 shilling 
+76 shledání 
+77 shledati 
+78 shlédnouti 
+79 shluk 
+80 shluknouti se 
+81 sho 
+82 shoda 
+83 shoditi 
+84 shodně 
+85 shodnouti se 
+86 shodný 
+87 shodovati se 
+88 shon 
+89 shora 
+90 shořeti 
+91 shovívavý
+91 shovívavě
+91 shovívavost 
+92 shrnouti 
+93 shromáždění 
+94 shromážděný 
+95 shromáždiště 
+96 shromážditi 
+97 shromážditi se 
+98 shronažovací   
+99 shromažďování

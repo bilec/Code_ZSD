@@ -1,0 +1,102 @@
+131
+
+00 půle 
+01 půliti 
+02 půlka 
+03 půlnoc 
+04 půlnoční 
+05 puls 
+06 pum 
+07 puma 
+08 pumový 
+09 pumový utok 
+10 pumpa 
+11 pun 
+12 punc 
+13 punt 
+14 pup 
+15 pur 
+16 purk 
+17 pus 
+18 půs 
+19 působení 
+20 působiště 
+21 působiti 
+22 působnost 
+23 půst 
+24 pusta 
+25 pustina 
+26 pustiti 
+27 pustnouti 
+28 pusto 
+29 pustošiti 
+30 pustý 
+30 pustě
+31 puš 
+32 puška 
+33 pušek 
+34 puškový 
+35 puškový granát 
+36 puškové střelivo 
+37 puškař 
+38 puszta 
+39 put 
+40 půtka 
+41 putovní 
+42 putz 
+43 pův 
+44 půvab 
+45 původ 
+46 původce 
+47 původem 
+48 původně 
+49 původní 
+50 původnost
+51 py
+52 pych 
+53 pýcha 
+54 pykati 
+55 pyramida 
+56 pyro
+57 pyrotechnik 
+58 pyrotechnický 
+59 pysk 
+60 pyšniti se 
+61 pyšný 
+62 pytel 
+63 pytlačiti 
+64 pytlák 
+65 
+66 
+67 
+68 
+69 
+70 
+71 
+72 
+73 
+74 
+75 
+76 
+77 
+78 
+79 
+80 
+81 
+82 
+83 
+84 
+85 
+86 
+87 
+88 
+89 
+90 
+91 
+92 
+93 
+94 
+95 
+96 
+98 
+99 

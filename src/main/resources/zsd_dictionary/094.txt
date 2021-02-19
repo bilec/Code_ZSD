@@ -1,0 +1,107 @@
+094
+
+00 O
+01 o
+02 o,
+03 op. 
+04 OPL
+05 o / : předložka s/ 
+06 o čemž 
+07 o průběhu 
+08 o těchto 
+09 o to 
+10 o tom
+11 ö 
+12 ob 
+13 oba 
+14 obal 
+15 obálka 
+16 obapolný
+16 obapolně 
+17 obava 
+18 obávati se 
+19 občan 
+20 občanský 
+20 občansky 
+21 občanství 
+22 občas 
+23 občasný
+23 občasně 
+24 obcovati 
+25 obdarovati 
+26 obdélník 
+27 obdiV 
+28 obdivovati sa 
+29 období 
+30 obdobně 
+31 obdobný 
+32 obdržený 
+33 obdržeti 
+34 obé 
+35 obě 
+36 obec 
+37 obecenstvo 
+38 obecně 
+39 obecní 
+40 obecní hranice 
+41 obecní úřad 
+42 obecný 
+43 oběd 
+44 obědovati
+45 oběh 
+46 obejíti 
+47 obelhati 
+48 obelstíti 
+49 ober 
+50 oběsiti 
+51 obeslati 
+52 obetříti 
+53 oběť
+54 obětavě 
+55 obětavý 
+56 obětovati 
+57 obeznalý 
+58 obeznalý s poměry 
+59 obeznámený 
+60 obezřelý
+60 obezřele
+61 oběžník
+62 obhájce
+63 obhájiti 
+64 obhajoba . 
+65 obhajovati 
+66 obhlídka 
+67 obch 
+68 obcházeti 
+69 obchod 
+70 obchodní 
+71 obchodovati 
+72 obchůzka 
+73 obchvacovati 
+74 obchvat 
+75 obchvátiti 
+76 obí 
+77 obírati se 
+78 objasněn 
+79 objasniti 
+80 objednati 
+81 objednávka 
+82 objekt 
+83 objektivní 
+84 objekt 
+85 objem
+86 objemný  
+86 objemně
+87 objev 
+88 objeviti 
+89 objevení 
+90 objížděti 
+91 obklíčiti 
+92 obklíčen 
+93 obklíčení 
+94 obklopiti 
+95 obl 
+96 oblast 
+97 obléci 
+98 oblečený 
+99 obléhací 

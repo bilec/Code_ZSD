@@ -1,0 +1,107 @@
+119
+
+00 poznatek 
+01 poznati 
+02 pozor 
+03 pozorný 
+03 pozorně
+04 pozonost 
+05 pozorovací  
+06 pozorovací balon 
+07 pozorovací četa
+08 pozorovací družstvo 
+09 pozorovací letec
+10 pozorovací letka 
+11 pozorovací rota 
+12 pozorovací sled 
+13 pozorování 
+14 pozorování ze vzduchu 
+15 pozorovaný 
+16 pozorovatel 
+17 pozorovatelna 
+18 pozorovati 
+19 pozorujte 
+20 pozůstalost 
+21 pozůstatek 
+22 pozůstává 
+23 pozůstávati 
+24 pozvání 
+25 pozvaný 
+26 pozvati 
+27 pozvednouti 
+28 požádati 
+29 požadavek 
+30 požár 
+31 požitek 
+32 požívati 
+33 pr 
+34 př 
+35 pra 
+36 práče 
+37 pracný
+37 pracně 
+38 pracovati 
+39 pracovitý 
+40 pracovna 
+41 pracovní 
+42 pracovní letiště
+43 pracovní oddíl 
+44 pracovní  rota
+45 pracovník  
+46 prádelna 
+47 prádlo 
+48 prager
+49 Prager Presse 
+50 Prager Tagblatt 
+51 Praha 
+52 Prahy 
+53 Praze 
+54 prahnouti 
+55 prach 
+56 prachárna 
+57 Prachatice 
+58 prakse 
+59 praktický
+59 prakticky  
+60 praktik 
+61 praktika 
+62 praktikovati 
+63 prám 
+64 pramálo 
+65 pramalý 
+66 pramen 
+67 prámice 
+68 přání 
+69 pranic 
+70 pranýř 
+71 prapor 
+72 I. prapor  
+73 II. prapor  
+74 III. prapor
+75 prapor pěchoty 
+76 prapor utočné vozby 
+77 praporčík 
+78 praporek 
+79 praporní 
+80 prášek 
+81 prášiti se 
+82 pravá 
+83 přátelé 
+84 přáteliti se 
+85 přátelský 
+86 přátelství 
+87 přáti si
+88 pravda 
+89 pravděpodobně 
+90 pravděpodobnost 
+91 pravděpodobný 
+92 pravděpodobný směr náletu 
+93 pravděpodobný směr útoku
+94 pravdivý 
+95 pravdomluvný 
+96 pravé 
+97 pravé křídlo 
+98 právě 
+99 pravidelný
+99 pravidelně
+99 pravidelnost 

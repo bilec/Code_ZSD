@@ -1,0 +1,104 @@
+042
+
+00 funkční přídavek
+01 fuse
+02 fy
+03 fysika
+04 fysický 
+04 fysicky
+05 fysiognomie
+06 
+07 
+08 
+09 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 G
+51 g
+52 g.
+53 gg
+54 ga
+55 gal
+56 Galanta
+57 Galatz
+58 galerie
+59 galvano
+60 galvanický
+60 galvanicky
+61 galvanisovati
+62 gam
+63 gama
+64 gan
+65 gar
+66 garancie
+67 garantovati
+68 garáž
+69 garda
+70 gardista
+71 gardový
+72 garni
+73 garnitura
+74 gas
+75 gau
+76 gaz
+77 Gazette
+78 gáže
+79 gážista
+80 Gbely
+81 Gdánsko
+82 ge
+83 gel
+84 gem
+85 gen
+86 generál
+87 generální
+88 generální inspektor
+89 generální konsulát
+90 generální sekretariát
+91 generální štáb
+92 generální stávka
+93 generální velit. četnictva
+94 generální voj. prokurátor
+95 generalita
+96 generálský
+97 generátor
+98 geniální
+99 geniálnost

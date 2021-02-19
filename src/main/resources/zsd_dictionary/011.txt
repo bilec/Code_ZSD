@@ -1,0 +1,103 @@
+011
+
+00 B                 
+01 b                             
+02 b. /:zkratka:/                 
+03 ba                            
+04 bá                            
+05 bä                     
+06 bab                           
+07 baba                          
+08 bac
+09 Bácska
+10 bad
+11 bádati
+12 bag                           
+13 bagr                          
+14 bah
+15 bahno
+16 bahenní
+17 back   
+18 bai    
+19 baj   
+20 bak                          
+21 Bakoňský les 
+22 bakterie                     
+23 bal                          
+24 bala                         
+25 Balaské Ďarmoty              
+26 bale                         
+27 bali                       
+28 balík                        
+29 baliti
+30 balistický                  
+31 balistika                   
+32 Balkán
+33 balkanský                   
+34 balkanské státy              
+35 balon                        
+36 balon pozorovací           
+37 balon řiditelný     
+38 balon upoutaný               
+39 balonový                    
+40 balonová rota                
+41 Baltické moře                
+42 bam                          
+43 ban
+44 bán
+45 Banát                          
+46 banda                          
+47 banka                         
+48 banket                     
+49 bankovka                     
+50 bankovní
+51 bankrot
+52 báň
+53 Baňská Bystrica
+54 Baňská Stiavnica
+55 bar
+56 Baranowicze 
+57 barbar
+58 Bardiov
+59 bare
+60 barel
+61 barevný
+61 barevně
+62 barikáda
+63 barikádovati
+64 bago 
+65 barometr
+66 baron
+67 bart
+68 barva
+69 barviti
+70 barvotisk
+71 bas 
+72 básník
+73 baš
+74 bašta
+75 bat 
+76 baterie
+77 baterie dalekon. děl
+78 baterie hor.kanon
+79 baterie hor.houfnic
+80 baterie hrubých karionit
+81 baterie hrubých houfic
+82 baterie lehkých kanonů
+83 baterie lehkých hounic
+84 baterie polních kanonů
+85 baterie polních houfnic
+86 baterie proti letadlůz 
+87 baterie stěhovavá
+88 baterie těžkých děl.
+89 báti se
+90 bau
+91 Baudot 
+92 bao
+93 baviti 
+94 bavlna 
+95 Bavory
+96 bavorský 
+97 bazar 
+98 bázliv
+99 baž

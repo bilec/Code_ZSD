@@ -1,0 +1,107 @@
+129
+
+00 protiviti se 
+01 protivládní 
+01 protivládně 
+02 protivník 
+03 protivný 
+03 protivně
+04 proto 
+05 proto je
+06 proto jsem 
+07 proto se 
+08 protokol 
+09 prototyp 
+10 protože 
+11 protože je 
+12 protože se 
+13 protože si 
+14 protrhnouti 
+15 protrhnutý 
+16 protržení 
+17 protržený 
+18 prou 
+19 proud 
+20 prouditi 
+21 prout 
+22 proužek 
+25 proužkovaný 
+24 prováděcí 
+25 prováděti 
+26 provalený 
+27 provaliti 
+28 provaz 
+29 provázek 
+30 provážeti 
+31 provedení 
+32 provedení hlaste 
+33 provedený 
+34 proveďte 
+35 proveďte opravu 
+36 proveďte protiútok
+37 proveďte útok 
+38 provésti 
+39 provézti 
+40 prověřiti 
+41 proviant 
+42 proviantní 
+43 proviantní trén 
+44 proviantní sklad 
+45 proviantní vůz 
+46 proviantura 
+47 provinění 
+48 provinilec 
+49 provinilý 
+50 proviniti se 
+51 provisorium
+52 provisorní  
+52 provisorně
+53 provise 
+54 provokace 
+55 provokatér 
+56 provokativní 
+57 provokovati 
+57 provokovaný 
+59 provolání 
+60 provolaný 
+61 provolati 
+62 provoz 
+63 provozní 
+64 provozovací 
+65 provozovaný 
+66 provozovati 
+67 prozatím 
+68 prozatímní 
+68 prozatímně 
+69 prozkoumati 
+70 prozraditi 
+71 prozraditi se 
+72 prozrazení 
+73 prozrazen 
+74 prozřetelnost 
+75 prozřetelný 
+76 prs 
+77 prš 
+78 prsa 
+79 prsní 
+80 prst 
+81 prsten 
+82 pršeti 
+83 prší 
+84 pru 
+85 prů 
+86 průběh 
+87 průběh boje 
+88 průběhem 
+89 průběžník 
+90 průběžný 
+91 průbojnost 
+92 průbojný 
+93 průčelí 
+94 prudce 
+95 prudkost 
+96 prudký 
+97 pruh 
+98 průhledný
+98 průhledně 
+99 průchod 

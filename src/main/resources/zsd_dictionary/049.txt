@@ -1,0 +1,107 @@
+049
+
+00 heghesová depeše 
+01 heghesový rozhovor 
+02 heghesové spojení 
+03 heghesová stanice 
+04 heghesový telegraf 
+05 heghesová ústředna 
+06 huk 
+07 hukot 
+08 hul 
+09 hulán 
+10 hulánský 
+11 hůlka 
+12 hum
+13 humanista 
+14 humanita
+15 Hilmanité 
+16 hunanní 
+17 Hunené 
+18 humor 
+19 hun 
+20 hur 
+21 hůře 
+22 hůrka 
+23 hus 
+24 husar 
+25 husarský 
+26 hus tota 
+27 hustý 
+27 hustě
+28 hut 
+29 huť
+30 hutní 
+31 hutnický 
+32 hutný
+32 hutně 
+32 hutnost
+33 hv 
+34 hvězda 
+35 hvězdář 
+36 hvězdárna 
+37 hvizd 
+38 hvo 
+39 hvozd 
+40 hy 
+41 hýbati 
+42 hýbati se
+43 hybnost 
+44 hybný 
+44 hybně 
+45 hydrant 
+46 hydrát 
+47 hydraulický
+47 hydraulicky
+48 hydro 
+49 hydroplán 
+50 hygiena 
+51 hygienický 
+52 hymna 
+53 hyn 
+54 hynouti 
+55 hyp 
+56 hyperbol 
+57 hypo 
+58 hypochondr 
+59 hypotéka 
+60 hypotésa 
+61 hyr 
+62 hyř 
+63 hýřiti 
+64 hys
+65 hyz 
+66 hyzditi 
+67 
+68 
+69 
+70 
+71 
+72 
+73 
+74 
+75 
+76 
+77 
+78 
+79 
+80 
+81 
+82 
+83 
+84 
+85 
+86 
+87 
+88 
+89 
+90 
+91 
+92 
+93 
+94 
+95 
+96 
+97 
+98 
+99 

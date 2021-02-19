@@ -1,0 +1,75 @@
+023
+
+00 čistý 
+01 číš 
+02 číšník 
+03 čistění 
+04 čit 
+05 čít 
+06 čítací 
+07 čítací těleso 
+08 čítárna 
+09 čitelnost 
+10 čitelný
+10 čitelně 
+11 čiti 
+12 čiv 
+13 čka 
+14 čla 
+15 článek 
+16 článko 
+17 čle 
+18 člen 
+19 členění 
+20 členěný 
+21 členitý
+22 členský 
+23 člo 
+24 člověk 
+25 člu
+26 člun 
+27 čm
+28 čn
+29 čna 
+30 čne 
+31 čně 
+32 ční 
+33 čný 
+34 čo 
+35 čov 
+36 čt
+37 čten 
+38 čtenář 
+39 čtenářský 
+40 čtení 
+41 čtrnácti 
+42 čtrnácti denní
+42 čtrnácti denně 
+43 čtrnáctý 
+44 čtver 
+45 čtverec 
+46 čtvereční 
+47 čtvereční centimetr 
+48 čtvereční kilometr 
+49 čtvereční metr 
+50 čtvero 
+51 čtvrt 
+52 čtvrt hodiny 
+53 čtvrtého 
+54 čtvrtek 
+55 čtvrtina 
+56 čtvrtletí 
+57 čtvrtletní
+57 čtvrtletně
+58 čtvrtý 
+59 čtvrtý mob. den 
+60 čty 
+61 čtyř 
+62 čtyřdenní 
+63 čtyřdílný 
+64 čtyřnedělní 
+65 čtyřsedadlový 
+66 čtyřúhelník 
+67 ču 
+68 čut 
+69 čv

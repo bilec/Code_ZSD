@@ -1,0 +1,106 @@
+151
+
+00 spalovací 
+01 spalovati 
+02 spalte 
+03 spaní 
+04 spár 
+05 spása 
+06 spasiti se 
+07 spáti 
+08 spatřen 
+09 spatřiti 
+10 spačetěný 
+11 spečetiti 
+12 specialista 
+13 specialisovati 
+14 specialisovati se 
+15 specialisovaný 
+16 specialisace 
+17 specialita 
+18 speciální
+18 speciálně 
+19 speciální mapa 
+20 speciální material 
+21 specielně 
+22 specifikace 
+23 specifikovaný 
+24 specifikovati 
+25 specifický 
+25 specificky
+26 spěch 
+27 spěchati 
+28 spelnlace 
+28 spelnlační 
+29 spekulant 
+30 spelnlovati 
+31 spěšnost 
+32 spěšný
+32 spěšně
+33 spiklenec 
+34 spiknouti se 
+35 spiknutí 
+36 spílati
+37 spin 
+38 spirit 
+39 spis 
+40 spisy
+41 spisovatel 
+42 spisovati
+43 spisovna 
+44 spisovné 
+45 spisovní 
+46 Spiš 
+47 Spišská Nová Ves 
+48 spíše
+49 spl 
+50 splacený 
+51 spláceti 
+52 splašiti se 
+53 splatiti 
+54 splátka
+55 splatný 
+56 splav 
+57 splavnost 
+58 splavnost pro
+59 splavnost pro čluny 
+60 splavnost pro vory 
+61 splavný 
+62 sple 
+63 splésti 
+64 spletitý 
+65 spli 
+66 splnění 
+67 splněný 
+68 splniti 
+69 splynouti 
+70 spočinouti 
+71 spočítati 
+72 spočítaný 
+73 spočívati 
+74 spod 
+75 spodem 
+76 spojení 
+77 spojení hughesové 
+78 spojení optické 
+79 spojení palbou 
+80 spojení pošt.holuby 
+81 spojení radiové 
+82 spojení telefonické 
+83 spojení telegrafické 
+84 spojení zrakem 
+85 spojenec 
+86 spojenecká 
+87 spojenecké 
+88 spojenecký 
+89 spojení 
+90 spojiti 
+91 spojiti se
+92 spojitost 
+93 spojitý 
+94 spojka 
+95 spojovací 
+96 spojovací četa 
+97 spojovací družstvo 
+98 spojovací material
+99 spojovací osa

@@ -1,0 +1,107 @@
+062
+
+00 kompensovati 
+01 kompetence 
+02 kompetentní 
+02 kompetentně
+03 komplet 
+04 komplikace 
+05 komplikovaný 
+05 komplikovaně
+06 komplikovati 
+07 kompromis 
+08 kompromitace 
+09 kompronitovati 
+10 komu 
+11 komun 
+12 komunikace 
+13 komunikační
+14 komunikační síť
+15 komunikační tepna 
+16 komunikační uzel 
+17 komunismus 
+18 komunista 
+19 komunistický 
+20 komunistické hnutí 
+21 komunistické letáky 
+22 komunistické nepokoje 
+23 komunistická propaganda 
+24 komunistická schůze 
+25 kon 
+26 konati 
+27 skonati se 
+28 koncem 
+29 koncem t.m.
+30 koncem t.r.
+31 koncem týdne 
+32 koncentračne 
+33 koncentrační 
+34 koncentrační tábor 
+35 koncentrovati 
+35 koncepce 
+37 koncept 
+38 konceptní 
+39 konceptní důstojník 
+40 konceptní sluŽba 
+41 koncert 
+42 koncese 
+43 koncipient 
+44 koncipovati 
+45 končiti 
+46 kondens 
+47 konduktér 
+48 kone 
+49 koně 
+50 konec 
+51 konečně 
+52 konečný 
+53 konejšiti 
+54 konfe 
+55 konference 
+56 konferenční 
+57 konferovati 
+58 konfident 
+59 konfiskace 
+60 konfiskovati 
+61 konflikt 
+62 konfrontace 
+63 konfrontovaný 
+64 konfrontovati 
+65 konfusní  
+65 konfusně 
+66 kongres 
+67 koni 
+68 koník 
+69 konjunktura 
+70 konkrétní 
+70 konkrétně
+71 konkrétní návrh 
+72 konkrétní případ 
+73 konkurence 
+74 konkurenční 
+75 konlnurovati 
+76 konkurs 
+77 konkukursní 
+78 komo 
+79 kono 
+80 konsekvence 
+81 konsekventní  
+81 konsekventně 
+82 konserva 
+83 konservační 
+84 konservační material 
+85 konservatismus 
+86 konservovati 
+87 konsignace 
+88 konsignační 
+89 koňských sil 
+90 konsolidace 
+91 konsolidovati 
+92 konsorcium 
+93 konstelace 
+94 konstituce 
+95 konstituční 
+96 konstruk 
+97 konstrukce
+98 konstruovati 
+99 konsul 

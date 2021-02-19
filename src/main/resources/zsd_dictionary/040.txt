@@ -1,0 +1,105 @@
+040
+
+00 F
+01 f 
+02 f. 
+03 FDTM
+04 FVM 
+05 fa 
+06 fait accompli 
+07 faksimile 
+08 fakt 
+09 faktor 
+10 faktum 
+11 fakulta 
+12 fakultatívní
+12 fakultatívně 
+13 fal 
+14 faleš 
+15 falešný
+15 falešně
+16 Falknov 
+17 falsifikát 
+18 falšovaný 
+19 falšovati 
+20 fanatický 
+21 fanatik 
+22 fant 
+23 fantasie 
+24 far 
+25 fara 
+26 farář 
+27 fari 
+28 farní 
+29 farnost 
+30 fas 
+31 fascikl 
+32 fáse 
+33 fašista 
+34 fašistický 
+35 fat 
+36 fata 
+37 fatalní 
+37 fatalně 
+38 fáze 
+39 fáze útoku 
+40 fe 
+41 fed 
+42 federace 
+43 federační 
+44 federalisace 
+45 federalisační 
+46 federalista 
+47 federatívní 
+48 fehér 
+49 Fehérgyarmat 
+50 fel 
+51 feld 
+52 Felix 
+53 fels 
+54 fena 
+55 Ferdinand 
+56 feriální 
+57 ferie 
+58 feudalismus 
+59 feudální 
+60 feuilleton 
+61 fez 
+62 ff 
+63 fi 
+64 fia 
+65 fiala 
+66 fialový 
+67 fie 
+68 fig 
+69 Figaro 
+70 figur 
+71 figura 
+72 figurální 
+73 figurovati 
+74 fik 
+75 fil 
+76 Filakovo 
+77 filiálka 
+78 filiální 
+79 film 
+80 filmovati 
+81 filosof 
+82 filosofický 
+83 filofie 
+84 filtr 
+85 filtrovati 
+86 fin 
+87 finale 
+88 finance 
+89 finanční 
+90 finanční kontrola 
+91 finanční plán 
+92 finanční pohran. hlídka 
+93 finanční pohran. stanice 
+94 finanční prokuratura 
+95 finanční ředitelství 
+96 finanční stráž 
+97 finanční strážník 
+98 finančník 
+99 financovati

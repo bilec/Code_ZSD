@@ -1,0 +1,106 @@
+139
+
+00 ruk 
+01 ruka 
+02 rukáv 
+03 ruko 
+04 rukopis 
+05 rukopisný 
+05 rukopisně
+06 rukovati 
+07 rul 
+08 rum
+09 Rumburg 
+10 Rumun 
+11 Rumuni 
+12 Rumunsko 
+13 rumunská
+14 rumunská armáda
+15 rumunská brigáda 
+16 rumunská divise 
+17 rumunská pěchota 
+18 rumunská vláda 
+19 rumunské 
+20 rumunské dělostřelectvo 
+21 rumunské hranice 
+22 rumunské jezdectvo 
+23 rumunské letadlo 
+24 rumunské letectvo 
+25 rumunské území 
+26 rumunské vyslanectví 
+27 rumunský 
+28 rumunský hlavní štáb 
+29 rumunský konsul 
+30 rumunský král 
+31 rumunský příslušník 
+32 rumunský sbor 
+33 rumunský voj.attaché 
+34 run 
+35 rup 
+36 rur 
+37 rus 
+38 Rus 
+39 ruš 
+40 ruší 
+41 Rusín 
+42 Rusíni 
+43 rusínský
+44 rušitel 
+45 rušiti 
+46 rušivý
+46 rušivě 
+47 rušivá palba 
+48 Rusko 
+49 ruský 
+50 růsti 
+51 ruz 
+52 různě 
+53 různost 
+54 různý 
+55 různice 
+56 různiti se 
+57 různobarevný 
+57 různobarevně  
+58 různorodý 
+59 různost 
+60 růže 
+61 růžový 
+62 Růžomberok 
+63 rv
+64 rvačka 
+65 rváti se
+66 ry 
+67 ryba
+68 rybář 
+69 rybník
+70 rybí
+71 rýč 
+72 rýha 
+73 rychle 
+74 rychlé jednotky 
+75 rychlík 
+76 rychlíkem
+77 rychlo 
+78 rychlost 
+79 rychlopalný 
+80 rychlý 
+81 rychtář 
+82 Rychwald 
+83 ryj
+84 ryk 
+85 rým
+86 rými 
+87 rýn 
+88 Rýn 
+89 ryp 
+90 rýpati 
+91 rys 
+92 rysovati 
+93 ryšavý 
+94 rytec 
+95 rýti 
+96 rytina 
+97 rytíř 
+98 rytmický
+98 rytmicky  
+99 rytmistr 

@@ -1,0 +1,106 @@
+029
+
+00 do týdne 
+01 do Vašeho 
+02 do Vaší 
+03 do večera 
+04 do zítřka 
+05 dob 
+06 doba 
+07 době 
+08 dobírati 
+09 dobírka 
+10 dobo 
+11 dobrá 
+12 dobré 
+13 dobré zdání 
+14 dobré zprávy 
+15 dobře 
+16 dobro 
+17 dobročinný 
+17 dobročinnost
+18 dobrodiní 
+18 dobrodinec 
+19 dobrodruh 
+20 dobrodružství 
+21 dobrovolně 
+22 dobrovolník 
+23 dobrovolný 
+24 dobrozdání 
+25 Dobrudža 
+26 dobrý 
+27 dobrý dojem
+28 dobrý stav
+29 dobyt 
+30 dobytí 
+31 dobýti 
+32 dobytý 
+33 dobyvačný
+33 dobyvačně 
+34 dobyvatel 
+35 dobývati 
+36 doc 
+37 doč 
+38 dočasně 
+39 dočasné přerušení
+40 dočasný 
+41 dočasný úspěch 
+42 docela 
+43 docent 
+44 docíliti 
+45 docíliti úspěchu 
+46 dočísti se 
+47 dočkati se 
+48 dodání 
+49 dodaný 
+50 dodatečná zpráva 
+51 dodatečně 
+52 dodatečné hlášení 
+53 dodatečný 
+54 dodatek 
+55 dodatkem 
+56 dodatkem k 
+57 dodatkem k čj. 
+58 dodatkem mému
+59 dodatkem k oper. rozkazu 
+60 dodatkem k rozkazu č. 
+61 dodati 
+62 dodavatel 
+63 dodávati 
+64 dodávka 
+65 dodnes 
+66 dodnes nedošel 
+67 dodnes nemám 
+68 dodržeti 
+69 dodržeti lhůtu 
+70 dodržovati 
+71 dohad 
+72 dohadovati se 
+73 doháněti 
+74 dohazovati 
+75 dohled 
+76 dohlédací 
+77 dohledně 
+78 dohlédnouti 
+79 dohlížeti 
+80 dohnati 
+81 dohoda 
+82 dohoditi 
+83 dohodnouti se 
+84 dohodový 
+85 dohoniti 
+86 dohotoviti 
+87 dohovořiti 
+88 dohra 
+89 dohráti 
+90 doraomady 
+91 doch 
+92 docházeti 
+93 dochvilnost 
+94 dochvilný 
+94 dochvilně
+95 doj 
+96 dojednati 
+97 dojem 
+98 dojeti 
+99 dojímati 

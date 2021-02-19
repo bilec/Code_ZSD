@@ -1,0 +1,108 @@
+109
+
+00 písař 
+01 pisatel 
+02 písčina 
+03 písčitý 
+04 písek 
+05 písemně 
+06 písemný 
+07 písemný rozkaz 
+08 píseň 
+09 pískati 
+10 pískovna 
+11 písmo 
+12 píst 
+13 pit 
+14 pitevní 
+15 píti 
+16 pitná voda 
+17 pitný 
+18 pitvati 
+19 piv 
+20 pivo 
+21 pivovar 
+22 pl
+23 pla 
+24 plahočiti se 
+25 plakát 
+26 plakátovati 
+27 plamen 
+28 plamenomet 
+29 plán 
+30 plán boje 
+31 plán manévru 
+32 plán opevňovacích prací 
+35 plán o užití dělostřelectva 
+34 plán o zničení komunikací 
+35 plán palby 
+36 plán pozorování 
+37 plán přemístění 
+38 plán spojení 
+39 plán styku 
+40 plán útoku 
+41 planina 
+42 plánoměrný 
+43 plánovitý
+43 plánovitě
+43 plánovitost 
+44 planý
+44 planě
+45 plášť
+46 plastický 
+46 plasticky
+47 plat 
+48 platební
+49 platí 
+50 platina 
+51 platiti 
+52 plátno 
+53 platnost 
+54 platně 
+55 platný 
+56 platný do 
+57 platný od
+58 platz 
+59 plavati 
+60 plavba 
+61 plavební 
+62 plavec 
+63 Plavecké Podhradie 
+64 plavidlo 
+65 plavý 
+66 plaziti se 
+67 ple 
+68 plebiscit 
+69 plech 
+70 plechový 
+71 pleniti 
+72 plenární 
+73 pleso 
+74 plésti 
+75 plet 
+76 plev 
+77 plí 
+78 plícní 
+79 plísniti 
+80 plížiti se 
+81 plk 
+82 pln 
+83 plná noc 
+84 plně 
+85 plnění 
+86 plniti 
+87 plno 
+88 plnoletý 
+89 plnomocník 
+90 plnonocný 
+91 plný 
+92 plo 
+93 plod 
+94 plodný
+94 plodně 
+94 plodnost 
+95 plocha 
+96 plomba 
+97 plombovati 
+98 plošina 
+99 plot 

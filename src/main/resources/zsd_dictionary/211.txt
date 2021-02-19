@@ -1,0 +1,107 @@
+211
+
+00 žebrati 
+01 žec 
+02 žecí 
+03 žeh 
+04 žek 
+05 žel 
+06 želatina 
+07 žele 
+08 želeti 
+09 želez 
+10 železničář 
+11 železnice 
+12 železniční 
+13 železniční doprava 
+14 železniční materiál 
+15 železniční most 
+16 železniční objekt 
+17 železniční pluk 
+18 železniční prapor 
+19 železniční provozovací prap. 
+20 železniční provozovací rota 
+21 železniční stanice 
+22 železniční stavební rota 
+23 železniční trať 
+24 železniční traťové velit. 
+25 železniční úzel
+26 železný 
+27 železná zásoba 
+28 železo 
+29 železobeton 
+30 železobetonový 
+31 železobetonový most 
+32 železobetonová stavba 
+33 žem 
+34 žen 
+35 žena 
+36 ženatý 
+37 žení 
+38 ženijní 
+39 ženijní důstojník 
+40 ženijní materiál 
+41 ženijní park 
+42 ženijní pluk 
+43 ženijní prapor
+44 ženijní rota 
+45 ženijní sklad 
+46 ženijní vojsko 
+47 ženijní zbrojní četa 
+48 ženista 
+49 ženský 
+50 ženština 
+51 žerď 
+52 žert 
+53 žertem  
+54 žertovati
+55 žes 
+56 žev 
+57 žezlo 
+58 žhář 
+59 žhářství 
+60 žhavý
+60 žhavě
+61 ži
+62 žid 
+63 židovka 
+64 židovský 
+65 židle 
+66 žíla 
+67 Žilina 
+68 žín 
+69 žír
+70 žíravina
+71 žíravý
+71 žíravě
+72 žít 
+73 Žitava 
+74 žití 
+75 žíti 
+76 žitný 
+77 Žitný ostrov 
+78 žitoo
+79 živě 
+80 živený 
+81 živených 
+82 živel 
+83 živelní 
+83 živelně
+84 živí 
+85 živitel 
+86 živiti se 
+87 živnost 
+88 živnostenský 
+88 živnostensky 
+89 živnostník 
+90 živný 
+91 živořiti 
+92 živost 
+93 život 
+94 životní 
+95 živý 
+96 žízeň 
+97 žízniti
+98 žíznivý 
+98 žíznivě 
+99 žiž 

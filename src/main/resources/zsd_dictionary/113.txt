@@ -1,0 +1,110 @@
+113
+
+00 pochmurný  
+00 pochmurně 
+01 pochod 
+02 pochodová 
+03 pochodová sestava 
+04 pochodová pohotovost 
+05 pochodové 
+06 pochodové disposice 
+07 pochodový 
+08 pochodový proud 
+09 pochodový rozkaz 
+10 pochodový tvar 
+11 pochoditi 
+12 pochop 
+13 pochopitelný
+13 pochopitelně
+14 pochopiti 
+15 pochvala 
+16 pochvalné uznání 
+17 pochvalný 
+17 pochvalně
+18 pochváliti 
+19 pochybnost 
+20 pochybný 
+20 pochybně
+21 poi 
+22 poj 
+23 pojatí 
+24 pojatý 
+25 pojednou 
+26 pojednání 
+27 pojednávati 
+28 pojem 
+29 pojetí 
+30 pojímati 
+31 pojiti se 
+32 pojítko 
+33 pojistiti se 
+34 pojištění 
+35 pojistka 
+36 pojistné 
+38 pojišťovati se 
+39 pojízdní 
+40 pojízdný 
+41 pojmenovati 
+42 pojmenovaný 
+43 pojmouti 
+44 pok 
+45 pokárati 
+46 pokaždé 
+47 pokažený 
+48 pokaziti 
+49 pokl 
+50 pokládati 
+51 pokladna 
+52 pokladní 
+53 pokladník 
+54 poklesek 
+55 poklesnouti 
+56 poklo 
+57 pokoj 
+58 pokojný 
+58 pokojně
+59 pokora 
+60 pokořiti 
+61 pokorný  
+61 pokorně 
+62 pokoušeti se 
+63 pokoutní
+63 pokoutně
+64 pokračovací 
+65 pokračování 
+66 pokračovati 
+67 pokračovati v
+68 pokračovati v pochodu 
+69 pokračovati v postupu 
+70 pokračovati v útoku 
+71 pokraj 
+72 pokraj lesa 
+73 pokraj vesnice 
+74 pokřik 
+75 pokrm 
+76 pokro 
+77 pokročilý
+77 pokročile 
+78 pokročiti 
+79 pokrok 
+80 pokry 
+81 pokrytec 
+82 pokrýti 
+83 pokrytý 
+84 pokrývati
+85 pokud 
+86 pokud bude 
+87 pokud jde o 
+88 pokud jsem 
+89 pokud možno 
+90 pokud nebude 
+91 pokud se 
+92 pokud se týká 
+93 pokus 
+94 pokusiti se 
+95 pokušení 
+96 pokusný  
+96 pokusně 
+97 pokuta 
+98 pokutovati 
+99 pokyn 

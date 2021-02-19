@@ -1,0 +1,124 @@
+013
+
+00 bezpředmetný 
+01 bezpříkladný
+01 bezpříkladně
+02 bezprostřední
+02 bezprostředně
+03 bezradný
+03 bezradně
+03 bezradnost
+04 bezstarostný
+04 bezstarostně
+04 bezstarostnost
+05 beztak
+06 beztaktní 
+06 beztaktně 
+07 beztaktnost 
+08 beztrestnost 
+09 beztrestný 
+09 beztrestně 
+10 bezilčelný
+10 bezilčelně
+11 bezúhonný
+11 bezúhonně
+12 bezuspěšný
+12 bezuspěšně
+12 bezuspěšnost
+13 bezvadný
+13 bezvadně
+14 bezvědomí
+15 bezvládní
+16 bezvýsledný
+16 bezvýsledně
+17 bezvýsledné jednání
+18 bezvýsledné pátrání        
+19 bezvýznamný 
+19 bezvýznamně         
+20 běž                      
+21 běžec                   
+22 běžeti                    
+23 běžné číslo             
+24 běžný  
+24 běžně              
+25 bi                      
+26 Biala                   
+27 Bialastok
+28 bic
+29 bič
+30 bid
+31 bída
+32 bídný
+32 bídně
+33 bie                    
+34 bij                    
+35 bil                     
+36 bílá                    
+37 bilance                  
+38 bílé                     
+39 bili                    
+40 Bílsko                  
+41 bílý                    
+42 bio                     
+43 biograf
+44 bir
+45 Birago
+46 bis                     
+47 biskup
+48 biskupský
+49 biskupství    
+50 bitevní
+51 bitevní letctvlo
+52 bitevní nálet
+53 bitevní plán
+54 bitevní síť
+55 bitevní sled
+56 bitevní úsek
+57 bíti
+58 bíti se
+59 bitka
+60 bitva
+61 bl
+62 bla
+63 blaho
+64 blahopřání
+65 blahopřáti
+66 blam
+67 blamáž
+68 blamovati
+69 blan
+70 blat
+71 Blatenské jezero
+72 blátivý
+73 bláto
+74 blau
+75 blaz
+76 blázniti
+77 ble
+78 bledý
+78 bledě
+79 blesk
+80 bleskurychlý
+80 bleskurychle
+81 bli
+82 blín
+83 blízký
+83 blízko
+84 blížiti se
+85 bližší
+86 bližší podrobnosti
+87 bližší zprávy
+88 blo
+89 blok
+90 blokáda
+91 blokovati
+92 blokovaný
+93 blond
+94 blu
+95 blud
+47 biskup
+96 bo
+97 bob
+98 boční
+98 bočně
+99 bočná palba

@@ -1,0 +1,106 @@
+116
+
+00 porota 
+01 porotec 
+02 porotní 
+03 poroučeti 
+04 porouchaný 
+05 porouchati 
+06 porovnání 
+07 porovnati 
+08 porozumění 
+09 porozuměti 
+10 port 
+11 porto 
+12 poru 
+13 poručík 
+14 poručník 
+15 poručiti 
+16 porucha 
+17 porušení 
+18 porušený 
+19 porušiti 
+20 pos 
+21 posádka 
+22 posádková 
+23 posádková nemocnice 
+24 posádková správa 
+25 posádkové 
+26 posádkové velitelství 
+27 posádkový 
+28 posádkový velitel 
+29 posavad 
+30 posavádní
+31 posáz 
+32 pose 
+33 posel 
+34 poselství 
+35 poshověti 
+36 poschodí 
+37 posice 
+38 posiční 
+39 posiční boj 
+40 posila 
+41 posílati 
+42 posílený 
+43 posilniti 
+44 posilový 
+45 positívně 
+46 positivní 
+47 poskrovnu 
+47 poskrovně
+48 poskytnouti 
+49 poskytnutý 
+49 poskytnuty
+50 poslanec
+51 poslanecký
+52 poslanecký mandát
+53 poslanecká sněmovna
+54 poslaní
+55 poslaný 
+56 poslati 
+57 poslal 
+58 poslal jsem 
+59 posledně 
+60 poslední 
+61 poslední hlášení
+62 poslední telegram  
+63 poslední zpráva  
+64 poslechnouti 
+65 posléze 
+66 poslouchati 
+67 posloužiti 
+68 posluha 
+69 posluhovati 
+70 posluchač 
+71 poslušnost 
+72 poslušný 
+72 poslušně 
+73 posměch 
+74 posmívati se 
+75 posouditi 
+76 pospas 
+77 pospíchati 
+78 pospo 
+79 postačitelný 
+80 postačiti 
+81 postarati se 
+82 postátněný 
+83 postátniti 
+84 postava 
+85 postavení 
+86 postavení předních stráží
+87 postaýený 
+88 postaviti 
+89 postaviti se
+90 poste restante 
+91 postěžovati si 
+92 posti 
+93 postihnouti 
+94 postižený 
+95 posto 
+96 Postoloprty 
+97 postoupený 
+97 postoupeny
+98 postoupiti 
+99 postrádati 

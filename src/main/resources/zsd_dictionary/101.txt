@@ -1,0 +1,102 @@
+101
+
+00 oli 
+01 oliv 
+02 oll 
+03 olm 
+04 oln 
+05 olo 
+06 Olomouc 
+07 olou 
+08 oloupený 
+09 oloupiti 
+10 olověný  
+11 olověný akumulátor
+12 olovo 
+13 ols 
+14 olš 
+15 Olšava 
+16 olt 
+17 om
+18 omámiti 
+19 ome 
+20 omezený 
+21 omeziti 
+22 omeziti se 
+23 omi 
+24 omlouvati 
+25 omluva 
+26 omluvitelný 
+27 omluviti se 
+28 omnibus 
+29 omrzelý 
+30 omrzeti 
+31 omn 
+32 omyl 
+33 on 
+34 ona 
+35 onář 
+36 one 
+37 oné 
+38 onemocněti 
+39 oněm 
+40 onen 
+41 oni 
+42 ono 
+43 onu 
+44 ony 
+45 op 
+46 opa 
+47 opačně 
+46 opačný 
+49 opak 
+50 opakovací 
+51 opakování 
+52 opakovati 
+53 opakovati se 
+54 opakujte 
+55 opakování 
+56 opal 
+57 opanovati 
+58 opas 
+59 opasek 
+60 opat 
+61 opatřiti 
+62 opatření 
+63 opatřený 
+64 opatrně 
+65 opatrnost 
+66 opatrný 
+67 opatrovati 
+68 opatrovna 
+69 opav 
+70 Opava 
+71 ope 
+72 Opěra 
+73 opěrný 
+74 opěrný bod 
+75 opěrné stansviště 
+76 operace 
+77 operační 
+78 operační oddělení 
+79 operační oddělení hl.št.
+80 operační pásmo 
+81 operační plán 
+82 operační prostor 
+83 operačnírozkaz 
+84 operační síť
+85 operační základna 
+86 operující 
+87 operující armáda 
+88 operatívní
+89 operovati 
+90 opět 
+91 opětovaný 
+92 opětovati 
+93 opětně 
+94 opětný 
+95 opevnění 
+96 opevněný 
+97 opevněná posice 
+98 opevniti 
+99 opevniti se

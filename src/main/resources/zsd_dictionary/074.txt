@@ -1,0 +1,105 @@
+074
+
+00 melinit 
+01 melinitový 
+02 mělký  
+02 mělkce
+03 mělo 
+04 melodický
+04 melodicky
+05 melu 
+06 měly
+07 mem 
+08 mém 
+09 memoir 
+10 memorandum 
+11 mému 
+12 mému hlášení 
+13 mému návrhu 
+14 men 
+15 měn 
+16 měna 
+17 méně 
+18 měnění 
+19 měnitelný 
+20 měniti 
+21 měniti se 
+22 měnivý
+23 menšení 
+24 menšený 
+25 menší
+26 menšima 
+27 menšiti 
+28 mentalita 
+29 mer 
+30 měř 
+31 měření 
+32 měřený 
+33 měří 
+34 měřič 
+35 měřičský 
+36 měřítko 
+37 měřítko 1:
+38 měřítko 1: 5.000 
+39 měřítko 1: 10.000 
+40 měřítko 1: 20.000 
+41 měřítko 1: 25 sooo 
+42 měřítko 1: 50,000 
+43 měřítko 1: 75.000 
+44 měřítko 1:100.000 
+45 měřítko 1:200.000 
+46 měřítko 1:750.000 
+47 mes 
+48 měs 
+49 něsíc 
+50 měsíční 
+51 mešita 
+52 meškati 
+53 měšťan 
+54 městečko
+55 mésti 
+56 město 
+57 městský 
+58 met 
+59 meta 
+60 metafor 
+61 metati 
+62 mete 
+63 meteorologická služba 
+64 meteorologická zpráva 
+65 meteorologický 
+66 meteorologie 
+67 metr 
+68 meto 
+69 metoda 
+70 metodický 
+70 metodicky 
+71 metr 
+72 metrický 
+73 metrický cent 
+74 metropol 
+75 Mexiko 
+76 mez
+77 mezek 
+78 mezera 
+79 mezi 
+80 Mezilaborce 
+81 mezinárodně 
+82 mezinárodní 
+83 mezinárodní doprava 
+84 mezinárodní komise 
+85 mezinárodní obchod 
+86 mezinárodní organisace 
+87 mezinárodní otázka 
+88 mezinárodní situace 
+89 mezinárodní smlouva 
+90 mezinárodní solidarita 
+91 mezinárodní styk 
+92 mezinárodní svaz 
+93 mezinárodní úmluva 
+94 mezinárodní vodní doprava 
+95 mezinárodní vzduchoplavba 
+96 mezinárodní žel.doprava 
+97 mezispojenecký 
+98 mezistátní 
+99 mezivládí 

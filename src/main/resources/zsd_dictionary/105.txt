@@ -1,0 +1,102 @@
+105
+
+00 ovaná 
+01 ována 
+02 ované 
+03 ovaný 
+04 ovati 
+05 ovce 
+06 ove 
+07 ové
+08 ově 
+09 ověřiti 
+10 ověřovací 
+11 ověřovati 
+12 oves 
+13 ovi 
+14 ovič 
+15 ovládaný 
+16 ovládnouti 
+17 ovo 
+18 ovoce 
+19 ovocná zahrada 
+20 ovski 
+21 ovský 
+22 ovše 
+23 ovšem 
+24 ovšem že 
+25 ový
+26 ových 
+27 ovým 
+28 ovzduší 
+29 owski 
+30 ox 
+31 oz 
+32 oza 
+33 ozářiti 
+34 ozbrojený 
+35 ozbrojiti 
+36 ozdrav 
+37 ozhřívka 
+38 oze 
+39 ozen 
+40 ozi 
+41 ozí 
+42 ozim 
+43 ozit 
+44 označení 
+45 označený 
+46 označiti 
+47 oznámení 
+48 oznámený 
+49 oznámiti 
+50 oznamte 
+51 ozo 
+52 ozu 
+53 ozvati se 
+54 ozvěna 
+55 ozvuk 
+56 ozývati se 
+57 ož 
+58 ože 
+59 ožeh 
+60 oželený 
+61 oželiti 
+62 oženiti se 
+63 oží 
+64 oživiti 
+65 oživený 
+66 oživnouti 
+67 ožni 
+68 ožný 
+69 
+70 
+71 
+72 
+73 
+74 
+75 
+76 
+77 
+78 
+79 
+80 
+81 
+82 
+83 
+84 
+85 
+86 
+87 
+88 
+89 
+90 
+91 
+92 
+93 
+94 
+95 
+96 
+97 
+98 
+99 

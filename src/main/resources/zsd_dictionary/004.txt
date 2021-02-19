@@ -1,0 +1,99 @@
+004
+
+00 / /:zlomková čára:/ 
+01 1/2 
+02 1/3
+03 1/4 
+04 1/5 
+05 1/10 
+06 2/3
+07 3/4 
+08 4/5 
+09 9/10 
+10 0. 
+11 0.0
+12 0.5
+13 0 hod. 
+14 1 hod.
+15 2 hod.
+16 3 hod.
+17 4 hod.
+18 5 hod. 
+19 6 hod.
+20 7 hod.
+21 8 hod.
+22 9 hod.
+23 10 hod.
+24 11 hod.
+25 12 hod.
+26 13 hod.
+27 14 hod.
+28 15 hod.
+29 16 hod.
+30 17 hod.
+31 18 hod.
+32 19 hod.
+33 20 hod.
+34 21 hod.
+35 22 hod.
+36 23 hod.
+37 24 hod.
+38 00 minut  
+39 01 minut
+40 02 minut
+41 03 minut
+42 04 minut
+43 05 minut
+44 06 minut
+45 07 minut
+46 08 minut
+47 09 minut
+48 10 minut 
+49 11 minut
+50 12 minut
+51 13 minut
+52 14 minut
+53 15 minut
+54 16 minut
+55 17 minut
+56 18 minut
+57 19 minut
+58 20 minut
+59 21 minut
+60 22 minut
+61 23 minut
+62 24 minut
+63 25 minut
+64 26 minut
+65 27 minut
+66 28 minut
+67 29 minut
+68 30 minut
+69 31 minut
+70 32 minut
+71 33 minut
+72 34 minut
+73 35 minut
+74 36 minut
+75 37 minut
+76 38 minut
+77 39 minut
+78 40 minut
+79 41 minut
+80 42 minut
+81 43 minut
+82 44 minut
+83 45 minut
+85 47 minut
+86 48 minut
+87 49 minut
+88 50 minut
+89 51 minut
+90 52 minut
+91 53 minut
+92 54 minut
+93 55 minut
+94 56 minut
+95 57 minut
+96 58 minut
+97 59 minut

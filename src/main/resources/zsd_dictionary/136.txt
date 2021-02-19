@@ -1,0 +1,111 @@
+136
+
+00 ros 
+01 roš 
+02 rosa 
+05 rost 
+04 rostlý 
+05 Roth 
+06 rota 
+07 rota obrněných aut 
+08 rota panc.vlaku 
+09 rota pěchoty 
+10 rota tanků 
+11 rotace 
+12 rotační 
+13 rote 
+14 rotmistr 
+15 rotný 
+16 roty 
+17 rou 
+18 roub 
+19 roura 
+20 rourový 
+21 rouška 
+22 rout 
+23 rov 
+24 roveň 
+25 rovina 
+26 rovnati se 
+27 rovně 
+28 rovněž 
+29 rovnice 
+30 rovno 
+31 rovnoběžný
+31 rovnoběžně
+32 rovnoměmý 
+32 rovnoměmě
+33 rovnoprávný 
+33 rovnoprávně
+34 rovnost 
+35 rovnováha 
+36 rovný 
+37 roy 
+38 royal 
+39 roz 
+40 rož 
+41 rozbaliti 
+42 rozběh 
+43 rozběhnouti se 
+44 robíhati se 
+45 rozbíjeti 
+46 rozbírati 
+47 rozbíti 
+48 rozbor 
+49 rozbořiti 
+50 rozbourati 
+51 rozbroj 
+52 rozbuška 
+53 rozcestí 
+54 rozčilení 
+55 rozčilený
+55 rozčileně
+56 rozčlenění 
+57 rozčleněný 
+57 rozčleněně
+58 rozčleniti 
+59 rozdělení 
+60 rozdělený
+60 rozděleně 
+61 rozděliti 
+62 rozdíl 
+63 rozdílnost 
+64 rozdílný 
+64 rozdílně 
+65 rozdvojiti 
+66 rozebrati 
+67 rozebraný 
+68 rozehnati 
+69 rozehřáti 
+70 rozejíti se 
+71 rozepře 
+72 rozepsati 
+73 rozeslati 
+74 rozeštváti 
+75 rozestavení 
+76 rozestaviti se 
+77 rozevříti 
+78 rozezlený 
+78 rozezleně
+79 rozeznati 
+80 rozeznávati 
+81 rozháněti 
+82 rozháraný 
+83 rozhlas 
+84 rozhlásiti 
+85 rozhlášený 
+86 rozhled 
+87 rozhledna 
+88 rozhlížeti se 
+89 rozhodčí 
+90 rozhoditi 
+91 rozhodně 
+92 rozhodný 
+92 rozhodnost  
+93 rozhodnutí 
+94 rozhodnouti 
+95 rozhodnouti se 
+96 rozhodovati 
+97 rozhodující 
+98 rozhořčení 
+99 rozhorliti se 

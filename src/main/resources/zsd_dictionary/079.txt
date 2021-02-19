@@ -1,0 +1,105 @@
+079
+
+00 mu 
+01 mučivý 
+01 mučivě 
+02 mučiti
+03 můj 
+04 můj názor 
+05 můj rozkaz 
+06 muk 
+07 mul 
+08 muly 
+09 mum 
+10 mun 
+11 Münchener Nachrichten 
+12 munice 
+13 municipální  
+13 municipálně
+14 muniční 
+15 muniční dotace 
+16 muniční kolona 
+17 muniční park 
+18 muniční sklad 
+19 muniční továrna 
+20 muniční vůz 
+21 muniční zásoba 
+22 Münster 
+23 mur 
+24 mus 
+25 musel 
+26 muš 
+27 museum 
+28 musí 
+29 musiti 
+30 můstek 
+31 mut
+32 muz 
+33 muž 
+34 může 
+35 můžeme 
+36 můžete 
+37 mužík 
+38 mužný  
+38 mužně
+39 mužský 
+40 mužstvo 
+41 my 
+42 mycí 
+43 myd 
+44 Myjava 
+45 myl 
+46 mýliti 
+47 mýliti se 
+48 mýlka 
+49 mylný
+49 mylně 
+50 mým 
+51 mys
+52 mysl 
+53 myslitelný 
+54 mysliti 
+55 myslím 
+55 myslím že 
+56 myslivec 
+57 myslivna 
+58 myš
+59 myšlení 
+60 myšenka 
+61 myšenka manévru 
+62 myšlenkový 
+63 myšlený 
+64 mystifikace 
+65 mystifikační 
+66 mystifikovati 
+67 myti 
+68 mýtína 
+69 mýtiti 
+70 mýto 
+71 mzda 
+72 mzdový 
+73 Mže 
+74 mži 
+75 mžik 
+76 mžikati 
+77 mžitky 
+79 
+80 
+81 
+82 
+85 
+84 
+85 
+86 
+87 
+88 
+89 
+90 
+91 
+95 
+94 
+95 
+96 
+97 
+98 
+99 

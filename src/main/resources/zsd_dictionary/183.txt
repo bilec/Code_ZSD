@@ -1,0 +1,103 @@
+183
+
+00 vnitř 
+01 vnitřek 
+02 vnitřní 
+03 vnitřní palebná přehrada 
+04 vnořiti 
+05 vnu 
+06 vnucený 
+07 vnuk 
+08 vnuknouti 
+09 vnulnutí 
+10 vnutiti 
+11 vo 
+12 voda 
+13 vodárna 
+14 vodící 
+15 vodič 
+16 vodítko 
+17 vodík 
+18 voditi 
+19 vodní 
+20 vodní příkop 
+21 vodní tok 
+22 vodojem 
+23 vodoměr 
+24 vodopád 
+25 vodorovný 
+25 vodorovně
+26 vodovod 
+27 vodstvo 
+28 vog 
+29 voh 
+30 voj 
+31 voják 
+32 vojáci 
+35 vojenská 
+34 vojenská akademie 
+35 vojenská kanc.pres.rep. 
+36 vojenská mise 
+37 vojenská policie 
+38 vojenská správa 
+39 vojenské 
+40 vojenské budovy 
+41 vojenské cvičiště 
+42 vojenskéletiště 
+43 vojenský 
+44 vojenský attaché 
+45 vojenský hřbet 
+46 vojenský okraj 
+47 vojenský plnomocník 
+48 vojenský prokurátor 
+49 vojenský přidělenec 
+50 vojenský soud  
+51 vojenská správa 
+52 vojenský tábor
+53 vojenský tech.let.ústav 
+54 vojenský transport  
+55 vojenský ústav 
+56 vojenský útvar
+57 vojenství 
+58 vojevůdce 
+59 vojín
+60 vojsko 
+61 vojskový 
+62 vojskové těleso 
+63 Vojtěch 
+64 vol 
+65 volati 
+66 volaný 
+67 volba 
+68 volební 
+69 volený 
+70 voli 
+71 volič 
+72 voliti 
+73 volně 
+74 volno 
+75 volnost 
+76 volný 
+77 volt 
+78 voltů 
+79 von 
+80 vor 
+81 voř
+82 vos 
+83 vosk 
+84 vot 
+85 votant 
+86 vote 
+87 voti 
+88 votní 
+89 votný 
+90 voto 
+91 votum 
+92 voty 
+93 vou 
+94 vous 
+95 vousy 
+96 vousatý 
+97 vov
+98 voz 
+99 vozataj 

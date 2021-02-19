@@ -1,0 +1,106 @@
+047
+
+00 hořký 
+01 hořlavina 
+02 hořlavý 
+03 horliti 
+04 horlivý
+04 horlivě 
+05 horn 
+06 hornatina 
+07 hornatý 
+08 horní 
+09 horní Dvořiště 
+10 horní Litvínov 
+11 horní Rakousy 
+12 hornický 
+15 hornictví 
+14 horník 
+15 horovati 
+16 horská 
+17 horská baterie 
+18 horská brigáda 
+19 horská houfnice 
+20 horská pěchota 
+21 horská výzbroj 
+22 horské 
+23 horské dělo 
+24 horské dělostřelectvo 
+25 horský 
+26 horský děl. oddíl 
+27 horský děl. pluk 
+28 horský kanon 
+29 horský pluk 
+30 horský orapor 
+31 horský útvar 
+32 horší 
+33 horšiti 
+34 horstvo 
+35 horu 
+36 hory 
+37 hos 
+38 hoš 
+39 hospoda 
+40 hospodařiti 
+41 hospodárný 
+41 hospodárně 
+42 hospodářská 
+43 hospodářská budova 
+44 hospodářská situace 
+45 hospodářská služba 
+46 hospodářská správa 
+47 hospodářské 
+48 hospodářské těleso 
+49 hospodářský 
+50 hospodářský gůstojník 
+51 hospodářský úřad
+52 hospodářství 
+53 host 
+54 hostina 
+55 hostinec 
+56 hostinský 
+57 hostiti
+58 Hostouň 
+59 hotel 
+60 hotelový 
+61 Hotchkiss 
+62 hotov 
+63 hotově 
+64 hotovost 
+65 hotovostní 
+66 hotovostní postavení 
+67 hotový 
+68 hou 
+69 houf 
+70 houfec 
+71 houfnice 
+72 houfnicový 
+73 houfný  
+73 houfně
+74 hous 
+75 houževnatost 
+76 houževnatý  
+76 houževnatě
+77 houževnatý odpor 
+78 hov 
+79 hověti 
+80 hovězí 
+81 hovor 
+82 hovořiti 
+83 hovorna 
+84 hovorný 
+85 hr 
+86 hra 
+87 hrabě 
+88 hrabivý 
+89 hrací 
+90 hráč 
+91 hrad
+92 hradba 
+93 Hredčany 
+94 hradební 
+95 Hradec Kralové 
+96 hraditi 
+97 hradní 
+98 hradní stráž 
+99 hrách 

@@ -1,0 +1,106 @@
+137
+
+00 rozhovor 
+01 rozhraní  
+02 rozhraní mezi 
+03 rozhraničovati
+04 rozcházeti se 
+05 rozchod 
+06 rozjeti se 
+07 rozjetý 
+08 rozjížděti se 
+09 rozkaz 
+10 rozkaz k útoku 
+11 rozkaz pro 
+12 rozkázati 
+13 rozkazovati 
+14 rozklad 
+15 rozkládati se 
+16 rozkladný 
+16 rozkladně 
+17 rozkol 
+18 rozkopati 
+19 rozkopaný 
+20 rozkouskovaný 
+21 rozkouskovati 
+22 rozladění 
+23 rozladěný 
+24 rozladiti 
+25 rozléhati se 
+26 rozlezlý 
+27 rozletěti 
+28 rozležeti 
+29 rozličný  
+29 rozličně
+30 rozlišovati 
+31 rozlíti 
+32 rozloha 
+33 rozloučiti 
+34 rozložení 
+35 rozložení sil 
+36 rozložený 
+37 rozložití 
+38 rozhněvati 
+39 rozluštění 
+40 rozluštěný
+41 rozluštiti
+42 rozmáhati se
+43 rozmach 
+44 rozmanitý
+44 rozmanitě 
+45 rožnanitost
+46 rozmar 
+47 rozmazati 
+48 rozměr 
+49 rozměřiti 
+50 rozměry 
+51 rozmlouvati 
+52 roznluva 
+53 rozmnožený 
+54 rozmnožiti 
+55 rozmoci se 
+56 rozmysliti si 
+57 rozmyšlení 
+58 rozmýšleti se 
+59 roznášeti 
+60 rozněcovati 
+61 roznemoci se 
+62 roznésti 
+63 rozohniti se 
+64 rozpačitost 
+65 rozpačitý 
+65 rozpačitě  
+66 rozpadávati se 
+67 rozpadnutí 
+68 rozpakovati se 
+69 rozpaky 
+70 rozpínati 
+71 rozpínavost 
+72 rozplynouti se 
+73 rozpočet 
+74 rozpočítati 
+75 rozpočtený 
+76 rozpomenouti se 
+77 rozpor 
+78 rozpoutati se 
+79 rozpoznávati 
+80 rozprask 
+81 rozprášiti 
+82 rozprava 
+83 rozprchlý 
+84 rozprchnouti se 
+85 rozprostírati se 
+86 rozprostírající se 
+87 rozprouditi 
+86 rozptyl 
+89 rozptýlení 
+90 rozptýliti se 
+91 rozpůliti 
+92 rozpastiti 
+93 rozraziti 
+94 rozřešiti 
+95 rozříznouti 
+96 rozruch 
+97 rozrušiti 
+98 rozrýti 
+99 rozsáhlý 

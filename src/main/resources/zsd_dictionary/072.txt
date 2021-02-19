@@ -1,0 +1,106 @@
+072
+
+00 maďarský voj. attaché
+01 maďarský výzvědač 
+02 maďarský zběh
+03 Madsen 
+04 maf 
+05 nag 
+06 Magdeburg
+07 magistrát 
+08 magistrátní
+09 magnet 
+10 Magura 
+11 nagyar 
+12 Magyaróvár 
+13 mach 
+14 machinace 
+15 maj 
+16 máj 
+17 naja 
+18 maják 
+19 maje 
+20 majetek 
+21 najetný 
+22 maji 
+23 mají 
+24 mající 
+25 majitel 
+26 major 
+27 major gen.štábu 
+28 major v.v.
+29 major zál.
+30 majorát 
+31 majorátní 
+32 májový 
+33 mák
+34 mak 
+35 makový 
+36 mal 
+37 malá 
+38 Malá dohoda 
+39 Malá Fatra 
+40 Malacky 
+41 malarie 
+42 malátněti 
+43 malátný 
+43 malátně
+44 malba 
+45 malé 
+46 Malé Karpaty 
+47 malebný 
+47 malebně 
+48 nali 
+49 malicherný 
+49 malicherně 
+50 malíř 
+51 málo 
+52 malo 
+53 malodohodový 
+54 maloměstský 
+55 malovati 
+56 malta 
+57 malý 
+58 malý minomet 
+59 malý význam 
+60 malý zájem
+61 mam 
+62 mám 
+63 mám dojem že 
+64 mám v úmyslu 
+65 máme
+66 máme informace 
+67 máme zde 
+68 námiti 
+69 man
+70 mandát 
+71 manévr 
+72 manévr bočný 
+75 manévr čelný 
+74 manévr obchvatný 
+75 manévr palbou 
+76 manévrovací 
+77 manévrovati 
+78 manévrový
+79 manévrový prostor 
+80 manévry 
+81 maně 
+82 mani 
+83 manifest
+84 manifestace 
+85 manifestační  
+85 manifestačně
+86 manifestovati 
+87 manipulace 
+88 manipulační 
+89 manipulační  důstojník 
+90 manípulovati 
+91 Manlicher 
+92 manuskript 
+93 manžel
+94 manželé 
+95 manželka 
+96 mapa 
+97 mapa l:
+98 mapa generální 
+99 mapa speciální 

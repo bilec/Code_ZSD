@@ -1,0 +1,105 @@
+133
+
+00 rako 
+01 rákosí 
+02 rakouská
+03 rakouská armáda
+04 rakouská vláda 
+05 rakouské 
+06 rakouské hranice 
+07 rakouské vojsko 
+08 rakouské vyslanectví 
+09 rakouský 
+10 rakouský gen.štáb 
+11 rakouský kancléř 
+12 rakouský konsul 
+13 rakouský president 
+14 rakouský spol.stát 
+15 rakouský vyslanec 
+16 Rakousko 
+17 ral 
+18 ram
+19 rámcový 
+20 rámě 
+21 rámec 
+22 rameno 
+23 rámový 
+24 rámová anténa 
+25 rampa 
+26 ran 
+27 rán 
+28 rána 
+29 rene  
+29 rené 
+30 ranění 
+31 raněný 
+32 raněných 
+33 raniti 
+34 renní 
+35 ráno 
+36 rap 
+37 rapidní
+37 rapidně
+38 raport 
+39 rar 
+40 ras 
+41 raš 
+42 rasantní 
+42 rasantně 
+43 rašelina 
+44 rašeliniště 
+45 raší 
+46 rat 
+47 rati 
+48 Ratiboř 
+49 ratifik 
+50 rato 
+51 ratu 
+52 raty 
+53 rau 
+54 rav 
+55 rava 
+56 ray 
+57 rayon 
+58 raz 
+59 ráz 
+60 raž 
+61 ráž 
+62 rázem 
+63 raziti 
+64 rázně 
+65 ráznost 
+66 rázný 
+67 ráže 
+68 ražení 
+69 ražený 
+70 rb
+71 rc 
+72 rčení 
+73 rd
+74 rdousiti 
+75 re 
+76 ré 
+77 rea 
+78 reagovati 
+79 reakce 
+BO reakční 
+81 real 
+82 reálka 
+85 realné gymnasium 
+84 realný 
+85 realigovati 
+86 reb 
+rec rec
+83 recepis 
+89 reciprocita 
+90 reciprokní 
+91 reco 
+92 recte 
+93 red 
+94 redakce 
+95 redakční 
+96 redaktor 
+97 redigovati 
+98 redu 
+99 redukce 

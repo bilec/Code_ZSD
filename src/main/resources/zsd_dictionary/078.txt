@@ -1,0 +1,104 @@
+078
+
+00 Morning Post
+01 Morse
+02 Morseovy značky
+03 Morseův telegraf
+04 noře
+05 mořský
+06 mos
+07 mosaz
+08 Moskva
+09 Most
+10 most
+11 most betonový
+12 most dřevěný
+13 most kamenný
+14 most železný
+15 mostní
+16 mostní četa
+17 mostní prapor
+18 mostní rota
+19 mostová souprava
+20 mostový
+21 mot
+22 motiv
+23 moto
+24 motocykl
+25 motocyklista
+26 motor
+27 motor B.D.
+28 motor Castor
+29 motor D.D.
+30 motor Hispano—Suisa
+31 motor Jupiter
+32 motor Loraine-Dietrich
+33 motor Škoda
+34 motor Walter
+35 motorisace
+36 motorová
+37 motorová loď
+38 motorová vozidla
+39 motorové
+40 motorový
+41 motorovýčlun
+42 mou
+43 mouč
+44 moudře
+45 moudrost
+46 moudrý
+47 mouka
+48 mour
+49 mov
+50 movitost
+51 novitý
+52 moz
+53 moždíř
+54 moždířový
+55 nožná
+56 možné
+57 nožno
+58 nožnost
+59 možný
+60 mr
+61 mra
+62 mračiti se
+63 mračno
+64 mrak
+65 mramor
+66 mrav
+67 mravní
+68 mravní uroveň
+69 mravnost
+70 mravo
+71 mráz
+72 mrazivý
+73 mrh
+74 mrhati
+75 mří
+76 mříž
+77 mrk
+78 mrs
+79 mrštiti
+80 mrštný 
+80 mrštně
+81 mrt
+82 mrtev
+85 mrtvice
+84 mrtvola
+85 mrtvý
+86 mrtvých
+87 mru
+88 mrv
+89 mrz
+90 mrzačiti
+91 mrzák
+92 mrznouti
+93 mrzutý 
+93 mrzutě
+94 mše
+95 msta
+96 mstitel
+97 mstíti se
+98 mstivý
+99 mt

@@ -1,0 +1,121 @@
+012
+
+00 bažina
+01 bažinatá půda
+02 bc                           
+03 bd                           
+04 bdělost                      
+05 bdělý                        
+06 bdíti                        
+07 be                           
+08 Bečva                        
+09 bed                          
+10 běda                         
+11 bedlivost                    
+12 bedlivý               
+12 bedlivě 
+13 bedna                        
+14 bedr                          
+15 Bedřich                       
+16 běh                     
+17 běhati                        
+18 během                        
+19 během dnešního dne            
+20 během měsíce                  
+21 během roku                    
+22 během útoku               
+23 bei                          
+24 bej                           
+25 bek                           
+26 Békescsaba                  
+27 bel                          
+28 běl                          
+29 Bělehrad                     
+30 belgický                      
+31 Belgie                        
+32 bělo                          
+33 ben                          
+34 Benátky                      
+35 Benešov                       
+36 benevolence                  
+37 benevolentní
+37 benevolentně                
+38 benzin                        
+39 benzinový                    
+40 benzinový motor                
+41 benzinový sklad                
+42 benzinový tank                
+43 benzol                        
+44 ber                            
+45 bera                           
+46 Berehovo                       
+47 berg                          
+48 Berlín                        
+49 Berl.Tageblatt                
+50 berlínský
+51 Bern
+52 bes
+53 Besarable
+54 beseda
+55 běs
+56 bet
+57 beta
+58 beton
+59 betonovati
+60 betonový
+61 bev
+62 bey
+63 bez
+64 bez důvodu 
+65 bez obavy 
+66 bez odkladu 
+67 bez ohledu na 
+68 bez odporu
+69 bez podpisu 
+70 bez říčiny 
+71 bez uspěchu 
+72 bez vědomí
+73 bez významu
+74 beze 
+75 beze všeho 
+76 beze ztrát
+77 bezcenný
+78 bezcenný dokument
+79 bezcenný material
+80 bezcenná zpráva 
+81 bezcitný
+81 bezcitně 
+81 bezcitnost 
+82 bezděčný 
+82 bezděčně
+83 bezdůvodný
+83 bezdůvodně 
+84 bezejmenný 
+85 bezhlavý 
+85 bezhlavě 
+85 bezhlavost 
+86 Bezkydy
+87 beznadějný 
+87 beznadějně 
+88 bezohledný
+88 bezohledně
+88 bezohlednost 
+89 bezpečí
+90 bezpečný 
+90 bezpečně
+90 bezpečnost
+91 bezpečnost 
+92 bezpečnostní
+93 bezpečnostní pásmo
+94 bezplatný
+94 bezplatně 
+94 bezplatnost  
+95 bezpodmínečně 
+96 bezpodmínečný 
+97 bezpodstatný
+97 bezpodstatně 
+97 bezpodstatnost 
+98 bezpráví
+99 bezprávný
+99 bezprávně
+99 bezprávnost

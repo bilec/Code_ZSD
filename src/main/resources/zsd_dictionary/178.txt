@@ -1,0 +1,103 @@
+178
+
+00 V
+01 v
+02 v. 
+03 v.r.  
+04 VTLÚ 
+05 v 
+06 v čas 
+07 v čase 
+08 v čase potřeby 
+09 v čele 
+10 v daném případě 
+11 v dohledné době 
+12 v dohodě 
+13 v dopise 
+14 v dotyku 
+15 v druhém sledu 
+16 v důsledku 
+17 v kladném případě 
+18 v krajním případě 
+19 v noci 
+20 v obnose 
+21 v okolí 
+22 v poměru 
+23 v Praze 
+24 v případě 
+25 v prvním sledu 
+26 v síle 
+27 v souvislosti 
+28 v té 
+29 v těchto dnech 
+30 v těsném dotyku 
+31 v těsném styku 
+32 v to 
+33 v tom 
+34 v třetím sledu 
+35 v záloze 
+36 v zápětí 
+37 v záporném případě 
+38 v zastoupení 
+39 va
+40 vá
+41 vábiti 
+42 váček 
+43 Václav 
+44 vací 
+45 vacuum 
+46 vad 
+47 vada 
+48 vaditi 
+49 vadný 
+50 vadou 
+51 vadu 
+52 vady 
+53 vag
+54 vagon 
+55 vagy 
+56 vah 
+57 Váh 
+58 váha 
+59 váhati 
+60 váhavý 
+60 váhavě
+61 vaho 
+62 vahu 
+63 vaj 
+64 vak 
+65 val 
+66 vala 
+67 valach 
+68 válcov 
+69 válčiště 
+70 válčiti 
+71 vale 
+72 válečná 
+73 válečná kořist 
+74 válečná rada 
+75 válečná škola 
+76 válečná výstroj 
+77 válečná výzbroj 
+78 válečné 
+79 válečné přípravy 
+80 válečné rozčlenění 
+81 válečné území 
+82 válečné zásoby 
+83 válečný 
+84 válečný material 
+85 válečný počet.stav 
+86 válečný průmysl 
+87 válečný soud 
+88 valiti se 
+89 válka 
+90 valně 
+91 valný 
+92 valný voj 
+93 valuta 
+94 valutový 
+95 valý 
+96 vám 
+97 Vám 
+98 Vámi 
+99 ván 

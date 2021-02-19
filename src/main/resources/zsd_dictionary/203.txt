@@ -1,0 +1,110 @@
+203
+
+00 zbíti 
+01 zbitý 
+02 zbl 
+03 zblázniti se 
+04 zblízka 
+05 zblo 
+06 zblouditi 
+07 zbo 
+08 zbořený 
+09 zbořiti 
+10 zboží 
+11 zbožný 
+12 zbr 
+13 zbraň 
+14 zbraně 
+15 zbraňovati 
+16 zbroj 
+17 zbrojení 
+18 zbrojíř 
+19 zbrojiti 
+20 zbrojmistr 
+21 zbrojně techn. 
+22 zbrojní 
+23 zbrojní park 
+24 zbrojní sklad 
+25 zbrojníslužba 
+26 zbrojní učiliště 
+27 zbrojnice 
+28 zbrojovka 
+29 zby 
+30 zbyl 
+31 zbylý 
+32 zbytečnost 
+33 zbytečný 
+33 zbytečně
+34 zbytek 
+35 zbývající 
+36 zbývati 
+37 zcela 
+38 zcelený 
+39 zceliti 
+40 zda
+41 zda by 
+42 zdá 
+43 zdá se 
+44 zdá se že
+45 zdali 
+46 zdání 
+47 zdánlivý
+47 zdánlivě
+48 zdar 
+49 zdařilý
+49 zdařile 
+50 zdařiti se 
+51 zdarma 
+52 zdárný 
+52 zdárně 
+53 zdáti se 
+54 zdatný
+54 zdatně
+55 zde 
+56 zdě 
+57 zdejší
+58 zdejší čj. 
+59 zdejšího 
+60 zdejších 
+61 zdejším 
+62 zdejšímu 
+63 zděšení 
+64 zděšený 
+65 zděsiti 
+66 zdi 
+67 zdlou 
+68 zdlouhavě 
+69 zdlouhavý 
+70 zdo 
+71 zdokonalený 
+72 zdokonaliti 
+73 zdola 
+74 zdolaný 
+75 zdolati 
+76 Zdolbunov 
+77 zdr 
+78 zdráhati se 
+79 zdráhá se 
+80 zdráhavý 
+80 zdráhavě 
+81 zdravá 
+82 zdravé 
+83 zdraviti 
+84 zdravotní 
+85 zdravotní aut.kolona 
+86 zdravotní dovolená 
+87 zdravotní stav 
+88 zdravotnický 
+89 zdravotnický material 
+90 zdravotnický personál 
+91 zdravotnický sklad 
+92 zdravotnictvo 
+93 zdravý
+93 zdravě 
+94 zdražení 
+95 zdražiti 
+96 zdrcený 
+96 zdrceně
+97 zdrcující 
+98 zdroj 
+99 zdrtiti 

@@ -1,0 +1,111 @@
+081
+
+00 nadále 
+01 nadání 
+02 nadarmo 
+03 nadávati 
+04 nádavkem 
+05 nadbytek 
+06 nade 
+07 nadejíti 
+08 naděje 
+09 nadějný
+09 nadějně
+10 naděliti 
+11 nádeník 
+12 nadepšati 
+13 nadhazovati 
+14 nádherný 
+14 nádherně 
+15 nadhoditi 
+16 nadcházeti 
+17 nadchnouti 
+18 nadchnut 
+19 nadíti se 
+20 nadlehčiti 
+21 nadlidský
+21 nadlidsky
+22 nádoba 
+23 nadobro 
+24 nadpis 
+25 nadpočetný 
+25 nadpočetně 
+26 nadporučík 
+27 nadpřirozený 
+28 nadprůměrný 
+29 nadr 
+30 nádraží 
+31 nádražní 
+32 nádražní velitel 
+33 nádražní velitelství 
+34 nadřízený 
+35 nadřízený uřad 
+36 nadřízenost 
+37 nádrž 
+38 nadržovati 
+39 nadsazovati 
+40 nadskok 
+41 nadšení 
+42 nadšený 
+42 nadšeně 
+43 nadšenec 
+44 nadutý
+44 nadutě
+44 nadutec   
+45 nádvoří 
+46 nadvýroba 
+47 nadzdvihnouti 
+48 nafta 
+49 naftový 
+50 nag 
+51 nagy 
+52 Nagy 
+53 Nagykanizsa 
+54 nah 
+55 naháněti 
+56 naházeti 
+57 nahlas 
+58 náhle 
+59 náhled 
+60 nahlédnouti 
+61 nahlížeti 
+62 náhlost 
+63 nahluchlý 
+64 náhlý 
+65 nahnati 
+66 nahnouti se 
+67 náhoda 
+68 nahodilý 
+68 nahodile  
+69 nahodilý cíl
+70 nahoditi se 
+71 náhodný
+71 náhodně  
+72 náhodou 
+73 nahoře 
+74 náhorní 
+75 náhorní planina 
+76 náhorní rovina 
+77 nahoru 
+78 náhrada 
+79 nahraditelný 
+80 nahraditi 
+81 náhradní 
+82 náhradní baterie 
+83 náhradní korouhev 
+84 náhradní peruť 
+85 náhradní prapor 
+86 náhradní rota 
+87 náhradní součástky 
+88 náhradní těleso 
+89 náhradní záloha 
+90 náhradník 
+91 nahražený 
+92 náhražka 
+93 náhražkový 
+94 nahražování
+95 nahrnouti se 
+96 náhrobek 
+97 nahromaditi 
+98 nahromaditi se 
+99 nahý 

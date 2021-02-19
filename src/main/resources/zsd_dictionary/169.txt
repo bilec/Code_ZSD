@@ -1,0 +1,105 @@
+169
+
+00 tvrdost 
+01 tvrdošíjný
+01 tvrdošíjně
+02 tvrdošíjnost 
+03 tvrdý 
+03 tvrdě 
+04 tvrz 
+05 tvrzení 
+06 tvůj 
+07 tvůrce 
+08 tvůrčí 
+09 ty 
+10 tyč 
+11 tyče 
+12 tyčiti 
+13 týden 
+14 týdenní 
+15 týdenník 
+16 týdne 
+17 týdně 
+18 týfová epidemie 
+19 týfus 
+20 týchž 
+21 tyk 
+22 tykati 
+23 týkati se 
+24 týl 
+25 týmž 
+26 týn 
+27 typ 
+28 typický 
+28 typicky
+29 typograf 
+30 typovati 
+31 typový 
+32 typus 
+33 tyr 
+34 tyran 
+35 týrati 
+36 tys 
+37 tytéž 
+38 tyto 
+39 týž 
+40 týž den 
+41 tz 
+42 tzt 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+61 
+62 
+63 
+64 
+65 
+66 
+67 
+68 
+69 
+70 
+71 
+72 
+73 
+74 
+75 
+76 
+77 
+78 
+79 
+80 
+81 
+82 
+83 
+84 
+85 
+86 
+87 
+86 
+89 
+90 
+91 
+92 
+93 
+94 
+95 
+96 
+97 
+98 
+99 

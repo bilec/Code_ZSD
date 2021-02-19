@@ -1,0 +1,106 @@
+007
+
+00 ady
+01 ae 
+02 aero             
+03 aerodrom        
+04 aeroklub        
+05 aerolinie       
+06 aeronautika     
+07 aeroplan        
+08 af           
+09 afe
+10 aféra
+11 aff
+12 afi 
+13 ag 
+14 aga
+15 age
+16 agenda
+17 agent 
+18 agi             
+19 agilní
+19 agilne      
+20 agilnost
+21 agitace 
+22 agítační
+22 agítačne      
+23 agitačné letáky      
+24 agitační material    
+25 agitátor
+26 agitovati        
+27 ago 
+28 agonie 
+29 agr    
+30 agrární 
+31 agrární strana
+32 agrárník   
+33 agrément   
+34 agresívní
+35 agronom
+36 ah        
+37 aha       
+38 ahati     
+39 ach       
+40 ai        
+41 aj        
+42 aje        
+43 aji         
+44 ající     
+45 ak  
+46 aka
+47 akadgmický 
+47 akadgmicky  
+48 akademie
+49 akademik  
+50 akce
+51 akce proti přípravám
+52 akceptovati
+53 akci
+54 akcionár 
+55 akciový
+56 akční
+57 akční pásmor
+58 akční radius
+59 ake
+60 ako
+61 akredit
+62 akt
+63 akta 
+64 akti 
+65 aktívni
+66 aktívni důstojník
+67 aktivovaný 
+68 aktivovati 
+69 aktivita
+70 aktuelní
+71 aku
+72 akumulátor
+73 akustické spojení 
+74 akustický
+75 akustický signál
+76 akutní
+76 akutne
+77 aký
+78 al
+79 ala 
+80 alarm 
+81 ale
+82 alepoň
+83 Alexandr 
+84 alfa
+85 ali
+86 aliance 
+87 alibi 
+88 alita
+89 alk
+90 alkaloid 
+91 alkohol
+92 all
+93 alm
+94 almanach
+95 aln
+96 ální
+97 álný
+98 alo
+99 alpský

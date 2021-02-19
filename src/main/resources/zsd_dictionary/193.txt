@@ -1,0 +1,102 @@
+193
+
+00 vzepěíti se 
+0l vzešlý 
+02 vzestupně 
+03 vzestupný 
+04 vzetí 
+05 vzezření 
+06 vzhled 
+07 vzhledem 
+08 vzhledem k
+09 vzhledem na 
+10 vzhůru 
+11 vzchopiti se 
+12 vzíti 
+13 vzkaz 
+14 vzkézati 
+15 vzkazovati 
+16 vzkřísiti 
+17 vzlet 
+18 vzmáhati se 
+19 vzmoci se 
+20 vzmužiti se 
+21 vznášeti se 
+22 vznésti se 
+23 vznešený 
+24 vznětlivý
+24 vznětlivě
+25 vznik 
+26 vznikati 
+27 vzniknouti 
+28 vzniklý 
+29 vzor 
+30 vzorec 
+31 vzorně 
+32 vzorný 
+33 vzpanatovati se 
+34 vzpomínka 
+35 vzpoura 
+36 vzpřímený 
+36 vzpřímeně
+37 vzpřímiti se 
+38 vzpruha 
+39 vzpružiti 
+40 vzrůst 
+41 vzrůstající 
+42 vzrůstati 
+43 vzrůsti 
+44 vztah 
+45 vztahovati se 
+46 vztahující se 
+47 vztahuje se 
+48 vztažný 
+49 vztažný bod 
+50 vztek 
+51 vzteklina 
+52 vzteklý 
+53 vztyčiti 
+54 vzývati 
+55 vždy 
+56 vždycky 
+57 vžíti se
+58 vžitý 
+59 
+60 
+61 
+62 
+64 
+65 
+66 
+67 
+68 
+69 
+70 
+71 
+72 
+73 
+74 
+75 
+76 
+77 
+78 
+79 
+80 
+81 
+82 
+83 
+84 
+85 
+86 
+87 
+88 
+89 
+91 
+92 
+93 
+94 
+95 
+96 
+97 
+98 
+99 

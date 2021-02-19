@@ -1,0 +1,109 @@
+099
+
+00 odškodniti 
+01 odště 
+02 odšti 
+03 odtáhnouti 
+04 odtamtud 
+05 odtok 
+06 odtrhnouti 
+07 odtroubiti 
+08 odtržený 
+09 odtud 
+10 odůvodněný 
+11 odůvodniti 
+12 odváděti 
+13 odvaha 
+14 odvážiti se 
+15 odvážný 
+15 odvážně
+16 odvážlivec 
+17 odvážlivý 
+18 odvedený 
+19 odvésti 
+20 odveta 
+21 odvetný 
+22 odvetá opatření 
+23 odvětiti 
+24 odvětví 
+25 odvézti 
+26 odvezený 
+27 odvislý
+27 odvisle
+28 odvislost 
+29 odvod 
+30 odvod ročníku 
+31 odvoditi 
+32 odvodní 
+32 odvodní komise
+34 odvodní ročník 
+35 odvolání 
+36 odvolati 
+37 odvolatelný  
+37 odvolatelně 
+38 odvolati 
+39 odvolací 
+40 odvozený 
+41 odvozovati 
+42 odvrácený 
+43 odvrácený svah 
+44 odvraceti 
+45 odvrátiti 
+46 odvyknouti 
+47 odvyklý 
+48 odzbrojiti 
+49 odzbrojení 
+50 odzbrojený 
+51 odznak 
+52 of
+53 ofe 
+54 ofensíva 
+55 ofensívní 
+56 ofensívní činnost 
+57 ofer 
+58 ofert 
+59 off 
+60 oficiál 
+61 oficiální  
+61 oficiálně
+62 oficiosní 
+62 oficiosně
+63 og 
+64 oh 
+65 oha 
+66 ohbí 
+67 ohbí cesty 
+68 ohbí řeky 
+69 ohbí silnice 
+70 ohbí železnice 
+71 ohe 
+72 oheň 
+73 ohl 
+74 ohlas 
+75 ohlásiti 
+76 ohlásiti se
+77 ohlášený 
+78 ohled 
+79 ohledně 
+80 ohlí 
+81 ohlížeti se 
+82 ohlu 
+83 ohlušiti 
+84 ohm 
+85 ohmů 
+86 ohn 
+87 ohňo 
+88 ohňomet 
+89 ohňostroj 
+90 ohnisko 
+91 ohnisko odporu 
+92 ohnivý  
+92 ohnivě
+93 ohnutý 
+93 ohnutě 
+94 oho 
+95 ohr 
+96 ohrada 
+97 ohraditi 
+98 ohraditi se
+99 ohraničení 

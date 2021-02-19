@@ -1,0 +1,105 @@
+032
+
+00 dose 
+01 dosi 
+02 dosíci 
+03 dosko 
+04 doslech 
+05 doslechnouti se 
+06 dosloužiti 
+07 doslov 
+08 doslovně 
+09 doslovný 
+10 doslovný obsah 
+11 doslovný překlad 
+12 doslovný text 
+13 doslýchati 
+14 dospělost 
+15 dospělý 
+16 dospěti 
+17 dospívati 
+18 dost 
+19 dostačitelný 
+20 dostačiti 
+21 dostatečně 
+22 dostatečný 
+23 dostatečný počet 
+24 dostatek 
+25 dostati 
+26 dostal jsem zprávu 
+27 dostati 
+28 dostávati 
+29 dostavení 
+30 dostavěti 
+31 dostaviti se 
+32 dosti 
+33 dostihy 
+34 dostihnouti 
+35 dostiučiniti 
+36 dostižitelný 
+37 dostoupiti 
+38 dostřel 
+39 dostup 
+40 dostupný 
+41 dosud 
+42 dosud jsem 
+43 dosud nemám 
+44 dosud nevím
+45 dosvědčiti 
+46 dosvědčovati 
+47 dosyta 
+48 doš 
+49 došlé zprávy 
+50 došlý 
+51 došlý dopis
+52 dot 
+53 dota 
+54 dotace 
+55 dotaz 
+56 dotázati se 
+57 dotažte Se 
+58 dotazem 
+59 dotazník 
+60 dotazovati se 
+61 dotčený 
+62 dote 
+63 dotěrný 
+63 dotěrně
+64 doti 
+65 dotírati 
+66 dotíravý
+66 dotíravě 
+67 dotisknouti 
+68 dotknouti se 
+69 dotknutý 
+70 doto 
+71 dotovaný 
+72 dotovati 
+73 dotud 
+74 dotyčný 
+75 dotyk 
+76 dotyk s nepřítelem 
+77 dou 
+78 doučiti se 
+79 doufati 
+80 dout 
+81 doutnati 
+82 doutnavý 
+83 dov 
+84 dováděti 
+85 dovažeti 
+86 dovážka 
+87 dove 
+88 dovedný 
+88 dovedně 
+89 dověděti se 
+90 dověděl jsem se 
+91 dovésti 
+92 dovezený 
+93 dovézti 
+94 dovídati se 
+95 dovnitř 
+96 dovolávati se 
+97 dovolená 
+98 dovolená bez požitků 
+99 dovolená s čekaným 

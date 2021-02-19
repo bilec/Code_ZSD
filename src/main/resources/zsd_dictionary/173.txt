@@ -1,0 +1,108 @@
+173
+
+00 unáhlený
+00 unáhleně
+01 unáhliti se 
+02 unášeti 
+03 únava  
+04 unavený 
+04 unaveně
+05 unaviti 
+06 unaviti se
+07 unb 
+08 unc 
+09 und 
+10 une 
+11 unesený 
+12 unésti 
+13 ung
+14 uni
+15 unie 
+16 unifik 
+17 unifoma 
+18 unikum 
+19 uniknouti 
+20 union 
+21 universita 
+22 universitní 
+23 universální 
+23 universálně 
+24 únor 
+25 únorový 
+26 únos 
+27 únosnost 
+28 unt 
+29 unter 
+30 unz 
+31 up 
+32 upa 
+33 úpadek 
+34 upadnouti 
+35 úpal 
+36 upamatovati se 
+37 úpatí 
+38 upe 
+39 úpěnlivý 
+39 úpěnlivě 
+40 úpěti 
+41 upevněn 
+42 upevniti 
+43 upi 
+44 upí 
+45 upíatost 
+46 upiatý
+46 upiatý
+47 upírati 
+48 úpis
+49 upisovati 
+50 upléceti 
+51 úplatek 
+52 uplatniti
+53 uplatný 
+54 úplaviice 
+55 úplně 
+56 úplný 
+57 uplynouti 
+58 uplynulý 
+59 uplynutí 
+60 upo 
+61 upokojení 
+62 upokojiti 
+63 upomenouti 
+64 upomínka 
+65 úporně 
+66 úporně se hájiti 
+67 úporný 
+68 uposlechnouti 
+69 upotřebení 
+70 upotřebený 
+71 upotřebiti 
+72 upouštěti 
+75 upoutaný 
+74 upoutaný  balon 
+75 upoutání 
+76 upoutati 
+77 upoutati nepřítele 
+78 upoutati pozornost 
+79 upozornění 
+80 upozorniti 
+81 upozorňuji 
+82 upozorňuji na 
+83 upr
+84 úprava 
+85 úprava terénu 
+86 upravený 
+87 upraviti 
+88 úpravný 
+89 uprazdniti 
+90 uprchlík 
+91 uprchlý 
+92 uprchnuti
+93 úpřimnost 
+94 upřinný 
+94 upřinně 
+95 upříti 
+96 upro 
+97 uprositi 
+98 uprostřed 
+99 upu 

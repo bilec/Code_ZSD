@@ -1,0 +1,107 @@
+179
+
+00 vana 
+01 vane 
+02 vání 
+03 vánoce 
+04 vánoční 
+05 vanouti 
+06 vaný 
+07 vap 
+08 vápen 
+09 vápenka 
+10 var 
+11 vař 
+12 variace 
+13 vařiti 
+14 varna 
+15 várnice 
+16 varovati 
+17 varovný 
+17 varovně
+18 Varšava 
+19 varšavský 
+21 vas 
+22 Vás 
+23 váš 
+24 Vaše 
+25 Vašeho 
+26 Vašemu 
+27 vaši 
+28 Vaší 
+29 Vaším
+30 vášeň 
+31 vášnivý 
+31 vášnivě 
+32 vat 
+33 vata 
+34 vati 
+35 vato 
+36 vaty 
+37 vatý 
+38 vav 
+39 vaz 
+40 vázaný 
+41 vázati 
+42 vázati se 
+43 vazba 
+44 váznouti 
+45 vážený 
+46 vážiti 
+47 vážnost 
+48 vážný 
+48 vážně
+49 vběhnouti 
+50 včas  
+51 včasně 
+52 včasný
+53 vče
+54 včera 
+55 včera dopoledne 
+56 včera odpoledne 
+57 včera ráno 
+58 včera večer  
+59 včerejší
+60 včetně 
+61 včí 
+62 včleněný 
+63 včleniti 
+64 vda 
+65 vdaná 
+66 vdáti se 
+67 vde 
+68 vděčiti 
+69 vděčný
+69 vděčně
+70 vděčnost 
+71 vděk 
+72 vdova 
+73 ve 
+74 ve 
+75 ve dne 
+76 ve dvou sledech 
+77 ve svazu
+78 ve třech sledech 
+79 ve všem 
+80 ve výši 
+81 vě 
+82 vec 
+83 věci 
+84 věcný
+84 věcně 
+85 věčný 
+85 věčně 
+86 večer 
+87 večeře 
+88 večeřeti 
+89 večerník 
+90 věcní věstník 
+91 věčnost 
+92 ved 
+93 věd 
+94 věda 
+95 vědecký 
+96 vedení 
+97 vedený 
+98 vědění 
+99 vedeta 

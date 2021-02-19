@@ -1,0 +1,107 @@
+138
+
+00 rozsekati 
+Ol rozaévati 
+02 rozaudek 
+03 rozstoupiti ae 
+04 rozstříleti 
+05 rozstřílený 
+06 rozavezovati 
+07 rozsy
+08 rozšíření 
+09 rozšířený 
+10 rozšířiti 
+11 rozšiřovati 
+12 rozštěp 
+13 roztáhnouti 
+14 roztažený 
+15 roztřásti 
+16 roztřepený 
+17 roztrhati 
+13 rotrhnouti se 
+19 roztříditi 
+20 roztříštiti 
+21 roztrušovati 
+22 roztržitý
+22 roztržitě
+23 roztržka 
+24 rozum 
+25 rozuměti 
+26 rozumí
+27 rozumný
+27 rozumně
+28 rozuzlení 
+29 rozuzliti 
+30 rozváděti 
+31 rozvaha 
+32 rozvaliti 
+33 rozvážeti 
+34 rozvážiti 
+35 rozvážný  
+35 rozvážně
+36 rozvedený 
+37 rozvésti 
+38 rozvětvený 
+39 rozvézti 
+40 rozvíjeti 
+41 rozvinouti 
+42 rozvinutí 
+43 rozvinutý 
+44 rozvláčný
+44 rozvláčně 
+45 rozvod 
+46 rozvodněný 
+47 rozvodníti se 
+48 rozvoj 
+49 rozvrácení 
+50 rozvracený 
+51 rozvrat 
+52 rozvrátiti 
+53 rozvratný
+53 rozvratně 
+54 rozvrh 
+55 rozvrh palby 
+56 rozvrh použití dělostř. 
+57 rozvrh úpravy terénu 
+58 rozvrhnouti 
+59 rozvrhnutý
+60 rozvrstvený 
+61 rozvržení 
+62 rozvržený 
+63 rožen 
+64 Rožnava 
+65 rp 
+66 rr 
+67 re 
+68 rsk 
+69 rský 
+70 rt 
+71 rtuť 
+72 rtuťový 
+73 ru 
+74 rub
+75 rubl 
+76 rublů 
+77 rubrika 
+78 ruc 
+79 ruč 
+80 ruce 
+81 ruční 
+82 ručí 
+83 ručitel 
+84 ručiti 
+85 ručně
+66 ruční 
+87 ruční granát 
+88 rud 
+89 ruda 
+90 rudo 
+91 Rudolf 
+92 rue 
+93 ruf 
+94 ruh 
+95 ruch 
+96 rui 
+97 ruina 
+98 ruinovati 
+99 ruj

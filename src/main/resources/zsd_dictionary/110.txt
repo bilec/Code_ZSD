@@ -1,0 +1,110 @@
+110
+
+00 plou 
+01 plovárna 
+02 plovoucí
+03 pls 
+04 plti 
+05 pluk 
+06 pluk dělostřelectva 
+07 pluk horsk.dělostř. 
+08 pluk jepdectva 
+09 pluk pěchoty 
+10 plukovní 
+11 plukovní obvaziště 
+12 plukovní pobočník 
+13 plukovní rozkaz 
+14 plukovní spoj.četa 
+15 plukovní spoj.rota 
+16 plukovní trén 
+17 plukovní velitelství 
+18 plukovník 
+19 plukovník gen.št. 
+20 plus 
+21 plyn 
+22 plynárna 
+23 plynomet
+24 plynová 
+25 plynová maska 
+26 plynová střela 
+27 plynové 
+28 plynové pásmo 
+29 plynové vypouštěcí láhve 
+30 plynový 
+31 plynový granát 
+32 plynový útok 
+33 Plzeň
+34 pne 
+35 pneumatický  
+35 pneumaticky
+36 pneumatika 
+37 po
+38 po případě 
+39 po sobě 
+40 pobídka 
+41 pobíhati 
+42 pobízeti 
+43 poblízku 
+44 poboční 
+45 pobočnícký 
+46 pobočník 
+47 pobočný 
+48 pobodaný 
+49 pobouřiti 
+50 pobřeží
+51 pobřežní 
+52 pobuřovati 
+53 pobyt  
+54 pobýti 
+55 poc
+56 poč
+57 počasí 
+58 počáteční 
+59 počáteční sestava
+60 počáteční S.V. 
+61 počátek  
+62 početní 
+63 početní důstojník 
+64 početní stav 
+65 početní výkaz 
+66 počtný
+66 počtně
+66 počtnost
+67 počet 
+68 počet mrtvých 
+69 počet nezvěstných 
+70 počet otrávených 
+71 počet živených 
+72 počínati si 
+73 pocit 
+74 počítati 
+75 pocítiti 
+76 počkati 
+77 pocta 
+78 poctíti 
+79 poctivec 
+80 poctivý
+80 poctivě
+80 poctivost 
+81 pod 
+82 pod čj.
+83 pod dohledem 
+84 pod heslem 
+85 pod ochranou 
+86 pod palbou 
+87 pod značkou 
+89 podá 
+89 podací 
+90 podajný 
+90 podajně
+90 podajnost
+91 podal 
+92 podání  
+93 podařený
+93 podařenýě
+94 podařiti se 
+95 podati 
+96 podavatel 
+97 podáveti 
+98 podceňovati  
+99 poddanost

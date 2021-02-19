@@ -1,0 +1,102 @@
+140
+
+00 rytmus 
+01 ryz 
+02 ryzé
+02 ryzí
+03 ryzka 
+04 rýže 
+05 rz
+06 rze 
+07 Rzészow 
+08 
+09 
+10 
+11 
+12 
+13 
+14 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+45 
+44 
+45 
+46 
+47 
+49 
+50 Ř
+51 ř 
+52 ř.  
+53 řa 
+54 řád 
+55 řád Bílého Lva 
+56 řada 
+57 řádek 
+58 řaditi 
+59 řádka
+60 řádně 
+61 řádný 
+62 řadový 
+63 ře 
+64 řeb 
+65 řec 
+66 Řecko 
+67 řeckokatolický 
+68 řeckořímský 
+69 řecký 
+70 řeč 
+71 řečený 
+72 řeči 
+73 řečník 
+74 řečniti 
+75 řed 
+76 ředitel 
+77 ředitelství 
+78 ředitelský 
+79 řej 
+80 řek 
+81 řeka 
+82 řekl 
+83 řemen 
+84 řemeslník 
+85 řemeslný 
+85 řemeslně 
+86 řemeslo 
+87 řen 
+88 řep 
+89 řes 
+90 řešení 
+91 řešený 
+92 řešiti 
+93 řetěz 
+94 řetězový 
+95 řev 
+96 řez 
+97 řezati 
+98 řezník 
+99 řež

@@ -1,0 +1,102 @@
+024
+
+00 D
+01 d
+02 d.
+03 Dr. 
+04 ď
+05 da 
+06 dá 
+07 dak 
+08 daktyloskop 
+09 dal 
+10 dal jsem 
+11 dál 
+12 dala 
+13 dále 
+14 dalece 
+15 dalekohled 
+16 dalekonosný 
+17 dalekosáhlý 
+18 daleký 
+19 daleká palba 
+20 dali 
+21 dálka 
+22 dálkoměr 
+23 Dalmácie 
+24 dálnotiskový stroj 
+25 dálný 
+26 dalo 
+27 další 
+28 další jednání 
+29 další jednání přerušte 
+30 další podrobnosti 
+31 další rozkazy 
+32 další úkol 
+33 další zprávy 
+34 dám
+35 dáma 
+36 dáme 
+37 dámský 
+38 daň
+39 Dánsko 
+40 daný 
+41 dar 
+42 dárce 
+43 darebák 
+44 darem 
+45 dařiti se 
+46 darmo 
+47 Ďarmoty 
+48 Darmstadt 
+49 darovací
+50 darování
+51 darovati 
+52 das 
+53 dat 
+54 data 
+55 dáte 
+56 dáti 
+57 dáti na vědomí 
+58 dáti plnou moc 
+59 dáti přednost 
+60 dáti své dobré zdání 
+61 dáti vyšetřiti 
+62 datovati 
+63 datum 
+64 dav 
+65 dávati 
+66 dávejte 
+67 David 
+68 dávka 
+69 dávno 
+70 dávný 
+71 db
+72 dbá 
+73 dbal 
+74 dbalost 
+75 dbalý 
+76 dbáti 
+77 dcera 
+78 de 
+79 dě 
+80 debata 
+81 debatovati 
+82 debet 
+83 Debreczén 
+84 dec 
+85 decent 
+86 decentralisace 
+87 decentralisovaný 
+88 decentralisované vedení 
+89 deci 
+90 decimetr 
+91 decimovaný 
+92 decimovati 
+93 Děčín 
+94 dědic 
+95 dědina 
+96 děditi 
+97 def 
+98 de facto 
+99 défaitismus

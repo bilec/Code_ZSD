@@ -1,0 +1,109 @@
+022
+
+00 Česká Třebová 
+01 české 
+02 České Budějovice 
+03 České Slovo 
+04 československá 
+05 československá armáda 
+06 československá celní stráž 
+07 československá republika 
+08 československá soc. demokracie 
+09 československá vláda 
+10 československá zbrojovka 
+11 československé 
+12 československé hranice 
+13 československé území
+14 československé vojsko 
+15 československé vyslanectví 
+16 Československo 
+17 československý 
+18 československý důstojník 
+19 československý konsulát 
+20 československý příslušník 
+21 československý stát 
+22 československý vojín 
+23 česky 
+24 český 
+25 Český Les 
+26 Češka 
+27 čest 
+28 čestný 
+28 čestně 
+29 četa 
+30 četa děl 
+31 četa dopravní 
+32 četa dopravní vlaková 
+33 četa kulometná 
+34 četa obrněných autonobilů 
+35 četa pomocná 
+36 četa pozor. balonů 
+37 četa pro udržování dráhy 
+38 četa střelecká 
+39 četa strojní 
+40 četa tanků 
+41 četa technická 
+42 četa velitelská 
+43 četař 
+44 četba 
+45 četnická 
+46 četnická hlídka 
+47 četnická pátrací stanice 
+48 četnické 
+49 četnické velitelství 
+50 četnický 
+51 četnický velitel 
+52 četnictvo 
+53 četník 
+54 četný 
+54 četně
+55 či
+56 či-li 
+57 čic 
+58 čič 
+59 čih 
+60 čich 
+61 čil 
+62 čilý 
+62 čile
+63 čím 
+64 čím méně 
+65 čím více 
+66 čin 
+67 Čína 
+68 Číňan 
+69 čínský
+70 činitel
+71 činiti 
+72 činnost 
+73 činný
+73 činně
+74 čino 
+75 činže 
+76 čip 
+77 čir 
+78 čirý
+79 čis 
+80 číselný
+80 číselně
+81 číslo 
+82 číslo donu 
+83 číslo jednací 
+84 číslo telegramu 
+85 číslo transportu 
+86 číslo vlaku 
+87 číslice 
+88 číslovati 
+89 číslovaný
+89 číslovaně  
+90 čist 
+91 čistě 
+92 čísti 
+93 čisticí 
+94 čistič 
+95 čistiti 
+96 čisto 
+97 čistopis 
+98 čistota 
+99 čistotný 
+99 čistotně 

@@ -1,0 +1,102 @@
+154
+
+00 stavča 
+01 stavební 
+02 stavební dříví 
+03 stavební dvůr 
+04 stavební okruh 
+05 stavební rota 
+06 stavební ředitelství 
+07 stavební služba 
+08 stavení 
+09 stavěti 
+10 stavidlo 
+11 stavitel 
+12 staviti 
+13 stávka 
+14 stávkokaz 
+15 stávkovati 
+16 stávkující 
+17 stavovský 
+18 stáž 
+19 stažení 
+20 ste 
+21 sté 
+22 stě 
+23 stěhování 
+24 stěhovati 
+25 stěhovavá baterie 
+26 stei 
+27 stein 
+28 stejně 
+29 stejdno 
+30 stejnokroj 
+31 stejnoněmě 
+32 stejnoměrnost 
+33 stejnorněrný 
+34 stejný 
+35 stěna 
+36 stenograf 
+37 step 
+38 ster 
+39 stereotyp 
+40 steri 
+41 sterilis
+42 sterilní 
+43 stero 
+44 sterý 
+45 stesk 
+46 stěsnati 
+47 stezka 
+48 stěžejní 
+49 stěžeň
+50 stěží 
+51 stěžování 
+52 stěžovatel 
+53 stěžovati 
+54 stěžovati si 
+55 sti 
+56 stí 
+57 stíhací 
+58 stíhací letadlo 
+59 stíhací letka 
+60 stíhání 
+61 stíhaný 
+62 stíhati 
+63 stihnouti 
+64 stil 
+65 stín 
+66 stíniti 
+67 stinný 
+68 stírati 
+69 stisk 
+70 stisknouti 
+71 stisknutí 
+72 stísniti 
+73 stišiti 
+74 stížený 
+75 stížiti 
+76 stížnost 
+77 stížnosti 
+78 stlačený 
+79 stlačiti 
+80 stlačovati 
+81 stlouci 
+82 sto 
+83 stočiti 
+84 stod 
+85 stoh 
+86 stoh slámy 
+87 stoický 
+88 stojan 
+89 stojatý 
+90 stojí 
+91 stok 
+92 stol 
+93 století 
+94 stolice 
+95 stolní 
+96 storm 
+97 ston 
+98 stonati 
+99 stop 

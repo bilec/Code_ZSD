@@ -1,0 +1,103 @@
+141
+
+00 ři
+01 ří
+02 říci 
+03 řický 
+04 říč 
+05 říční 
+06 řídce 
+07 řidič 
+08 řídící 
+09 řídící orgán 
+10 řídící stanice 
+11 řiditelný 
+12 řiditelný balon 
+13 říditi 
+14 říditi se 
+15 řídký 
+16 řiďte se 
+17 říjen 
+18 říjnový 
+19 Řím 
+20 římský 
+21 římsko—katolický 
+22 řin 
+23 říš 
+24 říše 
+25 říšská 
+26 říšská obrana 
+27 říšská silnice 
+28 říšské 
+29 říšské hranice 
+30 říšský 
+31 říšskoněmecký 
+52 řít 
+53 říte 
+34 řítiti se 
+35 živ 
+36 říz 
+37 řízení 
+38 řízený 
+39 řízný
+39 řízně
+40 řt 
+41 řn 
+42 řv 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 S 
+51 s
+52 s. 
+53 SHS 
+54 SPO 
+55 St.
+56 Sv.
+57 SV.
+58 SV. armády 
+59 SV. brigády 
+60 dSV. ivise 
+61 SV. pluku 
+62 SV. praporu 
+63 SV. sboru 
+64 Szt.
+65 s
+66 s nepořízenou 
+67 s ohledem na 
+68 s těmito 
+69 s tím 
+70 s tímto 
+71 s toho 
+72 s výhradou 
+73 s výjimkou 
+74 sa 
+75 sá
+76 sab 
+77 sabotáž 
+78 sabotovati 
+79 sac 
+80 sad 
+81 sádr 
+82 saf 
+83 sag 
+84 sah 
+85 sáh 
+86 sahá 
+87 sahati 
+88 sáhnouti 
+89 sach 
+90 sacha 
+91 sache 
+92 sai 
+93 sad 
+94 Sajo 
+95 sak 
+96 sal 
+97 sál 
+98 salaš 
+99 saldo 

@@ -1,0 +1,107 @@
+192
+
+00 vyvýšený 
+01 vyvyšovati 
+02 výzbroj 
+03 vyzbrojení 
+04 vyzbrojený 
+05 vyzbrojiti 
+06 vyzbrojovací 
+07 výzdoba 
+08 vyzdobiti 
+09 vyzdvihnouti 
+10 vyzkoumati 
+11 vyzkoušení 
+12 vyzkoušený 
+13 wzkoušeti 
+14 výzkum 
+15 výzkumný 
+16 vyznačení 
+17 vyznačený 
+18 vyznačiti 
+19 význačný 
+19 význačně
+20 vyznačovací 
+21 vyznačovací terče 
+22 vyznamenání
+23 vyznamenaný 
+24 vyznamenati 
+25 významný 
+25 významně 
+26 vyznání 
+27 vyznati se 
+28 vyznávati 
+29 vyzraditi 
+30 vyzrazení 
+31 vyzrazený 
+32 vyzrazovati 
+33 výzva 
+34 vyzvání 
+35 vyzvaný 
+36 vyzvati 
+37 vyzvědač 
+38 vyzvědačka 
+39 vyzvědačský 
+40 vyzvědačství 
+41 vyzvěděti 
+42 výzvědná 
+43 výzvědná činnost 
+44 výzvědná hlídka 
+45 výzvědná služba 
+46 výzvědné 
+47 výzvědné oddělení 
+48 výzvědné zpravodajství 
+49 výzvědný 
+50 výzvědný let 
+51 výzvědný oddíl
+52 výzvědný plán 
+53 vyzvednouti 
+54 vyzvednutí 
+55 vyzvednutý 
+56 výzvědy 
+57 vyzvídati 
+58 vyzývati 
+59 vyzývavý  
+59 vyzývavě
+60 vyžádání 
+61 vyžádaný 
+62 vyžádati 
+63 vyžádati si 
+64 vyžadovati 
+65 výživa 
+66 vyživiti 
+67 výživný 
+68 vzácný
+68 vzácně 
+69 vzad 
+70 vzadu 
+71 vzájemně 
+72 vzájemnost 
+73 vzájenný 
+74 vzal 
+75 vzbcuření 
+76 vzbouřený 
+77 vzbouřiti se 
+78 vzbuditi 
+79 vzbuzovati 
+80 vzbuzuje 
+81 vzdálený 
+82 vzdálenost 
+83 vzdáliti se 
+84 vzdáti se 
+85 vzdávati se 
+86 vzdech 
+87 vzdělání 
+88 vzdělanost 
+89 vzdělaný 
+90 vzdělávati se 
+91 vzdor 
+92 vzdorný 
+93 vzdorovati 
+94 vzduch 
+95 vzducholoď 
+96 vzduchový 
+97 vzduchové chlazení 
+98 vzdušný 
+98 vzdušně 
+99 vzejíti 

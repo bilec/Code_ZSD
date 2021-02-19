@@ -1,0 +1,107 @@
+060
+
+00 kde se 
+01 kdekoli 
+02 kdež 
+03 kdežto 
+04 kdo 
+05 kdy 
+06 kdyby 
+07 kdybych 
+08 kdybyste 
+09 kdykoli 
+10 kdysi 
+11 když 
+12 když bude 
+13 ke 
+14 Kecskemét 
+15 kei 
+16 kel 
+17 kem 
+18 keř 
+19 kev 
+20 kéž 
+21 kh
+22 khaki 
+23 ki 
+24 Kielce 
+25 kilo 
+26 kilcnetr 
+27 kilometrová značka 
+28 kinenatograf 
+29 kiosk 
+30 kis 
+31 Kisvárda 
+32 kit 
+33 kl
+34 kla 
+35 klad
+36 kladení 
+37 kladně 
+38 Kladno 
+39 kladná odpověď 
+40 kladné vyřízení 
+41 kladný 
+42 kladný výsledok
+43 Kladsko 
+44 Klajpeda 
+45 klam 
+46 klamač 
+47 klamání 
+48 klamati 
+49 klamné postavení 
+50 klamné stavby 
+51 klamný 
+51 klamně
+52 klasický 
+52 klasicky
+53 klasifikace 
+54 klasifikační 
+55 klásti 
+56 klásti odpor 
+57 klášter 
+58 Klatovy 
+59 klausule 
+60 kle 
+61 klenot 
+62 klenouti 
+63 klenutý 
+64 klepati 
+65 klepnouti 
+66 klerikál 
+67 klerus 
+68 kles 
+69 klesati 
+70 kli 
+71 klíč 
+72 klid 
+73 klidný 
+73 klidně 
+74 klika 
+75 klima 
+76 klimatický 
+77 Klingental 
+78 klinika 
+79 klisna 
+80 klížiti 
+81 klo 
+82 kloniti se 
+83 Klosterneuburg 
+84 kloub 
+85 kloudný  
+85 kloudně
+86 klouzavý  
+86 klouzavě
+87 klub 
+88 klubovní 
+89 kluk 
+90 klus 
+91 kluzký 
+92 Kluž 
+93 km 
+94 kmen 
+95 kmenové těleso 
+96 kmenový 
+97 kmenový list 
+98 komit
+99 kmotr

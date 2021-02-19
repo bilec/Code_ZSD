@@ -1,0 +1,113 @@
+158
+
+00 svépomoc 
+01 svěrací 
+02 svěrák 
+03 svěřenec 
+04 svěřený 
+05 svěřiti 
+06 svésti 
+07 svět 
+08 světák 
+09 světelný 
+10 světelný signál 
+11 světiti 
+12 světlo 
+13 světlomet 
+14 světlometný 
+15 světlometná četa 
+16 světlometná rota 
+17 světlometný roj 
+18 světlometná souprava 
+19 světlý 
+20 světnice 
+21 světový 
+22 světoznámý 
+23 světský 
+24 svévole 
+25 svévolný 
+25 svévolně 
+26 svésti 
+27 svěžest 
+28 svěží 
+29 svi 
+30 sví 
+31 svíce 
+32 svíčka 
+33 svinouti 
+34 svinutý 
+35 svírati 
+36 svislý
+36 svisle 
+37 svit 
+38 svítání 
+39 svítati 
+40 svítek 
+41 svítící 
+42 svítící střela 
+43 svítící střelivo 
+44 svítilna 
+45 svítiplyn 
+46 svítiti 
+47 svízel 
+48 svízelný 
+49 svižný
+49 svižně
+50 svléci 
+51 svo 
+52 svoboda 
+53 svobodník 
+54 svobodný 
+54 svobodně 
+55 svod 
+56 svoj 
+57 svoje
+58 svoji 
+59 svol 
+60 svolaný 
+61 svolati 
+62 svolávací lístek 
+63 svolávati 
+64 svolení 
+65 svoliti 
+66 svorný
+66 svorně
+67 svornost 
+68 svou 
+69 svrhnouti 
+70 svrhnutý 
+71 svrchní 
+72 svrchovanost 
+73 svrchovaný 
+73 svrchovaně
+74 svrchu 
+75 svršek 
+76 svržený 
+77 svů 
+78 svůdce 
+79 svůj 
+80 svých 
+81 svým 
+82 svými 
+83 sy 
+84 sý
+85 sychravý 
+85 sychravě
+85 sychravo  
+86 syk 
+87 symbol 
+88 symetrie 
+89 symetrický
+89 symetricky
+90 sympatie 
+91 sympatický  
+91 sympaticky
+92 sympatisovati 
+93 symptom 
+94 syn 
+95 synagoa 
+96 syndikát 
+97 synovec 
+98 syntetický
+98 synteticky
+99 syp

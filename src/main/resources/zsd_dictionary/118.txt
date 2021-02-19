@@ -1,0 +1,105 @@
+118
+
+00 potvrzený  
+01 potvrzené zpráva
+02 potyčka 
+03 potýkati se 
+04 pou 
+05 poučení 
+06 poučený 
+07 pouhý 
+08 poukaz 
+09 poukázaný 
+10 poukázati 
+11 poukazovati 
+12 poukázka 
+13 pouliční 
+14 pouze 
+15 použíti 
+16 použití 
+17 používati 
+18 používaný 
+19 pov
+20 povaha 
+21 povaliti 
+22 povážiti 
+23 považovati 
+24 povedený 
+25 pověděti 
+26 povědomý 
+27 pověřiti 
+28 pověřen 
+29 pověření 
+30 pověřovací 
+31 pověsiti 
+32 pověst 
+33 povésti se 
+34 pověstný 
+35 povětří 
+36 povětrnostní 
+37 povětrnostní poměry 
+38 poví 
+39 povídati 
+40 povinen 
+41 povinnost 
+42 povo 
+43 povodeň 
+44 povolání 
+45 povolaný 
+46 povolati
+47 povolení 
+48 povolený 
+49 povoliti 
+50 povolný
+50 povolně
+51 povoz
+52 povozy 
+53 povrch 
+54 povrchní
+54 povrchně
+55 povstalec 
+56 povstalý  
+57 povstání
+58 povstati
+59 povšechný
+59 povšechně
+60 povšechný směr
+61 povšimnouti si 
+62 povšimnutí
+63 povšimnutý 
+64 povy 
+65 povyk 
+66 povykovat
+67 povýšení 
+68 povýšiti 
+69 povzbuditi 
+70 povzbuzený 
+71 povznésti 
+72 poz 
+73 pozadí 
+74 pozadu 
+75 pozbýti 
+76 pozdě 
+77 později 
+78 pozdější 
+79 pozdrav 
+80 pozdraviti 
+81 pozdravení 
+82 pozdržeti 
+83 pozemek 
+84 pozemkový 
+85 pozemní 
+86 pozemní cíle 
+87 pozemní pátrání 
+88 pozemní pozorování 
+89 pozemní pozorovatelna 
+90 pozítří 
+91 pozměněný 
+92 pozměniti 
+93 poznamenati  
+94 poznamenati si
+95 poznamenaný 
+96 poznámka 
+97 poznaní 
+98 Poznaň 
+99 Poznaňsko 

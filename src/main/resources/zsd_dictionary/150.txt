@@ -1,0 +1,110 @@
+150
+
+00 součet 
+01 součinnost 
+02 součinnost s
+03 součinnost s dělostř.
+04 součinnost s pěchotou 
+05 součinnost s letectvem 
+06 součinný 
+06 součinně
+07 soud 
+08 soudce 
+09 soudcoovský
+10 souditi 
+11 souzený 
+12 soudní 
+12 soudně 
+13 soudný 
+14 soudobý 
+15 soudruh 
+16 souhlas 
+17 souhlasí 
+18 souhlasím 
+19 souhlasím aby 
+20 souhlasím s
+21 souhlasiti 
+22 souhlasný
+22 souhlasně 
+23 souhra 
+24 sotuhrn 
+25 souk 
+26 soukromí 
+27 soukromý 
+27 soukromě
+28 soulad 
+29 soumar 
+30 soumarský 
+31 souměrnost 
+32 souměrný
+32 souměrně
+33 soupeř 
+34 soupeřiti 
+35 soupeřský 
+36 soupis 
+37 souprava 
+38 souprava váleč.mostů
+39 souřadný 
+40 souřadnice 
+41 sourozenec 
+42 soused 
+43 sousediti 
+44 sousední 
+45 sousední armáda 
+46 sousední divise 
+47 sousední sbor 
+48 sousední skupina 
+49 sousední úsek 
+50 sousedství 
+51 soustava 
+52 soustavně 
+53 soustavný 
+54 sousto 
+55 soustrast 
+56 soustrastný
+56 soustrastně 
+57 soustředění 
+58 soustrastný palby 
+59 soustrastný sil 
+60 soustředěný 
+61 soustřediti 
+62 soustřediti palbu 
+63 soustřediti se
+64 souš 
+65 soutěska 
+66 soutěž 
+67 soutěžiti 
+68 souviseti 
+69 souvislý 
+69 souvisle
+70 soužití 
+71 svo 
+72 sovět 
+73 sovětská 
+74 sovětská armáda 
+75 sovětská divise 
+76 sovětská pěchota 
+77 sovětská vláda 
+78 sovětské 
+79 sovětské dělostř. 
+80 sovětské hranice 
+81 sovětské jezdectvo 
+82 sovětské letadlo 
+83 sovětské letectvo 
+84 sovětské území 
+85 sovětské vyslanectví 
+86 sovětský 
+87 sovětský gen.štáb 
+88 sovětský konsulát 
+89 sovětský sbor 
+90 sovětský voj.att. 
+91 sp
+92 spád 
+93 spadati 
+94 spadnouti 
+95 spádný  
+95 spádně
+96 spáchati 
+97 spal 
+98 spálení 
+99 spáliti 

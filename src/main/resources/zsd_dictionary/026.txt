@@ -1,0 +1,105 @@
+026
+
+00 dělostřelectvo armádní 
+01 dělostřelectvo dalekonosné
+02 dělostřelectvo divisní 
+03 dělostřelectvo doprovodné 
+04 dělostřelectvo horské 
+05 dělostřelectvo hrubé 
+06 dělostřelectvo lehké 
+07 dělostřelectvo polní 
+08 dělostřelectvo přímé podpory 
+09 dělostřelectvo sborové 
+10 dělostřelectvo všeob. činnosti 
+11 dělostřelectvo proti letadlům 
+12 dělostřelectvo speciální 
+13 dělostřelectvo těžké 
+14 dělová 
+15 dělová četa 
+16 dělová munice 
+17 dělová palba 
+18 dělový 
+19 dělový člun 
+20 další 
+21 další čas 
+22 další doba 
+23 další rozkaz 
+24 další termín 
+25 dem 
+26 demagog 
+27 denarche 
+28 demarkační 
+29 demaskovaný 
+30 demaskovati 
+31 deme 
+32 dementi 
+33 dementovaný 
+34 dementovati 
+35 demi
+36 demise
+37 demobilisace 
+38 demobilisační 
+39 demobilisační rozkaz 
+40 demobilisovaný 
+41 demobilisovati 
+42 demokracie 
+43 demokrat 
+44 demokratický 
+45 demonstrace 
+45 demonstrační
+46 demonstrant 
+47 demonstratívní 
+47 demonstratívně 
+48 demonstrovati 
+49 demontovati
+50 demoralieace
+50 demoralieační  
+51 demoralisovaný 
+52 demoralisovati
+53 den  
+54 den mobilisace 
+55 den nástupu 
+56 den odchodu 
+57 den odjezdu
+58 den pohotovostí
+59 den příchodu
+60 den příjezdu
+61 den utoku
+62 den vyhláš války 
+63 denně 
+64 denní 
+65 denní dotace 
+66 denní zprávy 
+67 denník 
+68 Denisovo nádraží 
+69 denu 
+70 denunciace 
+71 denunciant 
+72 denuncovati 
+73 dep 
+74 departement 
+75 depeše 
+76 depeše došla 
+77 depeše je
+78 depeše je zkomolena 
+79 depeše nedošla 
+80 depeše ze dne 
+81 depo 
+82 deponovaný 
+83 deponovati 
+84 deposit 
+85 depôt 
+86 depu 
+87 deputace 
+88 der 
+89 děr 
+90 derivace 
+91 derivát 
+92 des 
+93 děs 
+94 desátého 
+95 desatero 
+96 desátník 
+97 desátý 
+98 desavouovati 
+99 deserce 

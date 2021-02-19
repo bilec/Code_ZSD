@@ -1,0 +1,111 @@
+164
+
+00 tělesová OPL 
+01 tělesový trén
+02 tělo 
+03 tem 
+04 tém 
+05 těm 
+06 témě 
+07 téměř 
+08 Temešvár 
+09 těmi 
+10 temno 
+11 temný  
+11 temně
+12 temperanent 
+13 temperanentní
+13 temperanentně 
+14 temperatura
+15 tempo
+16 Temps
+17 témuž 
+18 témž 
+19 ten 
+20 tendence 
+21 tendenční
+21 tendenčně  
+22 tenkrát 
+23 tenký 
+24 tento 
+25 tentokráte 
+26 tentýž 
+27 teo 
+28 teodolit 
+29 tep 
+30 tepati 
+31 Teplice 
+32 Teplice—Šanov 
+33 teplo 
+34 teploměr 
+35 teplota 
+36 tepna 
+37 teprve 
+38 teprve od 
+39 teprve za 
+40 terč 
+41 terén 
+42 terenní 
+43 terenní celek 
+44 terenní kryt 
+45 terenní vozidlo 
+46 teritoriální 
+47 teritoriální obrana proti let.
+48 teritorium 
+49 termín 
+50 terminologie
+51 teror 
+52 terorisovati 
+53 tes
+54 těs 
+55 tesa 
+56 těsnati 
+57 těsniti 
+58 těsnopig 
+59 těsný 
+59 těsně
+60 těsný spojení
+61 test 
+62 Tešín 
+63 Těšínsko 
+64 těšiti 
+65 tet 
+66 tetanus 
+67 této 
+68 text 
+69 text in claris
+70 textilní 
+71 textilní průmysl 
+72 textilní továrna 
+73 též 
+74 těžba 
+75 těžce 
+76 těžiště 
+77 těžiště obrany 
+78 těžiště útoku 
+79 těžiti 
+80 těžko 
+81 těžkomyslný 
+81 těžkomyslně
+81 těžkomyslnost
+82 těžkopádný 
+82 těžkopádně
+82 těžkopádnost
+83 těžkost 
+84 těžký 
+85 těžké dělostřelectvo 
+86 těžká houfnice 
+87 těžký kanon 
+88 těžký kulomet 
+89 těžký minomet 
+90 těžký moždíř 
+91 těžký nákl. automobil 
+92 těžší 
+93 the 
+94 thema 
+95 theorie 
+96 theoretický 
+96 theoreticky
+97 theoretik 
+98 tchán 
+99 tchýně 

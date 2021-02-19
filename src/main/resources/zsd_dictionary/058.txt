@@ -1,0 +1,105 @@
+058
+
+00 K
+01 k
+02 k.
+03 Kg. 
+04 Kč. 
+05 Km.
+06 Km2.
+07 KOPL
+08 k
+08 ke
+08 ku
+09 k čís. 
+10 k čj.
+11 k disposici 
+12 k tomu 
+13 k tomuto 
+14 k Vám 
+15 k Vašemu 
+16 k Vašemu čj.
+17 k Vašemu dotazu 
+18 k Vašemu hlášení 
+19 k Vašemu rozkazu 
+20 ka 
+21 keb 
+22 kabe 
+23 kábel 
+24 kabelové vedení 
+25 kabelový 
+26 kalina 
+27 kabinet 
+28 kabinetní kancelář 
+29 kac 
+30 kad 
+31 kadaň 
+32 kade 
+33 kadet 
+34 kádr 
+35 kádrový 
+36 kaf
+37 kaj 
+38 kajuta 
+39 kal 
+40 kalamita 
+41 kalendář 
+42 kalený 
+43 kali 
+44 kalibr 
+45 kalkulace 
+46 kalkulovati 
+47 kalný  
+47 kalně
+48 Kalocsa 
+49 Kaluž 
+50 kalý 
+51 kan 
+52 kamarád 
+53 kámen 
+54 kamenné podpory 
+55 kamenný lom 
+56 kamenný most 
+57 kamenný 
+58 kami 
+59 kamion 
+60 kamkoliv 
+61 kanna 
+62 kampaň 
+63 kamsi 
+64 kamufláž 
+65 kamž 
+66 kan 
+67 kana 
+68 kenál 
+69 kanalisace 
+70 kanc 
+71 kancelář 
+72 kancelář čs. legií 
+73 kancelář presidenta 
+74 kancelářský 
+75 kancelista 
+76 kancléř 
+77 kand 
+78 kandidát 
+79 kandidovati 
+80 kane 
+81 kani 
+82 kano 
+83 kanon 
+64 kanonproti let. 
+85 kanovník 
+86 kant 
+87 kantonovací 
+88 kantonování 
+89 kantonovati 
+90 kantor 
+91 kaolin 
+92 kap 
+93 kapacita 
+94 kapalina 
+95 kapel
+96 kapelník 
+97 kapelník 
+98 kapitál 
+99 kaŕítalismus

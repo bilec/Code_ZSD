@@ -1,0 +1,104 @@
+197
+
+00 zadost 
+01 zadostiučinění 
+02 zadrhovati 
+03 zadržen 
+04 zadrženo 
+05 zadržení 
+06 zadržený 
+07 zadržeti 
+08 zadržovati 
+09 zadu 
+10 zadusiti 
+11 Zagreb 
+12 zah 
+13 záhada 
+14 záhadný
+14 záhadně
+15 zahájení 
+16 zahájení boje 
+17 zahájení jednání 
+18 zahájení schůze 
+19 zahájení útoku 
+20 zahájený 
+21 zahájiti 
+22 zahajovací boj 
+23 zahajovati 
+24 záhalčivý 
+25 zahalený 
+26 zaháleti 
+27 zahalovati 
+28 zahanbiti 
+29 zaházený 
+30 zaházeti 
+31 zahladiti 
+32 zahladiti stopy 
+33 záhlaví 
+34 záhlavní 
+35 zahlazení 
+36 zahlazovati 
+37 zahlédnouti 
+38 zahloubati se 
+39 zahnaný 
+40 zahnati 
+41 zahnízditi se 
+42 zahnouti 
+43 zahoditi 
+44 záhodno 
+45 zahojiti 
+46 zahospodařiti si 
+47 zahozený 
+48 zahrada 
+49 zahraditi 
+50 zahradní 
+51 zahraničí 
+52 zahraniční 
+53 zahrávati 
+54 zahražený 
+55 zahražovací 
+56 zahražovací palba 
+57 zahražující 
+58 zahrnouti 
+59 zahrnutý 
+60 záhuba 
+61 zahubiti 
+62 záhubný 
+63 záhy 
+64 záhyb 
+65 zahynouti 
+66 zach 
+67 zacházeti 
+68 zachmuřený 
+68 zachmuřeně
+69 zachovalost 
+70 zachovalý 
+71 zachovaný 
+72 zachovati 
+73 zachovávati 
+74 záchrana 
+75 zachránění 
+76 zachráněný 
+77 zachrániti 
+78 záchranný 
+79 záchvat 
+80 zachytiti 
+81 zachytiti se 
+82 záchytný 
+83 záchytné pásmo 
+84 záchytná posice
+85 záchytné postavení 
+86 zajatec 
+87 zajatci 
+88 zajatců 
+89 zajatecký 
+90 zajatecký tábor 
+91 zajatý 
+92 zajatých 
+93 zajedno 
+94 zájem 
+95 zajeti 
+96 zajetí 
+97 zájezd 
+98 zají 
+99 zajímati 

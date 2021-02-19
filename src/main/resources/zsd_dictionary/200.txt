@@ -1,0 +1,105 @@
+200
+
+00 zapisovaný 
+01 zapisovatel 
+02 zapisovati 
+03 zaplacený 
+04 zaplašený 
+05 zaplašiti 
+06 zaplacený 
+07 zaplatiti 
+08 záplava 
+09 zaplavený 
+10 zaplaviti 
+11 zaplésti se 
+12 zapletený 
+13 zápletka 
+14 započato 
+15 započetí 
+16 započíti 
+17 zápolení 
+18 zápolí 
+19 zápolní 
+20 zápolní OPL
+21 zapomenouti
+22 zapomenutý 
+23 zapomínati 
+24 zapomětlivost 
+25 zapomětlivý
+26 zápór 
+27 záporná
+28 záporná odpověď 
+29 záporné 
+30 záporné hlášení 
+31 záporné stanovisko 
+32 záporné vyřízení 
+33 záporný 
+33 záporně
+34 zapověděti 
+35 zapovězený 
+36 zapracování 
+37 zapracovaný 
+38 zapracovati 
+39 zapřáhnouti 
+40 zapravený 
+41 zapraviti 
+42 zapřenou 
+43 zapřený 
+44 zapřísahati 
+45 zapřísahlý 
+46 zapříti 
+47 zaprodati 
+48 zapganý 
+49 zapsati 
+50 zapuditi 
+51 zapůjčený 
+52 zapůjčiti 
+53 zápujčka 
+54 zapustiti 
+55 zar 
+56 zář 
+57 zaražení 
+58 zaražený 
+59 zařazení 
+60 zařazený 
+61 zaraziti 
+62 zářez 
+63 září 
+64 zaříditi 
+65 zařiěte 
+66 zařiěte potřebné 
+67 zařízení 
+68 zařízený 
+69 zařizovací 
+70 zařizovati 
+71 zařizovati se 
+72 zarmoucený
+72 zarmouceně
+73 zarnoutiti 
+74 zármutek 
+75 zárodek
+76 zároveň
+77 zarovnati 
+78 zarputilý 
+78 zarputile 
+79 zaručený 
+80 zaručená zpráva 
+81 zaručiti 
+82 zaručovati 
+83 záruka 
+84 zarytý 
+85 zas
+86 zásada 
+87 zasaditi 
+88 zasaditi se 
+89 zásadně 
+90 zásadní 
+91 zásah 
+92 zasáhnouti 
+93 zasáhnutí 
+94 zasahování 
+95 zasahovati 
+96 zasazení 
+97 zasazený  
+98 zasazená jednotka 
+99 zasazené jednotky

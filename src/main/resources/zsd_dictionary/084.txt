@@ -1,0 +1,107 @@
+084
+
+00 nárok
+01 narovnati
+02 narozeniny 
+03 nároží 
+04 nárt 
+05 naruby 
+06 náručí 
+07 narukovati 
+08 narůsti 
+09 náruživý 
+09 náruživě 
+10 nárys 
+11 nas 
+12 nás 
+13 násada 
+14 nasaditi 
+15 nasazení 
+16 nasazení  záloh 
+17 nasazený 
+18 násep 
+19 nashromážditi 
+20 naschvál 
+21 násilí 
+22 násilnický 
+22 násilnicky
+23 násilný  
+23 násilně 
+24 náskok 
+25 naskrz 
+26 naskýtati se 
+27 naskýtá se 
+28 naskýtá se příležitost 
+29 naskytla se 
+30 následek 
+31 následkem 
+32 následkem toho 
+33 následník 
+34 následovati 
+35 následující 
+36 naslouchací 
+37 naslouchací četa 
+38 naslouchací roj 
+39 naslouchací rota 
+40 naslouchací stanice 
+41 naslouchací ustředna 
+42 naslouchání 
+43 naslouchati 
+44 nasnadě 
+45 násobiti 
+46 násobný  
+46 násobně
+47 naspěch 
+48 nastalý 
+49 nastati 
+50 nastávající
+51 nastaviti 
+52 nástin 
+53 nastíniti 
+54 nastoliti 
+55 nastoupiti 
+56 nastřádati 
+57 nástraha 
+58 nastražiti 
+59 nastrčiti 
+60 nástřel 
+61 nástroj 
+62 nastrojiti 
+63 nástup 
+64 nástupce 
+65 nástupní 
+66 nástupníctví 
+67 nastupovati 
+68 nástupový 
+69 nástupový prostor
+70 nasvědčovati 
+71 náš 
+72 naše 
+73 našeho 
+74 našemu 
+75 naši 
+75 naší 
+76 nat 
+77 nať
+78 nata 
+79 natáhnouti 
+80 nate 
+81 natě 
+82 nati 
+83 nationále 
+84 nátisk 
+85 nátlak 
+86 nato 
+87 natr 
+88 natur 
+89 naturalisace 
+90 naturalisovati 
+91 naturální 
+92 nau 
+93 nauční 
+94 naučný 
+95 nauka 
+96 nav 
+97 naváděti 
+98 nával 
+99 navázání 

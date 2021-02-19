@@ -1,0 +1,105 @@
+025
+
+00 defensíva 
+01 defensívní 
+02 defekt 
+03 deficit  
+04 defilé  
+05 defin  
+06 definovati  
+07 definitívní
+07 definitívně 
+08 deform 
+09 defraudace 
+10 defraudovati 
+11 deg 
+12 degener  
+13 degradace  
+14 degradovati 
+15 deh 
+16 dech  
+17 dei  
+18 dej  
+19 dejte 
+20 dejte ihned 
+21 děj  
+22 dějiště 
+23 dek  
+24 dakagram 
+25 ďěkan  
+26 dekla 
+27 deklarace 
+28 deklarovati 
+29 dekorace 
+30 dekorativní 
+30 dekorativně 
+31 dekorovati
+32 dekorum  
+33 děkovati  
+34 děkovný 
+35 dekret  
+36 dekretov  
+37 del
+38 děl
+39 dela  
+40 Delatyn  
+41 dělba  
+42 dele 
+43 déle  
+44 delegace  
+45 delegát  
+46 delegovaný 
+47 delegovati  
+48 délesloužící  
+49 délesloužící četař
+5O délesloužící desátník 
+51 délesloužící poddůsojník 
+52 déletrvající 
+53 děl 
+54 děla 
+55 dělá 
+56 dělá dojem 
+57 dělá potíže 
+58 dělati 
+59 dělení 
+60 dělený 
+61 delikt 
+62 delikvent 
+63 děliti 
+64 délka 
+65 dělnictvo 
+66 dělník 
+67 dělo 
+68 dělostřelba 
+69 dělostřelec 
+70 dělovod 
+71 dělostřelecká 
+72 dělostřelecká automob. škola 
+73 dělostřelecká balonová rota 
+74 dělostřelecká brigáda 
+75 dělostřelecká činnost 
+76 dělostřelecká kolona 
+77 dělostřelecká měřická rota 
+78 dělostřelecká muniční kolona 
+79 dělostřelecká palba 
+80 dělostřelecká posice 
+81 dělostřelecká pozorovatelna 
+82 dělostřelecká pracovní rota 
+83 dělostřelecká průzkumná hlídka 
+84 dělostřelecká příprava 
+85 dělostřelecká střelnice 
+86 dělostřelecké 
+87 dělostřelecké skladiště
+87 dělostřelecký sklad 
+88 dělostřelecké učiliště 
+89 dělostřelecké zpravodajství 
+90 dělostřelecký 
+91 dělostřelecký důstojnĺk 
+92 dělostřelecký kurs 
+93 dělostřelecký material 
+94 dělostřelecký náboj 
+95 dělostřelecký oddíl 
+96 dělostřelecký pluk 
+97 dělostřelecký pozorovatel 
+98 dělostřelecký průzkum 
+99 dělostřelectvo

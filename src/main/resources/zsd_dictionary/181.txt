@@ -1,0 +1,104 @@
+181
+
+00 věrolomný 
+00 věrolomně
+01 verse 
+02 verst 
+03 věru 
+04 ves 
+05 vesel 
+06 veselý
+06 vesele 
+07 veslo 
+08 vesměs 
+09 vesnice 
+10 vesničan 
+11 vespod 
+12 vespolek 
+13 vesta 
+14 vésti 
+15 věs 
+16 věš 
+17 věstník MNO 
+18 věstník osobní 
+19 věstník věcní 
+20 veškerý 
+21 vet 
+22 veta 
+23 věta 
+24 veterinář  
+25 veterinářský
+26 větev  
+27 větrati 
+28 vetřelec 
+29 vetřelý 
+30 vetříti se 
+31 větřiti 
+32 větrník 
+33 větrný 
+34 větrný mlýn 
+35 větší 
+36 většina 
+37 většinou 
+39 vevnitř 
+40 vévoda 
+41 vévodství 
+42 vez 
+43 věz 
+44 vězeň 
+45 vězení 
+46 vězeňský 
+47 vězeti 
+48 věznice 
+49 vězniti  
+50 vézti 
+51 věž 
+52 věžní
+53 vh
+54 vhod 
+55 vhodně 
+56 vhodný 
+57 vhodné opatření  
+58 vhodná příležitost
+59 vcházeti 
+60 vchod 
+61 vi
+62 ví
+63 via 
+64 viadukt 
+65 více 
+66 vícekrát 
+67 vícero 
+68 Vickers 
+69 vič 
+70 víč 
+71 vid 
+72 viď 
+73 viděti 
+74 vídaný 
+75 viděný 
+76 Vídeň
+77 vídenský 
+78 viděti 
+79 viditelný
+79 viditelně  
+80 vidl 
+81 vidno 
+82 vidoucí 
+83 vie 
+84 vich 
+85 vichr 
+86 vichřice 
+87 vik 
+88 vikář 
+89 víko 
+90 vil 
+91 vila 
+92 vilový 
+93 vím 
+94 víme 
+95 Vimperk 
+96 vin 
+97 vín 
+98 vina 
+99 vinárna 

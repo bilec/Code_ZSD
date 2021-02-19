@@ -1,0 +1,103 @@
+001
+
+00 apostrof:
+01 čárka v souvětí.
+02 desetiná tečka:
+03 dvojtečka:
+04 lomítko:
+05 otazník:
+06 pomlčka:
+07 středník:
+08 tečka za větou.
+09 tečka, nová řádka:
+10 uvozovky na počátku:
+11 uvozovky na konci:
+12 předch.slovo dej do uvozovek:
+13 výkřičník:
+14 závorka na počátku:
+15 závorka na konci:
+16 předch.slovo budiž podtrženo.
+17 následující slova buďte podtržena:
+18 konec podtržení.
+
+19 předch. dvě skupiny tvoří slovo:
+20 předch. tři skupiny tvoří slovo:
+21 předch. skupiny tvoří slovo:
+22 opakuj shora uvedené složené slovo jež začíná:
+23 předoh.výraz piš s velkým zač.písmenem:
+
+24 předch.výraz platí jen včetně: 2. písmeny:
+25 předch.výraz platí jen včetně: 3. písmeny:
+26 předch.výraz platí jen včetně: 4. písmeny:
+27 předch.výraz platí jen včetně: 5. písmeny:
+28 předch.výraz platí jen včetně: 6. písmeny:
+29 předch.výraz platí jen včetně: 7. písmeny:
+30 předch.výraz platí jen včetně: 8. písmeny:
+
+31 v předch. výraze škrtni poslední písmenu:
+32 v předch. výraze škrtni poslední dvě písmeny:
+33 v předch. výraze škrtni poslední tři písmeny:
+
+34 z předch. skupin slov platí jen první slovo:
+35 z předch. skupin slov platí jen první dvě slova:
+36 z předch. skupin slov platí jen druhé slovo:
+37 z předch. skupin slov platí jen poslední slovo:
+
+38 předcházející slovo čti v jednotném čísle
+39 předcházející slovo čti v množném čísle
+40 předcházející slovo čti v 2.pádě jedn.čísla
+41 předcházející slovo čti v 3.pádě jedn.čísla
+42 předcházející slovo čti v 4.pádě jedn.čísla
+43 předcházející slovo čti v 6.pádě jedn.čísla
+44 předcházející slovo čti v 7.pádě jedn.čísla
+45 předcházející slovo čti v 2.pádě množ.čísla
+46 předcházející slovo čti v 3.pádě množ.čísla
+47 předcházející slovo čti v 4.pádě množ.čísla
+48 předcházející slovo čti v 6.pádě množ.čísla
+49 předcházející slovo čti v 7.pádě množ.čísla
+
+50 předcházející slovo čti jako podstatné jméno:
+51 předcházející slovo čti jako přídavné jméno:
+52 předcházející slovo čti jako sloveso:
+53 předcházející slovo čti jako sloveso záporné:
+54 předcházející slovo čti jako sloveso zvratné:
+55 předcházející slovo čti jako sloveso nezvratné:
+56 předcházející slovo čti jako podst. jméno slovesné ( na př. dělaní )
+57 předcházející slovo čti jako přechodník přít.určitý ( dělající )
+58 předcházející slovo čti jako přechodník přít.neurčitý ( dělaje, dělajíc, dělajíce )
+59 předcházející slovo čti jako přechodník minulý určitý ( dělavší )
+60 předcházející slovo čti jako přechodník minulý neurčitý ( dělav, dělavši, dělavše )
+61 předcházející slovo čti jako příčestí min.trpné ( dělán, dělána, děláno )
+62 předcházející slovo čti jako ve formě opakovací ( dělávám, zastavoval )
+63 předcházející slovo čti jako ve formě dokonavé ( zastavil )
+64 předcházející slovo čti jako v podmiňovacím zpôsobu ( dělal bych )
+65 předcházející slovo čti jako v rozkazovacím zpôsobu ( dělejte )
+66 předcházející slovo čti jako v rozkazovacím zpôsobu záporném ( nedělejte )
+67 předcházející slovo čti jako v rode činném:
+68 předcházející slovo čti jako v rode trpném:
+69 předch.příd.jméno čtí v komparatívu ( delší )
+70 předch.příd.jméno čtí v superlatívu ( nejdelší )
+
+71 předcházející sloveso čti v přítomném čase:
+72 předcházející sloveso čti v 1.osobě jedn.čís.přít.času:
+73 předcházející sloveso čti v 2.osobě jedn.čís.přít.času:
+74 předcházející sloveso čti v 3.osobě jedn.čís.přít.času:
+75 předcházející sloveso čti v 1.osobě množ.čís.přít.času:
+76 předcházející sloveso čti v 2.osobě množ.čís.přít.času:
+77 předcházející sloveso čti v 3.osobě množ.čís.přít.času:
+
+78 předcházející sloveso čti v minulém čase:
+79 předcházející sloveso čti v 1.osobě jedn.čís.min.času:
+80 předcházející sloveso čti v 2.osobě jedn.čís.min.času:
+81 předcházející sloveso čti v 3.osobě jedn.čís.min.času:
+82 předcházející sloveso čti v 1.osobě množ.čís.min.času:
+83 předcházející sloveso čti v 2.osobě množ.čís.min.času:
+84 předcházející sloveso čti v 3.osobě množ.čís.min.času:
+
+85 předcházející sloveso čti v budúcím čase:
+86 předcházející sloveso čti v 1.osobě jedn.čís.bud.času:
+87 předcházející sloveso čti v 2.osobě jedn.čís.bud.času:
+88 předcházející sloveso čti v 3.osobě jedn.čís.bud.času:
+89 předcházející sloveso čti v 1.osobě množ.čís.bud.času:
+90 předcházející sloveso čti v 2.osobě množ.čís.bud.času:
+91 předcházející sloveso čti v 3.osobě množ.čís.bud.času:

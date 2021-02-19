@@ -1,0 +1,106 @@
+103
+
+00 orig 
+01 originální 
+01 originálně
+02 orlice 
+03 orm
+04 orn 
+05 orný 
+06 ort 
+07 ortel 
+08 orto  
+09 ortodoxní 
+09 ortodoxně
+10 oru 
+11 os 
+12 osa 
+13 osa postupu 
+14 osa přemístění 
+15 osada 
+16 osaditi 
+17 osádka 
+18 osadní 
+19 osamělý 
+20 osamělá budova 
+21 osamělý strom 
+22 ose 
+23 osed
+24 osek 
+25 osel 
+26 osen 
+27 osev 
+28 osch 
+29 osi 
+30 osí 
+31 osidlo 
+32 osk 
+33 osl 
+34 oslabení 
+35 oslabený 
+36 oslábnouti 
+37 oslabovati 
+38 oslava 
+39 oslavený 
+40 oslaviti 
+41 oslavovati 
+42 oslepený 
+43 oslepiti 
+44 oslepnouti 
+45 osleplý 
+46 oslnivý 
+47 oslov 
+48 oslovený 
+49 osloviti
+50 osm
+51 osma 
+52 osmého 
+53 osměliti se 
+54 osmidenní 
+55 osmina 
+56 osmkrát 
+57 osmý 
+58 osn 
+59 osno 
+60 osnova 
+61 osný 
+62 oso 
+63 osob 
+64 osoba 
+65 osobně 
+66 osobně se dostaviti 
+67 osobně zakročiti 
+68 osobní 
+69 osobní automobil 
+70 osobní oddělení 
+71 osobní referent 
+72 osobní věstník 
+73 osobní vlak 
+74 osobní vůz 
+75 osobní zájem 
+76 osobnost 
+77 osobovati si 
+78 osočiti 
+79 osp 
+80 ospravedlnění 
+81 ospravedlněný 
+82 ospravedlniti se 
+83 ost 
+84 ostatek 
+85 ostati 
+86 ostatně 
+87 ostatní 
+88 ostávati 
+89 oste 
+90 osten 
+91 ostentativní 
+91 ostentativně
+92 osti 
+93 ostnatý 
+94 ostnatý drát 
+95 ostraha 
+96 ostraha hranic 
+97 ostražitost 
+98 ostražitý
+98 ostražitě 
+99 ostře 

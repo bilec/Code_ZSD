@@ -1,0 +1,105 @@
+115
+
+00 pomo
+01 pomoc 
+02 pomoci 
+03 pomocí 
+04 pomocná 
+05 pomocná četa 
+06 letka 
+07 rota 
+08 šipka
+09 pomocné  
+10 družstvo  
+11 družstvo letiště 
+12 družstvo zbraně
+13 družstvo zdravotnictvo
+14 pomocník 
+15 pomocný 
+16 pomoří 
+17 pomsta 
+18 pomstiti se 
+19 pomůcka 
+20 pomýšleti 
+21 pomysliti 
+22 pon
+23 ponaučení 
+24 ponaučiti 
+25 pondělí 
+26 pondělní 
+27 ponechaný 
+28 ponechati 
+29 ponejprv 
+30 ponejvíce 
+31 poněkud 
+32 poněmčený 
+35 ponenáhle 
+34 ponenáhlý 
+35 ponětí 
+36 poněvadž 
+37 ponížení
+37 poníženě
+38 ponížený 
+39 ponížiti se 
+40 ponor 
+41 ponorka 
+42 ponton 
+43 pontonový 
+44 pontonový most
+45 pop  
+46 popírati 
+47 popis 
+48 popisný 
+49 popisovati
+50 poplach 
+51 poplachový 
+52 poplachová nažízení
+53 poplašný 
+54 poplašný sighál 
+55 poplatek 
+56 poplatník 
+57 popo 
+58 Poprad 
+59 poprask 
+60 poprava 
+61 popravený 
+62 popravčí 
+63 popraviště  
+64 popraviti 
+65 popředí 
+66 popříti 
+67 poprve 
+68 popsati 
+69 popsaný 
+70 poptávka 
+71 popud 
+72 popudlivý
+72 popudlivě
+73 popuditi 
+74 populace 
+75 populační 
+76 popularita 
+77 populární 
+77 populárně 
+78 popustiti 
+79 popuzený 
+80 por 
+81 pořad 
+82 porada 
+83 pařadatel 
+84 pořádati 
+85 pořádek 
+86 pořadí 
+87 poraditi 
+88 pořádně 
+89 pořádný 
+90 poradní 
+91 poraněný 
+92 poraniti 
+93 poraziti 
+94 poražený 
+95 porážka 
+96 porce 
+97 poříditi 
+98 pořízený 
+99 poro

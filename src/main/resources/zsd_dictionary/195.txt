@@ -1,0 +1,102 @@
+195
+
+00 X 
+01 x 
+02 x. 
+03 x.y.
+04 xa 
+05 xam 
+06 xan 
+07 xanti 
+08 xe 
+09 xer 
+10 xes 
+11 xi
+12 xie 
+13 xik
+14 xis 
+15 xo 
+16 xu 
+17 xy 
+18 xyl 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 Y
+31 y
+32 y.
+33 YMCA 
+34 YWCA 
+35 ý
+36 ya
+37 yacht 
+38 yan 
+39 yard 
+40 yb
+41 ye
+42 yen 
+43 yh
+44 yho 
+45 ých 
+46 yje 
+47 yk
+48 ýk 
+49 yl
+50 yla 
+51 ylo 
+52 ym
+53 ým 
+54 ýma
+55 ými 
+56 yn 
+57 yn
+58 yne 
+59 yo
+60 yon 
+61 yp
+62 yperit 
+63 ypo 
+64 ypr 
+65 ypsilon 
+66 yr
+67 ýr 
+68 ys
+69 yse 
+70 ysl 
+71 yt
+72 yv
+73 yva
+74 yvá 
+75 ýval
+76 ývali 
+77 ývalo 
+78 ývaly 
+79 yz
+80 ýz 
+81 yž
+82 
+83 
+84 
+85 
+86 
+87 
+88 
+89 
+90 
+91 
+92 
+93 
+94 
+95 
+96 
+97 
+98 
+99 

@@ -1,0 +1,106 @@
+176
+
+00 útočný granát 
+01 útočné seskupení 
+02 útočná sestava 
+03 útočná vozba 
+04 útok 
+05 útok vyrazí 
+06 útok započne 
+07 útokem 
+08 utr 
+09 utracený 
+10 utráceti 
+11 utrakv 
+12 útrapa 
+13 útraty 
+14 utrhnouti se 
+15 utrmácený 
+16 utrmáceti 
+17 utrpení 
+18 utrpěti 
+19 útrpnost 
+20 útrpný  
+20 útrpně
+21 útržek 
+22 utržíti 
+23 utu 
+24 utuhnouti 
+25 útulek 
+26 ututlati 
+27 utužiti 
+28 útvar 
+29 utvářený 
+30 utvářiti se 
+31 utvořený 
+32 utvořiti 
+33 utvořiti si 
+34 utvořený 
+35 utvrditi 
+36 utvrzený 
+37 uty 
+38 utý 
+39 uváděti 
+40 úvaha 
+41 uvaliti 
+42 uvarovati se 
+43 uvázati 
+44 uváznouti 
+45 uvážený 
+46 uvážiti 
+47 uvažovati 
+48 uve 
+49 uveden 
+50 uvedený 
+51 uvědomělý 
+52 uvědomiti 
+53 uvědomiti si
+54 úvěr 
+55 úvěrní 
+56 uveřejnění 
+57 uveřejněný 
+58 uveřejniti 
+59 uvěřitelný
+59 uvěřitelně
+60 uvěřiti 
+61 uvésti 
+62 uvězněný 
+63 uvězniti 
+64 uviděti 
+65 uvítaný 
+66 uvítati 
+67 uvíznouti 
+68 uvnitř 
+69 úvod 
+70 úvodem 
+71 úvodní 
+72 úvodník 
+73 uvoliti se 
+74 uvolněný 
+75 uvolniti 
+76 úvoz 
+77 uvrhnouti 
+78 uvy 
+79 uzákoniti 
+80 uzamčený 
+81 uzamknouti 
+82 uzávěr 
+85 uzávěrka 
+84 uzavírací 
+85 uzavírati 
+86 uzavřený 
+87 uzavříti 
+88 uzdravený 
+89 uzdraviti se 
+90 uzel 
+91 území 
+92 územní 
+93 úzko 
+94 úzkokolejná dráha 
+95 úzkoprsý 
+95 úzkoprse 
+96 úzkost 
+97 úzkostlivý
+97 úzkostlivě
+98 úzce 
+99 úzký

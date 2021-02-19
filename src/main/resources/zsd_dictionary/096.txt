@@ -1,0 +1,106 @@
+096
+
+00 obvázati 
+01 obvaziště 
+02 obviněný 
+05 obviniti 
+04 obvod 
+05 obvodní 
+06 obvyklý
+06 obvykle
+07 oby 
+08 obyčej 
+09 obyčejně 
+10 obydlí 
+11 obydlený 
+12 obytné budovy 
+13 Obyšovce 
+14 obyvatelstvo 
+15 obývati 
+16 obzor 
+17 obzvláště 
+18 obzvláštní 
+19 obžaloba 
+20 obžalovaný 
+21 obžalovati 
+22 obživa 
+23 obživnouti 
+24 oc 
+25 oca 
+26 oce 
+27 oceán 
+28 ocel 
+29 ocelový 
+30 ocen 
+31 oceniti 
+32 ocenění 
+33 ocet 
+34 oci 
+35 octnouti se 
+36 ocu 
+37 oč 
+38 očekávání 
+39 očekávaný 
+40 očekávati 
+41 očí 
+42 očista 
+43 očistiti
+44 očitý 
+45 očitýsvědek 
+46 oční 
+47 od 
+48 od dnešního dne 
+49 od koho 
+50 od rána 
+51 od Vás
+52 oda 
+53 odběhnouti 
+54 odběr 
+55 odběratel 
+56 odběrna 
+57 odbočiti 
+58 odbočka 
+59 odbočka div.prov.skladu 
+60 odboj 
+61 odbojný  
+61 odbojně 
+62 odbor 
+63 odborník 
+64 odborný 
+64 odborně
+65 odborový 
+66 odbyt 
+67 odbýti 
+68 odbytiště 
+69 odcestovati 
+70 odciziti 
+71 odčítati 
+72 oddálený 
+73 oddáliti 
+74 oddalovati 
+75 oddanost 
+76 oddaný
+76 oddaně
+77 oddati se 
+78 oddech 
+79 oddeehnouto si 
+80 oddělení 
+81 1. oddělení 
+82 2. oddělení 
+83 3. oddělení 
+84 4. oddělení 
+85 5. oddělení 
+86 odděleně 
+87 oddělený 
+88 odděliti 
+89 oddíl 
+90 I. oddíl
+91 II. oddíl
+92 III. oddíl
+93 ode 
+94 odebírati 
+95 odebrati 
+96 odečísti 
+97 odejeti 
+98 odejíti 
+99 odejmouti 

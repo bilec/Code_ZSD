@@ -1,0 +1,109 @@
+156
+
+00 etHk 
+01 striktní 
+01 striktně 
+02 střílení 
+03 stříleti 
+04 střízlivost 
+05 střízlivý
+05 střízlivě 
+06 strkati 
+07 strmý 
+07 strmě
+08 strmý břeh 
+09 strmý svah 
+10 strnouti 
+11 strnulý
+11 strnule 
+12 stro 
+13 stroj 
+14 strojený 
+14 strojeně
+15 strojiti 
+16 strojmistr 
+17 strojní 
+18 strojní četa 
+19 strojní rota 
+20 pstrojní rapor 
+21 strojník 
+22 strojovna 
+23 strojvůdce 
+24 strom 
+25 stromořadí 
+26 strop 
+27 stroskotaný 
+28 stroskotati 
+29 strou 
+30 strouha 
+31 stru 
+32 stručně 
+33 stručnost 
+34 stručný 
+35 stručný obsah 
+36 stručná zpráva 
+37 strůjce 
+38 struktura 
+39 strum 
+40 strun 
+41 struna 
+42 strus 
+43 struz 
+44 struž 
+45 stry 
+46 strý 
+47 strýc 
+48 strych 
+49 strž 
+50 stržený 
+51 stržiti 
+52 stu 
+53 stud 
+54 student 
+55 studený 
+56 studie 
+57 studijní 
+58 studium 
+59 studna 
+60 studovaný 
+61 studovati 
+62 střih 
+63 stůj 
+64 stůl 
+65 stupeň 
+66 stupoice 
+67 stupnování
+68 stupnovaný  
+68 stupnovaně
+69 stupnovati 
+70 stupňovitý
+70 stupňovitě 
+71 stužiti 
+72 stužka 
+73 stva 
+74 stven 
+75 ství 
+76 stvích 
+77 stvo 
+78 stvořený 
+79 stvořiti 
+80 stvrdlý 
+81 stvrdnouti 
+82 stvrzení 
+83 stvrzenka 
+84 stvrzený 
+85 stvrzovati 
+86 stvů 
+87 stvým 
+88 stvými 
+89 sty 
+90 stý 
+91 styčná  
+92 styčná hlídka 
+93 styčná hlídkadělostř.
+94 styčné 
+95 styčný 
+96 styčný důstojník  
+97 styčný oddíl 
+98 styčný orgán
+99 styčný voj

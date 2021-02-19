@@ -1,0 +1,104 @@
+162
+
+00 šqec 
+01 Švéd  
+02 švestka
+03 švih 
+04 Švýcarsko
+05 švýcarský 
+06 
+07 
+08 
+09 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+20 T 
+21 t
+22 t. 
+23 taj.
+24 t.m.
+25 TOPL
+26 t.r.
+27 ta 
+28 tabák 
+29 tabákový 
+30 tabáková režie 
+31 tabáková továrna 
+32 tabela 
+33 tábor 
+34 táborový 
+35 táboření 
+36 tábořiti 
+37 tábořiště 
+38 tabule 
+39 tabulka 
+40 tabulový 
+41 tady 
+42 tah 
+43 tahati 
+44 táhlý 
+45 télmouti 
+46 Tachov 
+47 taj 
+48 taje 
+49 tajemník 
+50 tajemný
+50 tajemně
+51 tajemství 
+52 tajiti 
+53 tajně 
+54 tejný 
+55 tejné čj.
+56 tejný rozkaz 
+57 tejný spis 
+58 tejné znamení 
+59 tajuplný 
+60 tak 
+61 tak aby 
+62 tak aby byl 
+63 tak dlouho 
+64 tak zvaný 
+65 tak že 
+66 také
+67 takový 
+68 takřka 
+69 takt 
+70 taktéž 
+71 taktická
+72 taktická úloha 
+73 taktická úvaha 
+74 taktické 
+75 taktické řešení 
+76 taktický 
+76 takticky 
+77 taktický průzkum
+78 taktický postup 
+79 taktický ústup 
+80 taktika 
+81 taktní 
+81 taktně 
+82 takto 
+83 takže 
+84 tal 
+85 talent 
+86 talentovaný 
+87 talíř 
+88 tam 
+89 tamní 
+90 tamtéž 
+91 tamže 
+92 tan 
+93 tank 
+94 tankový  
+95 tankový útok
+96 tanouti
+97 tápati 
+98 tára 
+99 tarif 

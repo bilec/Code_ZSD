@@ -1,0 +1,101 @@
+071
+
+00 lůžkový 
+01 lůžkový sklad 
+02 lv 
+03 lva 
+04 lve 
+05 lvi 
+06 lvo 
+07 Lvov 
+08 lvu 
+09 ly
+10 lý
+11 lysý 
+12 lyžařský 
+13 lýže 
+14 lze 
+15 lze—li 
+16 lže 
+17 lživě 
+18 lživý 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 M
+51 m
+52 m.
+53 m 
+54 m 
+55 m2
+56 m3
+57 mm
+58 MNO
+59 mob. 
+60 MUDr.
+61 M.V.  
+62 ma
+63 má
+64 má býti 
+65 má se
+66 má zpráva 
+67 mac 
+68 mace 
+69 Macedonie 
+70 mační 
+71 mad 
+72 Maďar 
+73 Maďaři 
+74 maďarofil 
+75 madarofilský 
+76 maďaron 
+77 maďarská 
+78 maďarská armáda 
+79 maďarská brigáda 
+80 maďarská divise 
+81 maďarská hranice 
+82 maďarská pěchota 
+83 maďarská pohr. stráž 
+84 maďarská vláda 
+85 maďrské 
+86 maďrské dělostřelectvo 
+87 maďrské jezdectvo 
+88 maďrské letadlo 
+89 maďrské letectvo
+90 maďrské území
+91 maďrské vyslanectví 
+92 Maďarsko 
+93 maďarský 
+94 maďarský děl.pluk 
+95 maďarský gen.štáb 
+96 maďarský jezd.pluk 
+97 maďarský konsul 
+98 maďarský pěš.pluk 
+99 maďarský sbor

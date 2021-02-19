@@ -1,0 +1,107 @@
+006
+
+00 A                    
+01 a                    
+02 a /:spojka:/         
+03 a. /:zkratka:/       
+04 aa /:ad acta:/       
+05 a j. /: a jiné:/     
+06 AOPL                 
+07 a t.d.               
+08 a když               
+09 a ne                 
+10 a podobne
+11 a potom
+12 a priori             
+13 a sice               
+14 a to                 
+15 a že                 
+16 á                    
+17 à                   
+18 ä
+19 aa                   
+20 ab                   
+21 aba                  
+22 abdik                
+23 abc                  
+24 abeceda              
+25 abecední
+25 abecedně          
+26 abi                  
+27 abiturient           
+28 abnormální 
+28 abnormálně      
+29 abo                 
+30 abr                  
+31 abs                  
+32 absolut              
+33 absolutní
+33 absolutně
+34 absolv               
+35 absorbovati          
+36 abstinen             
+37 abstrakt             
+38 absurd             
+39 aby                  
+40 aby byla               
+41 aby byli               
+42 aby bylo               
+43 aby byly               
+44 aby mu                 
+45 aby ne                 
+46 aby se                  
+47 aby si                 
+48 abych                
+49 abych byl               
+50 abych mohl
+51 abych se
+52 abych si
+53 abychom
+54 abychom se
+55 abyste
+56 abyste byl
+57 abyste byli 
+58 abyste mohl 
+59 abyste se
+60 ac
+61 ace
+62 aci
+63 ací
+64 ač
+65 ačkoli
+66 ačně
+67 ační
+68 ačních
+69 ačný
+70 ad
+71 ada
+72 adal
+73 adaptace
+73 adaptační
+74 adaptovati
+75 ade
+76 adi
+77 adjunkt
+78 adjustovati
+79 adjutant
+80 adm
+81 administrace
+82 administrtíva
+83 administratívní
+83 administratívně
+84 admirál
+85 adn
+86 ado
+87 adoptace
+88 adoptívní
+89 adoptovati
+90 adresa
+91 adresář
+92 adresát
+93 adresovaný
+94 adresovati
+95 adt
+96 adu
+97 adv
+98 advokát
+99 advokátní

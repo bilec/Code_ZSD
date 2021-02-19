@@ -1,0 +1,110 @@
+112
+
+00 podpora 
+01 podpora dělostřelectva
+02 podporovatel 
+03 podporovati
+04 podporovati útok
+05 podporučík 
+06 podpůrný 
+07 podřaditi 
+08 podřadný  
+09 podřadný význam
+10 podřeknouti se 
+11 podříditi 
+12 podřízenost 
+13 podřízený 
+14 podrobený 
+15 podrobiti 
+16 podrobně 
+17 podrobnost 
+18 podrobný 
+19 područí 
+20 podružný 
+20 podružně 
+21 podrývati 
+22 podržeti 
+23 podskupina 
+24 podstata 
+25 podstatný  
+25 podstatně
+26 podstoupiti 
+27 podstrčiti 
+28 podtrhnouti 
+29 podúsek 
+30 podváděti 
+31 podvázati 
+32 podvázaný 
+33 podvésti 
+34 podvod 
+35 podvodník 
+36 podvodný  
+36 podvodně
+37 podvoliti se 
+38 podvraceti 
+39 podvratný 
+40 podvratný živel 
+41 podvrhnouti 
+42 podzemní 
+43 podzemní chodby 
+44 podzim 
+45 pohaněný 
+46 poháněti 
+47 pohaněti 
+48 pohár 
+49 pohlavár 
+50 pohlaví 
+51 pohlavní  
+51 pohlavně
+52 pohled 
+53 pohledávka 
+54 pohledávati 
+55 pohlížeti 
+56 pohnati 
+57 pohnouti 
+58 pohnutý  
+58 pohnutě 
+59 pohnutka 
+60 pohoda 
+61 pohoditi 
+62 pohodlí 
+63 pohodlný 
+63 pohodlně
+64 pohodlnost 
+65 pohoří 
+66 pohoršení 
+67 pohoršiti 
+68 pohoršující 
+69 pohostinný 
+69 pohostinně 
+70 pohostiti 
+71 pohotově 
+72 pohotovost 
+73 pohotovostní 
+74 pohov 
+75 pohraniční 
+76 pohraniční hlidka 
+77 pohraniční oddíl 
+78 pohraniční stráž 
+79 pohrávati si 
+80 pohřbíti 
+81 pohrdati 
+82 pohrdlivý 
+83 pohřeb 
+84 pohřební 
+85 pohřešitelný 
+86 pohřešovati 
+87 pohřížiti 
+88 pohroma 
+89 pohromadě 
+90 pohroziti 
+91 pohrůžka 
+92 pohyb  
+93 pohyblivá palebná přehr.
+94 pohyblivá přehrada
+95 pohyblivost 
+96 pohyblivý 
+97 pohybový  
+97 pohybově
+98 pohybovati se
+99 pocházeti

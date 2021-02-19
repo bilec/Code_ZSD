@@ -1,0 +1,102 @@
+196
+
+00 Z
+01 z 
+02 z.
+03 ZVV
+04 ZVV Praha
+05 ZVV Brno 
+06 ZVV Bratislava 
+07 ZVV Košice 
+08 z
+09 z důvodů 
+10 z hlediska 
+11 z našeho 
+12 z naší 
+13 z nedostatku 
+14 z ohledu 
+15 z povolání 
+16 z pravidla 
+17 z rozkazu 
+18 z toho důvodu 
+19 z Vašeho 
+20 z vaší 
+21 za 
+22 za
+23 za daných okolností 
+24 za daných poměrů 
+25 za den 
+26 za dne 
+27 za noci 
+28 za pohybu 
+29 za soumraku 
+30 za svítání 
+31 za šera 
+32 za tím účelem 
+33 za toto 
+34 za účelem 
+35 za úkol 
+36 za velitele 
+37 zä 
+38 zab 
+39 zábava 
+40 zabavený 
+41 zabaviti 
+42 zábavný 
+43 zabed 
+44 zaběhlý 
+45 zaběhnouti 
+46 zabezpečení 
+47 zabezpečený 
+48 zabezpečiti 
+49 zabí 
+50 zabíhati 
+51 zabíjeti 
+52 zabírati 
+53 zabíti 
+54 zabitý 
+55 zabl 
+56 zablouditi 
+57 zabodnouti 
+58 zabořiti 
+59 zábradlí 
+60 zabránění 
+61 zabráněný 
+62 zabráníti 
+63 zabraňovací 
+64 zabraňovací palba 
+65 zabraňování 
+66 zabraný 
+67 zabrati 
+68 zabřednouti 
+69 Zábřeh 
+70 zabrzditi 
+71 zabývati se 
+72 zaceliti 
+73 zácpa 
+74 zacpaný 
+75 zacpati 
+76 zač 
+77 začal 
+78 začalo 
+79 začáteční 
+80 začátečník 
+81 začátek 
+82 začatý 
+83 začínati 
+84 začíti 
+85 zad 
+86 záda 
+87 zadaný 
+88 zadarmo 
+89 zadati 
+90 zadávací 
+91 zadek 
+92 zadlužený 
+93 zadlužiti se 
+94 zadní 
+95 zadní hlídka 
+96 zadní jednotky 
+97 zadní oddíl 
+98 zadní strana 
+99 zadní voj 

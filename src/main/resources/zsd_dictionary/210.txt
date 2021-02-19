@@ -1,0 +1,104 @@
+210
+
+00 zvýšené úsilí 
+01 zvýšený zájem 
+02 zvýšiti 
+03 zwei
+04 Zwickau 
+05 
+06 
+07 
+08 
+09 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+49 
+50 Ž 
+51 ž
+52 ž. 
+53 Ž.T.V.
+54 ža
+55 žab 
+56 žac 
+57 žad 
+58 žádanka 
+59 žádaný 
+60 žadatel 
+61 žadatelka 
+62 žádati 
+63 žádný 
+64 žádost 
+65 žádostivý 
+65 žádostivě
+66 žádoucí 
+67 žádoucno 
+68 žák 
+69 žal 
+70 žalář 
+71 žalářní 
+72 žalářovaný 
+73 žalářovati 
+74 žalo 
+75 žaloba 
+76 žalobce 
+77 žalostný 
+77 žalostně 
+78 žalovaný 
+79 žalovati 
+80 žalu 
+81 žalud 
+82 žam 
+83 Žamberk 
+84 žan
+85 žár 
+86 žargon 
+87 žárlivý  
+87 žárlivě
+88 žasnouti 
+89 žat 
+90 Žatec 
+91 žav 
+92 žd
+93 ždímati 
+94 že 
+95 že prý 
+96 že se
+97 že tu
+98 že v 
+99 žeb 

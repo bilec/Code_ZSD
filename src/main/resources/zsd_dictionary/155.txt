@@ -1,0 +1,107 @@
+155
+
+00 stopa  
+01 stopiti 
+02 stopovati
+03 stopy  
+04 stotožniti
+05 stotožňovati se 
+06 stou 
+07 stoupa 
+08 stoupati 
+09 stoupenec 
+10 stoupiti 
+11 stoupnouti 
+12 stovka 
+13 stožár 
+14 str 
+15 stř 
+16 strádati 
+17 střádati 
+18 strach 
+19 strakatý 
+20 stran 
+21 strana 
+22 stráň 
+23 stranický 
+24 stranictví 
+25 straník 
+26 streniii se 
+27 stránka 
+28 stránkovati 
+29 strast 
+30 střásti 
+31 strašiti 
+32 strašlivý
+32 strašlivě 
+33 strašný
+33 strašně 
+34 strast 
+35 strategie 
+36 strategický
+36 strategicky 
+37 strava 
+38 stráviti 
+39 stravovací 
+40 stravovati 
+41 stráž 
+42 strážce 
+43 strážmistr 
+44 strážnice 
+45 strážní 
+46 strážní oddíl 
+47 strážní služba 
+48 strážník 
+49 stře 
+50 střed 
+51 středa 
+52 středu
+53 středisko
+54 středisko odporu  
+55 střední 
+56 střední pásmo 
+57 střední zákop 
+58 středo 
+59 střecha 
+60 střela 
+61 střelba 
+62 střelba nepřímá 
+63 střelba přímá 
+64 střelba zajištěná
+65 střelec  
+66 střelecký
+67 střeliti 
+68 střelivo 
+69 střelnice 
+70 střelný 
+71 střelný prach 
+72 střelený 
+73 střen 
+74 střep 
+75 střepina 
+76 střetnouti se 
+77 střetnutí 
+78 střetný 
+79 střetný boj 
+80 střev 
+81 střež 
+82 střežený 
+83 střežená zastávka 
+84 střežiti 
+85 strhaný 
+86 strhati 
+87 strhnouti 
+88 strhnutý 
+89 stři 
+90 stří
+91 stříbrný 
+92 stříbro 
+93 stříci 
+94 střídání 
+95 střídati 
+96 střídati se
+97 střídavý  
+97 střídavě
+98 střídmý 
+98 střídmě 
+99 střih

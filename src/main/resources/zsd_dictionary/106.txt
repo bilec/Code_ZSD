@@ -1,0 +1,107 @@
+106
+
+00 P
+01 p
+02 p.
+03 psz. 
+04 PZÚ
+05 pa
+06 pacifi 
+07 páčí 
+08 pack 
+09 pad 
+10 pád 
+11 padák 
+12 padati 
+13 padělaný 
+14 padělatel 
+15 padělati 
+16 padělek 
+17 padl 
+18 padla 
+19 padlo 
+20 padly 
+20 padlý
+21 pádnost 
+22 pádný  
+22 pádně
+23 padnouti 
+24 pádu 
+25 pah 
+26 pahorek 
+27 pachatel 
+28 páchati 
+29 páchnouti 
+30 pacht 
+31 pak 
+32 páka 
+35 paklíč 
+34 pakliže 
+35 pakt 
+36 pal 
+37 palác 
+38 palba 
+39 palba bočné 
+40 palba čelní 
+41 palba daleká 
+42 palba křížová 
+43 palba odvetná 
+44 palba ochranná
+45 palba podélná 
+46 palba poklopná 
+47 palba přehradná 
+48 palba přímé podpory 
+49 palba přípravná
+5O palba proti bateriím  
+51 palba proti přípravám 
+52 palba rušivá 
+53 palba šikmá
+54 palba umlčovací 
+55 palba zabraňovací 
+56 palčivost 
+57 palčivý  
+57 palčivě 
+58 palebná 
+59 palebná clona 
+60 palebná posice 
+61 palebná přehrada 
+62 palebná základna 
+63 palebné 
+64 palebné postavení 
+65 palebné prostředky 
+66 palebné stanoviště 
+67 palebný 
+68 palebný průměr 
+69 palebný sled 
+70 palebný úkol 
+71 palec 
+72 pali 
+73 páliti 
+74 paluba 
+75 památka 
+76 památník 
+77 památný 
+78 panaovati se  
+78 panaovati si
+79 paměť
+80 pamětlivý 
+81 pamětník 
+82 pamflet 
+83 pan 
+84 pán 
+85 pancíř 
+86 pancířový 
+87 pancířový vlak 
+88 pangermanismus 
+89 pánev 
+90 paní 
+91 panika 
+92 pano 
+93 panorama 
+94 panoramatický náčrt 
+95 panovačný  
+95 panovačně 
+96 panovati 
+97 panovník 
+98 pansský 
+99 panslav 

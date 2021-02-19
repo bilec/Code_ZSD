@@ -1,0 +1,103 @@
+009
+
+00 ár
+01 ář
+02 ara
+03 Arad
+04 Arbeiter Zeitung
+05 arbitráž
+06 arci
+07 are
+08 arena
+09 arendator
+10 argument
+11 argumentace
+12 arch
+13 archiv
+14 ani
+15 aristokrat
+16 aristokratický
+17 aritmetický
+18 ark
+19 arl
+20 arm
+21 armáda
+22 I. armáda
+23 II. armáda
+24 III. armáda
+25 IV. armáda
+26 V. armáda
+27 armáda postupuje
+28 armáda se soustřeďuje 
+29 armáda ustupuje
+30 armáda v poli
+31 armádě
+32 armádou
+33 armádu
+34 armády
+35 armádní
+36 armádní dělostřelectvo
+37 armádní generál
+38 armádní let.park 
+39 armádní letectva
+40 armádní muniční sklad
+41 armádní obrana proti let.  
+42 armádní rozkaz             
+43 armádní sbor               
+44 armádní sklad              
+45 armádní skupina            
+46 armádní stan               
+47 armádní telegr.park
+48 armádní trén   
+49 armádní velitel
+50 armádní velitelství
+51 armádní záloha
+52 armádní zásobárna
+53 armádní zbroj.park
+54 armádní zprav.síť
+55 armádní ženijní park
+56 arn
+57 Arnošt
+58 ano
+59 ars
+60 arsen
+61 arsenový
+62 arsenál
+63 arství
+64 art
+65 arn
+66 arý
+67 ař
+68 aře
+69 ařství
+70 as
+71 asa
+72 asanace
+73 asi
+74 Asie 
+75 asimilace 
+75 asimilační
+76 asistence 
+77 asistenční
+78 asistenční četa 
+79 asistenční oddíl
+80 asistenční rota
+81 asistent
+82 aso
+83 aspirace
+84 aspirant
+85 aspoň
+86 ass
+87 asservát
+88 asservovati
+89 ast
+90 astronomický 
+91 asu
+92 asy
+93 aš
+94 Aš
+95 áš
+96 at
+97 át
+98 ať
+99 ať se

@@ -1,0 +1,103 @@
+189
+
+00 vyobrazení 
+01 vyobrazený 
+02 vyobraziti 
+03 vypáčený 
+04 vypáčiti 
+05 výpad 
+06 vypadati 
+07 vypadnouti 
+08 vypáliti 
+09 výpar 
+10 vypátrati 
+11 vypátraný 
+12 vypěstovati 
+13 vypínati se 
+14 výpis
+15 vyplacený 
+16 vyplašený 
+17 vyplašiti 
+18 výplata 
+19 vyplatiti 
+20 vyplaviti
+21 vyplhěný 
+22 vypleniti 
+23 vyplněný 
+24 vyplniti 
+25 vyplynouti 
+26 vypnouti 
+27 výpočet 
+28 vypočítati 
+29 vypočítavý 
+30 vypomáhati 
+31 vypomoci 
+32 výpomoc 
+33 výpomocný 
+34 vypořáati se 
+35 výpověď 
+36 vypověděti 
+37 vypovídati 
+38 vypovězený 
+39 výpr 
+40 vyprqcování 
+41 vypracovaný 
+42 vypracovati 
+43 výprava 
+44 vypravený 
+45 vyprávění 
+46 vyprávěný 
+47 vyprávěti 
+48 vypraviti 
+49 výpravna 
+50 výpravný 
+51 vypravovati 
+52 vypravovati se 
+53 vyprázdnění 
+54 vyprázdněný 
+55 vyprázdniti 
+56 vyprodaný 
+57 vyprodati 
+58 výprodej 
+59 vyprošovati 
+60 vyproštěný 
+61 vyprositi 
+62 vyprovoditi 
+63 vyprovokovati 
+64 vypršeti 
+65 vypsaný 
+66 vypsati 
+67 vyptávati se 
+68 vypuditi 
+69 vypůjčiti si 
+70 vypulmouti 
+71 vypustiti 
+72 vypuštěný 
+73 vypuzený 
+74 vyřaditi 
+75 výraz 
+76 vyraziti 
+77 vyraziti útoku 
+78 výrazný 
+78 výrazně 
+79 vyražrní 
+80 vyříditi 
+81 vyřízení 
+82 vyřízený 
+83 vyřknouti 
+84 výroba 
+85 výrobce 
+86 výrobek 
+87 vyrobiti 
+88 výrobní 
+89 výročí 
+90 výroční 
+91 výrok 
+92 výron 
+93 vyrovnání 
+94 vyrovnaný 
+95 vyrovnati 
+96 vyrovnati se 
+97 vyrozumění 
+98 vyrozuměti 
+99 vyrůsti 

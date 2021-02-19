@@ -1,0 +1,65 @@
+020
+
+00 cta 
+01 cte 
+02 ctěný 
+03 cti 
+04 ctitel 
+05 ctíti 
+06 ctižádost
+06 ctižádostivý
+06 ctižádostivě 
+07 ctví 
+08 cu 
+09 cuk 
+10 Cukmantl 
+11 cukr 
+12 cukrovar 
+13 cukrovka 
+14 cul 
+15 cum 
+16 cun 
+17 cup 
+18 cur 
+19 Curych 
+20 Cuxhafen 
+21 cv
+22 cva 
+23 cval 
+24 cve 
+25 cvi 
+26 cvičebný 
+27 cvičení
+28 cvičení ve zbrani 
+29 cvičený 
+30 cvičiště 
+31 cvičitel 
+32 cvičiti 
+33 cvičný 
+34 cvik 
+35 Cvikov 
+36 cvo 
+37 cy
+38 cyk 
+39 cyklista 
+40 cyklistická 
+41 cyklistická četa 
+42 cyklistická eskadrona 
+43 cyklistická korouhev 
+44 cyklistická rota 
+45 cyklistické 
+46 cyklistický 
+47 cyklistický prapor 
+48 cym 
+49 cyn 
+50 cyv 
+51 Cyril 
+52 cz 
+53 cza 
+54 cze 
+55 Czegléd 
+56 Czenstochówa 
+57 czi 
+58 ezo 
+59 czu 
+60 czy 

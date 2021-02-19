@@ -1,0 +1,109 @@
+041
+
+00 Finsko 
+01 fir 
+02 firma 
+03 fis 
+04 Fiuume 
+05 fix 
+06 fixní 
+07 fk 
+08 fl
+09 fla 
+10 Flámsko 
+11 flanel 
+12 flank 
+13 fle 
+14 flegmatický 
+14 flegmaticky
+15 flek 
+16 flo 
+17 flor 
+18 Florencie 
+19 flotila 
+20 fo 
+21 fond 
+22 fonogram 
+23 for 
+24 forma 
+25 formalita 
+26 formální
+26 formálně 
+27 formát 
+28 formovaný 
+29 formovati 
+30 formovati se 
+31 formulář 
+32 formule 
+33 fort 
+34 fortifikace
+34 fortifikační 
+35 forum 
+36 fos 
+37 fosfor 
+38 fosgén 
+39 fot 
+40 fotograf 
+41 fotografický 
+41 fotograficky
+42 fotograficky aparát 
+43 fotografie 
+44 fotografovaný 
+45 fotografovati 
+46 fotogrametrický 
+47 fotogrametrie 
+48 fou 
+49 fr 
+50 fra 
+51 frakce 
+52 frakční 
+53 Francie 
+54 Francouz 
+55 francouzská 
+56 francouzská armáda
+57 francouzská mise
+58 francouzské 
+59 francouzský 
+60 francouzský důstojník 
+61 vfrancouzský voj. attaché 
+62 frank francouzský 
+63 frank švýcarský 
+64 Frankfurt n/M. 
+65 Frankfurt n/O.
+66 franko 
+67 frankovati 
+68 František 
+69 františkán 
+70 Františkovy Lázně 
+71 fráze 
+72 frázovitý 
+72 frázovitě
+73 fre 
+74 frekvence  
+74 frekvenční 
+75 frekventace 
+75 frekventační 
+76 frekventant 
+77 frekventovaný 
+78 frei 
+79 fres 
+80 freska 
+81 fri
+82 frie 
+83 Friedeberg 
+84 fro 
+85 fronta 
+86 frontální 
+87 frontální útok 
+88 fru 
+89 Frýdek 
+90 Frývaldov 
+91 fs
+92 ft
+93 fu 
+94 Fulnek 
+95 fungovati 
+96 funkce 
+97 funkcionář 
+98 funkcionář voj . prokurátora 
+99 funkční 

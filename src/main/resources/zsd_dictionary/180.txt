@@ -1,0 +1,108 @@
+180
+
+00 věděti
+01 vedle 
+02 vedle sebe 
+03 vedlejší 
+04 vedlejší cíl 
+05 vedlejší úkol
+06 vědomě
+07 vědomí 
+08 vědomost 
+09 vědomý
+10 vedoucí
+11 vedrati se 
+12 vedro 
+13 veh 
+14 věhlas 
+15 věhlasný
+15 věhlasně  
+16 vegetace 
+17 vegetovati 
+18 vehemence 
+19 vehementní 
+19 vehementně
+20 vehnati 
+21 věch 
+22 vej 
+23 vejčitý granát 
+24 vějíř 
+25 vějířovitě
+25 vějířovitý
+26 vejíti 
+27 vejíti ve styk 
+28 vejíti ve vyjednávání 
+29 věk 
+30 vel 
+31 vele 
+32 veledůležitý 
+33 velení 
+34 veleti 
+35 velezrada 
+36 velezrádce 
+37 velezrádný
+37 velezrádně  
+38 veli
+39 velice 
+40 veličina 
+41 velikost 
+42 velokonoce 
+43 velikonoční 
+44 velitel 
+45 velitel armádního sboru 
+46 velitel armády 
+47 velitel baterie 
+48 velitel brigády 
+49 velitel čety 
+50 velitel dělostř.brig. 
+51 velitel divise 
+52 velitel eskadrony 
+53 velitel hlídky 
+54 velitel jezd.brig. 
+55 velitel korouhve 
+56 velitel oddílu 
+57 velitel peruti 
+58 velitel pluku 
+59 velitel praporu 
+60 velitel sboru 
+61 velitel zálohy 
+62 velitel žen.vosska 
+63 velitelský
+64 velitelství
+65 velitelství armády 
+66 velitelství brigády 
+67 velitelství divise 
+68 velitelství pluku 
+69 velitelství praporu 
+70 velitelství sboru 
+71 velko
+72 velkostatek 
+73 velký
+74 velký kulomet
+75 velmi 
+76 velmi dobře 
+77 velmoc 
+78 vem 
+79 ven 
+80 venek 
+81 venkov 
+82 venkovan 
+83 venkovský 
+84 venku 
+85 věnovaný 
+86 věnovati se 
+87 ventil 
+88 vepsaný 
+89 vepsati 
+90 ver 
+91 veřejnost 
+92 veřejný
+92 veřejně 
+93 věří 
+94 věřící 
+95 věřitel 
+96 věrně 
+97 věrnost 
+98 věrný 
+99 věrohodný 
+99 věrohodně

@@ -1,0 +1,109 @@
+153
+
+00 srdnatý
+00 srdnatě
+01 sřítiti se 
+02 srk 
+03 srn 
+04 srotiti se 
+05 srovnalost 
+06 srovnání 
+07 srovnaný 
+08 srovnati 
+09 srovnávati 
+10 srovnávací 
+11 srozuměn 
+12 srozumění 
+13 srozuměti se 
+14 srozumitelnost 
+15 srozumitelný  
+15 srozumitelně
+16 srp 
+17 srpen 
+18 srpnový 
+19 srst 
+20 srn 
+21 srůsti 
+22 ss 
+23 s sebou 
+24 sta 
+25 stabilita 
+26 stabilní  
+26 stabilně
+27 stabilisace 
+28 stabilisační 
+29 stabilisovaný 
+30 stabilisovati 
+31 stačí 
+32 stačiti 
+33 stad 
+34 stadium 
+35 stagnace 
+36 stáhnouti 
+37 stahovati 
+38 stále 
+39 stálost 
+40 stálý 
+41 stálý voj.holubník 
+42 stan 
+43 stání 
+44 stanice 
+45 staniční 
+46 Stanislav 
+47 stanné právo 
+48 stáhnouti 
+49 stahovati 
+50 stanovený 
+51 stanovený cíl 
+52 stanovený čas 
+53 stanovený termín 
+54 stanovisko 
+55 stanoviště
+56 stanoviti 
+57 stanovy 
+58 stany 
+59 stár 
+60 starati se 
+61 staře 
+62 stařec 
+63 stáří 
+64 stárnouti 
+65 staro 
+66 starost 
+67 starosta
+68 starostlivý
+68 starostlivě 
+69 starší 
+70 start 
+71 startovati 
+72 starý 
+73 stát 
+74 stať
+75 statečnost 
+76 statečný 
+76 statečně 
+77 statek 
+78 státi 
+79 státi se 
+80 statický
+80 staticky
+81 statistický 
+82 statistika 
+83 statkář 
+84 státní 
+85 státní hranice 
+86 státní návladní 
+87 státní silnice 
+88 státní telefon 
+89 státní telegraf 
+90 státní zástupce 
+91 státník 
+92 statnost 
+93 statný  
+93 statně
+94 státotvorný 
+95 status 
+96 status quo 
+97 stav 
+98 stávající 
+99 stávati se 

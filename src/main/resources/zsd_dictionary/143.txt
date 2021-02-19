@@ -1,0 +1,110 @@
+143
+
+00 sdělovati 
+01 sdělte 
+02 sdělte jak 
+03 sdělte kdy 
+04 sdělte zda 
+05 sděludi 
+06 sdílny 
+07 sdružení 
+08 sdružený 
+09 sdružiti se 
+10 se 
+11 se  
+12 se  
+13 sebe 
+14 sebedůvěra 
+15 sebevědomí 
+16 sebevědomý 
+16 sebevědomě 
+17 sebevrah 
+18 sebevražda 
+19 sebezapření 
+20 sebou 
+21 sebraný 
+22 sebrati 
+23 sec 
+24 seč 
+25 sečísti 
+26 sečítati 
+27 sečkati 
+28 sečný 
+29 sed 
+30 sedací 
+31 sedati 
+32 seděti 
+33 sedí 
+34 sedící 
+35 sedlák 
+36 sedlo 
+37 sedm 
+38 sedmi 
+39 sedmkrát 
+40 sedmý 
+41 sednouti 
+42 sednouti si
+43 seg
+44 seh 
+45 sehnati 
+46 sehráti 
+47 sei 
+48 sejíti se 
+49 sejmouti 
+50 sek 
+51 sekce 
+52 sekční 
+53 seke 
+54 seki 
+55 sekret 
+56 sekretariát 
+57 sekretář 
+58 sekt 
+59 sekta 
+60 sekundrní 
+61 sekvestrace
+61 sekvestrační
+61 sekvestrovaný
+62 sekvestrovati 
+63 sel 
+64 selhati 
+65 selka 
+66 Selliér & Bellot 
+67 selský 
+68 selský vůz 
+69 sem 
+70 semafor 
+71 semeno 
+72 semi 
+73 seminář 
+74 semknouti 
+75 semknutý
+75 semknutě
+76 sen 
+77 senát  
+77 senátní
+78 senátor 
+79 sení 
+80 seno 
+81 sensace 
+82 sensační 
+82 sensačně
+83 sent 
+84 sentinel 
+85 sep 
+86 separace 
+87 separátní
+87 separátně 
+88 separovaný 
+88 separovaně 
+89 separovati 
+90 sepisovati 
+91 sepnouti 
+92 sepsati 
+93 sepsaný 
+94 ser 
+95 seř 
+96 seřaditi 
+97 seřaďovací 
+98 seřaďovací nádraží 
+99 seřaděný 

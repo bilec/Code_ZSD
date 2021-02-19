@@ -1,0 +1,108 @@
+046
+
+00 hnědo 
+01 hnědý 
+02 hněv 
+03 hněvati se 
+04 hněvivý
+04 hněvivě 
+05 hni 
+06 hnis 
+07 hnízdo 
+08 hnízdo kulometné 
+09 hnízdo odporu 
+10 hno 
+11 hnoji 
+12 hnouti 
+13 hnouti se 
+14 hnu 
+15 hnus 
+16 hnusiti se 
+17 hnusný
+17 hnusně 
+18 hnutí 
+19 ho 
+20 hob 
+21 hod 
+22 hodin 
+23 hodina 
+24 hodina H
+25 hodina nástupu 
+26 hodina odchodu 
+27 hodina odjezdu 
+28 hodina příchodu 
+29 hodina příjezdu
+30 hodina útoku 
+31 hodinový 
+32 hodiny 
+33 hoditi 
+34 hodlati 
+35 hodně 
+36 hodnost 
+37 hodnostář 
+38 hodnostní
+39 hodnostní škola 
+40 hodnostní třída 
+41 hodnota 
+42 hodnověrná zpráva 
+43 hodnověrný 
+43 hodnověrně
+43 hodnověrnost 
+44 hodnověrný pramen 
+45 hodný 
+46 hodovati 
+47 hof 
+48 hoch 
+49 hoj 
+50 hojiti 
+51 hojný 
+51 hojně
+52 hol 
+53 Holandsko 
+54 hold 
+55 holdovati 
+56 holi 
+57 holič 
+58 Holič 
+59 holka
+60 Hollóstetö 
+61 holo 
+62 holohlavý 
+63 holota 
+64 holub 
+65 holub poštovní 
+66 holubář 
+67 holubník 
+68 holubník čís. 
+69 hom 
+70 Homel 
+71 homogenní 
+72 homole 
+73 hon 
+74 honba 
+75 honem 
+76 honiti 
+77 honorace 
+78 honorář 
+79 honorovaný 
+80 honorovati 
+81 honositi se 
+82 honvéd 
+83 honvédský 
+84 hop 
+85 hor 
+86 hora 
+87 horák 
+88 horal 
+89 hořce 
+90 hoře 
+91 horečka 
+92 horečný 
+92 horečně 
+93 hořejší 
+94 horem 
+95 hořeti 
+96 hořící 
+97 horko 
+98 horkokrevný 
+99 horký 

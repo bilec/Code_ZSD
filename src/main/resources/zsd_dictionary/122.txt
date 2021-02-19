@@ -1,0 +1,105 @@
+122
+
+00 přeložiti
+01 přelstíti 
+02 přelud 
+03 přemáhati
+04 přeměna 
+05 přeměněný
+06 přeměniti
+07 premie 
+08 přemístiti 
+09 přemisťovati
+10 přemístění 
+11 přemístěný 
+12 přemítati 
+13 přemlouvati 
+14 přemoci 
+15 přemrštěný  
+15 přemrštěně 
+16 přemýšleti 
+17 přenáhlený 
+17 přenáhleně 
+18 přenáhliti se 
+19 přenášetí 
+20 přenášeti 
+21 přenechati 
+22 přenésti 
+23 přenésti palbu 
+24 přenesený 
+25 pření 
+26 přenocovati 
+27 přenos 
+28 přenosný 
+29 přepad 
+30 přepad palbou 
+31 přepadený 
+32 přepadnouti 
+33 přepiatý  
+33 přepiatě
+34 přeplatek 
+35 přeplniti 
+36 přeplněný 
+37 přeplouti 
+38 přepočítati 
+39 přepracovati 
+40 přepracování 
+41 přepracován 
+42 přeprava 
+43 přeprava auty
+44 přeprava drahou 
+45 přepraviti se 
+46 přepsati
+47 přeptati se 
+48 přepych 
+49 přeraziti 
+50 Přerov 
+51 přerůsti 
+52 přerušení
+53 přerušení boje
+54 přerušení dopravy 
+55 přerušení nepřátelství 
+56 přerušený  
+57 přerušovaný 
+58 přerušiti 
+59 pres 
+60 přes 
+61 přesaditi 
+62 přesahovati 
+63 přesazený 
+64 přese 
+65 přesedlati 
+66 přesednouti 
+67 presentace 
+68 presentovati 
+69 president 
+70 president republiky 
+71 presidiální 
+72 presidium 
+73 přesídlení 
+74 přesídliti 
+75 přesila 
+76 přeskočiti 
+77 přeskupení 
+78 přeskupiti 
+79 přeslechnouti 
+80 přesně 
+81 přesnost 
+82 přesný 
+83 Prešov 
+84 přespočetný 
+85 přespříliš 
+86 přesrok 
+87 přestati 
+88 přestáti 
+89 přestávati 
+90 přestaviti 
+91 přestávka 
+92 přestěhovati 
+93 přestoupiti 
+94 přestřelovati 
+95 přestřelka 
+96 přestrojení 
+97 přestup 
+98 přestupek 
+99 přestupkový 

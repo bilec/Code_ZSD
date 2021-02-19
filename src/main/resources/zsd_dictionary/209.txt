@@ -1,0 +1,105 @@
+209
+
+00 ztroskotati 
+01 ztrpčiti 
+02 ztu
+03 ztuha 
+04 ztuhlý 
+05 ztuhnouti 
+06 ztužení 
+07 ztužiti 
+08 zu 
+09 zub 
+10 zubní 
+11 zubní ambulatorium 
+12 zubožený 
+13 zúčastněný 
+14 zúčastniti se 
+15 zúmyslně 
+16 zúmyslný 
+17 zúplna 
+18 zuřiti 
+19 zuřivec 
+20 zuřivost 
+21 zuřivý 
+21 zuřivě
+22 zúročený 
+23 zúročiti 
+24 zůstatek 
+25 zůstati 
+26 zůstávati 
+27 zůstaviti 
+28 zúžení 
+29 zúžený 
+30 zúžiti 
+31 zužitkovaný 
+32 zužitkovati 
+33 zv 
+34 zvaný 
+35 zváti 
+36 zvaž 
+37 zve 
+38 zvěčnělý 
+39 zvěčniti 
+40 zvěd 
+41 zvedání 
+42 zvedati 
+43 zvědavost 
+44 zvědavý 
+44 zvědavě 
+45 zvěděti 
+46 zvědy 
+47 zvelebiti 
+48 zveličiti 
+49 zvenku 
+50 zvěř 
+51 zvěrolékař 
+52 zvěrolékařský 
+53 zvěst 
+54 zvětšení 
+55 zvětšený 
+56 zvětšiti 
+57 zvětšovati 
+58 zvídati 
+59 zviklati 
+60 zvíře 
+61 zvítěziti 
+62 zvlášť 
+63 zvláště 
+64 zvláštní 
+65 zvláštní opatření 
+66 zvláštní pozornost 
+67 zvláštní případ 
+68 zvláštní rozkaz 
+69 zvláštní vydání 
+70 zvláštnost 
+71 zvláštnosti 
+72 zvo 
+73 zvolání 
+74 zvolati 
+75 Zvoleň 
+76 zvolený 
+77 zvoliti 
+78 zvolna 
+79 zvon 
+80 zvoniti 
+81 zvrácený 
+82 zvrátiti 
+83 zvratný 
+84 zvrhlý 
+85 zvu 
+86 zvučný 
+86 zvučně
+87 zvuk 
+88 zvukoměrný 
+89 zvukoměrná četa 
+90 zvukoměrná rota 
+91 zvy 
+92 zvyk 
+93 zvykati 
+94 zvyklý 
+95 zvyknouti 
+96 zvýšení 
+97 zvýšený 
+98 zvýšená činnost 
+99 zvýšená pozornost

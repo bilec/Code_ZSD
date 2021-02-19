@@ -1,0 +1,109 @@
+185 
+
+00 vský 
+01 vstáti 
+02 vstoupiti 
+03 vstup 
+04 vstupenka 
+05 vstupní 
+06 vstupní visum 
+07 vstupovati 
+08 vsunouti 
+09 vsunutý 
+10 vsy 
+11 vš
+12 vša 
+13 všade 
+14 však 
+15 vše 
+16 vše mimo 
+17 vše v to 
+18 všední 
+19 všeho 
+20 všech 
+21 všech drthů 
+22 všechen 
+23 všechny 
+24 všelicos 
+25 všelijak 
+25 všelijaký
+26 všem 
+27 všemi 
+28 všenocný
+28 všenocně  
+29 všemožný
+29 všemožně
+30 všemu 
+31 všeobecně 
+32 všeobecný 
+33 všeobecná činnost 
+34 všeobecný rozkaz 
+35 všeobecný směr 
+36 všeobecný útok 
+37 všestranný
+37 všestranně
+38 všetečný 
+38 všetečně 
+39 vši 
+40 vší 
+41 všichni 
+42 vším 
+43 všímati si 
+44 všimnouti si 
+45 vštěpovati 
+46 vštípiti 
+47 všude 
+48 vt
+49 vtáhnouti 
+50 vtažený 
+51 vtělený
+52 vtěliti 
+53 vteřin 
+54 vteřina 
+55 vtěsnaný
+56 vtěsnati 
+57 vtip  
+58 vtipný 
+59 vtírati se
+60 vtíravý 
+60 vtíravě 
+61 vtisknouti 
+62 vtlačiti 
+63 vto 
+64 vtrhnouti 
+65 vu
+66 vůbec
+67 vůči 
+68 vůčihledě 
+69 vůdce 
+70 vůdčí 
+71 vůkol 
+72 vůkolní 
+73 vůle 
+74 vůli 
+75 vůz 
+76 vy 
+77 Vy
+78 vybavený 
+79 vybaviti
+80 vyběhnouti
+81 výběr 
+82 výběrem 
+83 výbiežek  
+84 vybídka
+85 vybídnouti 
+86 vybídnutý 
+87 vybíjeti se 
+88 vybírati 
+89 vybíravý  
+89 vybíravě
+90 vybízeti 
+91 vybočiti 
+93 výbojný 
+93 výbojně 
+94 vybojovati 
+95 výbor 
+96 výborně 
+97 výborný 
+98 vybrakovati 
+99 vybraný 

@@ -1,0 +1,108 @@
+165
+
+00 ti
+01 tí
+02 tic 
+03 tih 
+04 tíha 
+05 tíhnouti 
+06 tich 
+07 tichnouti 
+08 ticho 
+09 tichý 
+10 tím 
+11 tím méně 
+12 tím okamžikem 
+13 tím více 
+14 tím způsobem 
+15 tímto 
+16 tin 
+17 tio 
+18 tion 
+19 tip 
+20 tir 
+21 tis 
+22 Tisa
+23 tísen 
+24 tisíc Kč 
+25 tisíc mužů 
+26 tisk 
+27 tiskárna 
+28 tisknouti 
+29 tisknutý 
+30 tiskopis 
+31 tiskový 
+32 tiskový referent 
+33 tisková skupina  
+34 tísniti 
+35 tísnivý
+35 tísnivě
+36 tiše 
+37 tišiti se 
+38 tišší 
+39 tištěný 
+40 titěrný 
+40 titěrně
+41 títi 
+42 titíž 
+43 tito 
+44 titul 
+45 titulární 
+46 titulovati 
+47 tiv
+48 tiž 
+49 tíž 
+50 tíže 
+52 tk 
+52 tka 
+53 tknouti se 
+54 tkvíti 
+55 tl
+56 tla 
+57 tlačiti 
+58 tlačiti se 
+59 tlach 
+60 tlak 
+61 tlakoměr 
+62 tlakostroj 
+63 tle 
+64 tlí 
+65 tlouci 
+66 tlouštka 
+67 tlu 
+68 tlučení 
+69 tlukot 
+70 tlumený 
+70 tlumeně 
+71 tlumič
+72 tlumiti 
+73 tlunočiti 
+74 tlumočník 
+75 tlumok 
+76 tlupa 
+77 tlustý
+77 tlustě 
+78 tma 
+79 tmavý 
+79 tmavě 
+80 tme 
+81 tmí 
+82 tná 
+83 tně 
+84 tne 
+85 tni 
+86 tní 
+87 tný 
+88 to 
+89 to jest 
+90 toaleta 
+91 tobolka 
+92 točený 
+92 točení 
+93 točiti 
+94 točivý 
+95 točna 
+96 toho 
+97 tohoto 
+98 toho dne 
+99 toho měsíce 

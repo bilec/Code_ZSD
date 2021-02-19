@@ -1,0 +1,110 @@
+076
+
+00 minové 
+01 minové pole 
+02 minový 
+03 minule 
+04 minuého měsíce 
+05 minuého roku 
+06 minuého týdne 
+07 minulost 
+08 minulý 
+09 minut 
+10 minutový 
+11 mir 
+12 mír 
+13 míra 
+14 mířiti 
+15 mírniti 
+16 mírnost 
+17 mírný  
+17 mírně
+18 mírová 
+19 mírová smlouva 
+20 mírové 
+21 mírové rozčlenění 
+22 mírový 
+23 mírový početní stav
+24 mírový stav 
+25 míru 
+26 mírumilovný 
+26 mírumilovně 
+26 mírumilovnost  
+27 mis 
+28 mise 
+29 míšený 
+30 mísiti 
+31 místě 
+32 místně 
+33 místní 
+34 místní odpor 
+35 místní OPL 
+36 místní úspěch 
+37 místnost 
+38 místný 
+39 místo 
+40 místo pobytu 
+41 místo pro přistání 
+42 místopis 
+43 místopředseda 
+44 místopředsednictví 
+45 mistr 
+46 mistrovský 
+47 mistrovství
+48 místy 
+49 mit 
+50 míti
+41 míti na zřeteli 
+52 míti uspěch 
+53 miz 
+54 níza 
+55 mizerný  
+55 mizerně 
+56 mizeti 
+57 mizina 
+58 mizivý 
+58 mizivě 
+59 mizivý počet 
+60 mk
+61 ml
+62 mla 
+63 Mladá Boleslav 
+64 mládež 
+65 mládí 
+66 mladík 
+67 mladý 
+68 mlčenlivý  
+68 mlčenlivě
+69 mlčeti 
+70 mlčky 
+71 mle 
+72 mlha
+73 mlhavý
+73 mlhavě
+73 mlhavo
+74 mlí 
+75 mlo 
+76 mlu 
+77 mluv 
+78 mluvení 
+79 mluvící 
+80 mluviti 
+81 mly
+82 mlýn 
+83 mlýn parní 
+84 mlýn větrný 
+85 mlýn vodní
+86 mm 
+87 mn
+88 mna
+89 mne 
+90 mně 
+91 mnich 
+92 Mnichov 
+93 mnohdy
+94 mnohem 
+95 mnohem dříve
+96 mnohem lépe 
+97 mnohem později 
+98 mnohem rychleji  
+99 mnohem více

@@ -1,0 +1,107 @@
+097
+
+00 oděný 
+01 odepříti 
+02 odepříti pomoc 
+03 odepříti poslušnost 
+04 odepsati 
+05 odesílatel 
+06 odesílati 
+07 odeslání 
+08 odeslaný 
+09 odešlete 
+10 odešlete heprodleně 
+11 oděv 
+12 oděvní 
+13 oděvní sklad 
+14 odevšad 
+15 odevzdávací 
+16 odevzdenost 
+17 odevzdavatel 
+18 odevzdávati 
+19 odevzdaný 
+20 odhad 
+21 odhadce 
+22 odhadnouti 
+25 odhadnutý 
+24 odhadovaný 
+25 odhadovati 
+26 odházeti 
+27 odhazovati 
+28 odhlasovahý 
+29 odhlasovati 
+30 odhoditi 
+31 odhodlaný 
+32 odhodlati se 
+35 odhrnouti 
+34 odcházeti 
+35 odchod 
+36 odchovanec 
+37 odchýlíti se 
+38 odchylka 
+39 odchylný  
+39 odchylně
+40 odi 
+41 odiv 
+42 odjakživa 
+43 odjeti 
+44 odjezd 
+45 odjinud 
+46 odjížděti 
+47 odkaz 
+48 odkázati 
+49 odklad 
+50 odkládati 
+51 odkladný 
+52 odkliditi 
+55 odklízeti 
+54 odkoupiti 
+55 odkrýti 
+56 odkrytý 
+57 odkud 
+58 odkudkoliv 
+59 odkup 
+60 odkvapiti 
+61 odlehčiti 
+62 odlehlý 
+62 odlehle
+63 odlepiti 
+64 odlet 
+65 odletěti 
+66 odlišnost 
+67 odlišný  
+67 odlišně 
+68 odliv 
+69 odloučeně 
+70 odloučenost 
+71 odloučený 
+72 odloučený oddíl 
+73 odloučený prapor 
+74 odloučiti se 
+75 odložený 
+76 odložiti 
+77 odluka 
+78 odměna 
+79 odměněný 
+80 odměniti 
+81 odměr 
+82 odměřiti 
+83 odměřovati 
+84 odměřený  
+84 odměřeně 
+85 odmítati 
+86 odmítnouti 
+87 odmítavý 
+87 odmítavě
+88 odmítavá odpověď
+89 odmlčeti se 
+90 odmlouvati 
+91 odmluva 
+92 odn 
+93 odnárodniti 
+94 odnášeti 
+95 odnaučiti se 
+96 odněkud 
+97 odnésti 
+98 odnesený 
+99 odníti 

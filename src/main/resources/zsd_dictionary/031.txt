@@ -1,0 +1,102 @@
+031
+
+00 dopisnice 
+01 dopisovatel 
+02 dopisovati 
+03 doplatek 
+04 doplatiti 
+05 doplněk 
+06 doplněk k čj.
+07 doplnění 
+08 doplňkem k 
+09 doplňkem k čj. 
+10 doplnitelný
+11 doplniti 
+12 doplňovací 
+13 doplňovací důstojník 
+14 doplňovací nařízení 
+15 doplňovací odvody 
+16 doplňovací okres 
+17 doplňovací okresní velitelství 
+18 doplňovací služba 
+19 doplňování 
+20 doplňování koní 
+21 doplňování mužstva 
+22 doplňovánístřeliva 
+23 doplňovati 
+24 doplňte 
+25 doplňte Vaše hlášení 
+26 doplňte Vaši zprávu 
+27 dopodrobna 
+28 dopoledne 
+29 dopolední 
+30 dopomáhati 
+31 doporučeně 
+32 doporučení
+33 doporučený 
+34 doporučitelný 
+35 doporučiti 
+36 doporučovalo by se 
+37 doporučovati 
+38 doposud 
+39 dopouštěti 
+40 dopracovati 
+41 dopřáti 
+42 doprava 
+43 doprava materialu 
+44 doprava munice 
+45 doprava vojska 
+46 dopravčí
+47 dopravený 
+48 dopraviti 
+49 dopravné
+50 dopravní 
+51 dopravní oddělení 
+52 dopravní oddíl 
+53 dopravní plán 
+54 dopravní prostředek 
+55 dopravní služba 
+56 dopravní uřad 
+57 dopravní úředník 
+58 dopravní velitelství 
+59 dopravovati 
+60 dopředu 
+61 doprovázeti 
+62 doprovázející 
+63 doprovod 
+64 doprovod útoku 
+65 doprovoditi 
+66 doprovodné dělo 
+67 doprovodné dělôstřeletvo 
+68 doprovodný 
+69 dopsati 
+70 doptati se 
+71 dopustiti 
+72 dor 
+73 dorážeti 
+74 doraziti 
+75 dorf 
+76 doro 
+77 dorost 
+78 dorozumění 
+79 dorozuměti se 
+80 dort 
+81 doručení
+82 doručený 
+83 doručitel 
+84 doručiti 
+85 doručování 
+86 doručování zpráv 
+87 dos 
+88 dosa 
+89 dosaditi 
+90 dosah 
+91 dosáhnouti 
+92 dosavad 
+93 dosavádní 
+94 dosazený 
+95 dosažení 
+96 dosažení cíle 
+97 dosažený 
+98 dosažený cíl 
+99 dosažitelný 

@@ -1,0 +1,105 @@
+130
+
+00 průchodící 
+01 průchodni 
+02 průjezd 
+03 průkaz 
+04 průkazný  
+04 průkazně
+05 průkop 
+06 průlom 
+07 průměr 
+08 průměrně 
+09 průměrný 
+10 průmysl 
+11 průmyslník 
+12 průmyslový 
+13 průp 
+14 průpis 
+15 průplav 
+16 průprava 
+17 průpravný  
+17 průpravně
+18 průřez 
+19 průs 
+20 průsek 
+21 Pruské Slezko 
+22 průsmyk 
+23 průsvitka 
+24 průsvitný 
+25 prut 
+26 průtah 
+27 průtrž 
+28 průvod 
+29 průvodce 
+30 průvodní 
+31 průzračný 
+32 průzkum 
+33 průzkum bojem 
+34 průzkum terénu 
+35 průzkumný 
+36 průzkumná činnost 
+37 průzkumná hlídka 
+38 průzkumný oddíl 
+39 pružný 
+40 pružná obrana 
+41 prv
+42 prve 
+43 prve než 
+44 prvek 
+45 prvně 
+46 první 
+47 první mob.den 
+48 první linie 
+49 první posice 
+50 prvo 
+51 prvopis 
+52 prvotisk 
+53 prvotní  
+53 prvotně
+54 prvý 
+55 prý 
+56 prý býti 
+57 prý je
+58 prý jsou 
+59 prý se
+60 pryč 
+61 prys 
+62 pryž 
+63 pryžový 
+64 prz 
+65 ps 
+66 psa 
+67 psací 
+68 psanec 
+69 psaní 
+70 psaný 
+71 psáti 
+72 pse 
+73 pseudo 
+74 pseudonym 
+75 psy 
+76 psycholog 
+77 psychiatr 
+78 pš 
+79 pší 
+80 pt
+81 ptal 
+82 ptáti se
+83 pu
+84 publikace 
+85 publikum 
+86 puč 
+87 pučeti 
+88 pud 
+89 půda 
+90 půdorys 
+91 puch 
+92 půjčiti 
+93 půjčka 
+94 puk 
+95 puknuuti 
+96 puklý 
+97 pul 
+98 půl 
+99 půlarch 

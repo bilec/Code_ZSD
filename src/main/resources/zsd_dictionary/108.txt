@@ -1,0 +1,111 @@
+108
+
+00 pěchotní 
+01 pěchotní učiliště 
+02 pek 
+03 pekař 
+04 pekárna 
+05 pekelný 
+06 pěkný
+07 pel 
+08 pela 
+09 pele 
+10 pem 
+11 pen 
+12 peň 
+13 penězokaz 
+14 peněženka 
+15 peněžiti 
+16 peněžní
+16 peněžně 
+17 pengö 
+18 peníze 
+19 pense 
+20 pensíjní 
+21 pensionát 
+22 pensionovati 
+23 pensionovaný 
+24 penny 
+25 pep 
+26 per 
+27 percentuální  
+27 percentuálně
+28 perfektní  
+28 perfektně 
+29 perioda 
+30 periodický
+30 periodicky
+31 permanence 
+32 permanentní 
+35 perný
+35 perně 
+34 pero 
+35 pers 
+36 persekuce 
+37 personál 
+38 personální 
+39 perspektívní
+39 perspektívně
+40 peruť
+41 I. peruť 
+42 II. peruť 
+43 III. peruť
+44 pes 
+45 peš 
+46 pěs 
+47 pěš 
+48 pěšák 
+49 pěší 
+50 pěší brigáda 
+51 pěší divise 
+52 pěší pluk 
+53 pěší vojsko 
+54 pesimista 
+55 pesimistický
+55 pesimisticky 
+56 pesimismus 
+57 pěšina 
+58 pěst 
+59 pěstovati 
+60 pestrý 
+61 pět 
+62 pětidenní 
+63 pětina 
+64 pěti 
+65 pětitunový 
+66 pětitunové auto 
+67 pětina 
+68 Petr 
+69 Petřín 
+70 petřínská rad.stanice 
+71 petrolej 
+72 Petrovice 
+73 pevně 
+74 pevný 
+75 pevnina 
+76 pevniti
+77 pevnost 
+78 pevnostní 
+79 pevnůstka 
+80 pf
+81 pfund 
+82 ph 
+83 pi
+84 pia 
+85 pic 
+86 pick
+87 pid 
+88 píditi 
+89 pieta 
+90 pil 
+91 pila 
+92 píle 
+93 pilný 
+93 pilně 
+93 pilnost 
+94 pilot 
+95 pir 
+96 piř 
+97 pis 
+98 piš 
+99 písárna 

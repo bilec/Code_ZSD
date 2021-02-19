@@ -1,0 +1,104 @@
+142
+
+00 Salgotardán 
+01 salmiak 
+02 salonní 
+03 salonní vůz
+04 salut 
+05 sam
+06 sám 
+07 sama 
+08 samé 
+09 sami 
+10 samo 
+11 samočinný  
+11 samočinně
+12 samočinná zbran 
+13 samospráva 
+14 samostatný 
+14 samostatně 
+15 samostatně 
+16 samostatnost 
+17 samostatný 
+18 samostatná brigáda 
+19 samostatný oddíl 
+20 samostatný prapor 
+21 samota 
+22 samotný 
+23 samou 
+24 sanouk 
+25 senovláda 
+26 samozvan
+27 samý
+28 san
+29 sanatorium 
+30 sene 
+31 saně 
+32 sani 
+33 sanita 
+34 sanitní 
+35 sanitní material 
+36 sanitní vlak 
+37 sankce 
+38 sankcionovati 
+39 sanovati 
+40 sap 
+41 sápati se 
+42 sar 
+43 sas 
+44 Sasko 
+45 saský 
+46 sat 
+47 satisfakce 
+48 Sátoraljaújhely
+49 san 
+50 sav 
+51 saz 
+52 sazba 
+53 sazeč 
+54 sázeti 
+55 sázka 
+56 sb
+57 sbaliti 
+58 sběh 
+59 sběhnouti 
+60 sběrač 
+61 sběrna 
+62 sběrna nemocných 
+63 sběrna raněných 
+64 sběrna zpráv 
+65 sběratel 
+66 sbí 
+67 sbíhati se 
+68 sbírati 
+69 sbírka 
+70 sblížiti se 
+71 sbor 
+72 sborník 
+73 sborová 
+74 sborová eskadrona 
+75 sborová nemocnice 
+76 sborová telegrafní rota 
+77 sborová záloha 
+78 sborová zbrojnice 
+79 sborové 
+80 sborové dělostřelectvo 
+81 sborové jezdectvo 
+82 sborové velitelství 
+83 sborové zbroj.dílny 
+84 sborový 
+85 sborový proviantní sklad 
+86 sborový rozkaz 
+87 sborový štáb 
+88 sborový velitel 
+89 sborový zbroj.park  
+90 sborový zbroj.sklad
+91 sc 
+92 scelený 
+93 sceliti 
+94 scestí 
+95 sčítací 
+96 sčítati 
+97 sdělení 
+98 sdělený 
+99 sděliti 

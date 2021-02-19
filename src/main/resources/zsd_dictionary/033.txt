@@ -1,0 +1,105 @@
+033
+
+00 dovolené 
+01 dovolenec 
+02 dovolení 
+03 dovolenka 
+04 dovolený 
+05 dovoliti 
+06 dovolovati 
+07 dovoz 
+08 dovozné 
+09 dovozovati 
+10 dovršiti 
+11 dovtípiti se 
+12 doz 
+13 doza 
+14 dozadu 
+15 dozírati 
+16 doznati 
+17 dozor 
+18 dozorce 
+19 dozorčí 
+20 dozrálý 
+21 dozráti 
+22 dozrávající 
+23 dozvuk 
+24 dožadovati se 
+25 dožádati 
+26 dožíti se 
+27 doživotní
+27 doživotně 
+28 dr 
+29 dra 
+30 drag 
+31 dragoun 
+32 drah 
+33 dráha 
+34 dráha lanová 
+35 dráha pouliční 
+36 dráha silniční 
+37 dráha visutá 
+38 draho 
+39 drahocenný 
+40 drahota 
+41 drahotní 
+42 drahotní poměry 
+43 drahotní přídavek 
+44 drahý 
+45 dráhy 
+46 drak 
+47 drakonický 
+47 drakonicky 
+48 drama 
+49 dran 
+50 drancovati 
+51 dráp 
+52 drás 
+53 draselnatý 
+54 draslo 
+55 drát 
+56 drátěné leno 
+57 drátěné překážky 
+58 drátěný 
+59 drav 
+60 Dráva 
+61 dravý 
+61 dravě
+62 draž 
+63 dražba 
+64 Drážďany 
+65 dráždící 
+66 drážditi 
+67 dráždivý plyn 
+68 draze 
+69 dražební 
+70 dražiti 
+71 dražší 
+72 dre 
+73 dreadnought 
+74 Dresdner Nachrichten 
+75 dresina 
+76 dře 
+77 dřen 
+78 dření 
+79 dřep 
+80 dřev 
+81 dřevařský 
+82 dřevařský podnik 
+83 dřevařský průmysl 
+84 dřevěné podpory 
+85 dřevěný 
+86 dřevo 
+87 drhnouti 
+88 dri 
+89 Drina 
+90 dři 
+91 dřímati 
+92 dřín 
+93 dřina 
+94 dříti 
+95 dřmve 
+96 dřmve než 
+97 dřmve se 
+98 dřívější 
+99 dříví 

@@ -1,0 +1,110 @@
+019
+
+00 cíl 
+01 cíl dosažen  
+02 cíl nahodilý 
+03 cíl pomíjivý
+04 cíl útoku 
+05 cílem 
+06 cim 
+07 cin 
+08 cíp 
+09 cíp lesa 
+10 cir 
+11 církev 
+12 cirkulace 
+13 cirkulář 
+14 cirkulární 
+15 cirkulovati 
+16 cis 
+17 císař 
+18 císařský 
+19 cisterna 
+20 cit 
+21 citelný
+21 citelně 
+22 cítiti 
+23 citlivý
+23 citlivě
+23 citlivost 
+24 citovati 
+25 citu 
+26 civ 
+27 civil 
+28 civilisace 
+29 civilista 
+30 civilní 
+31 civilní dělníci 
+32 civilníobyvatelstvo 
+33 civilní oděv 
+34 civilní správa 
+35 civilní úřad 
+36 ciz 
+37 cizí 
+38 cizina 
+39 cizinec 
+40 cizo 
+41 cizozemský 
+42 ck 
+43 cká 
+44 cke 
+44 cké 
+45 cko 
+46 ckou 
+47 cku
+48 cky
+48 cký 
+49 ckým 
+50 ckých
+51 cl 
+52 cla 
+55 cle 
+54 clearing 
+55 cli 
+56 clo 
+57 clona 
+58 cm 
+59 Cmunt 
+60 cn 
+61 cna 
+62 cne 
+62 cné
+63 cně 
+64 cni 
+64 cní 
+65 cnost 
+66 co 
+67 co je 
+67 co jest 
+68 co jsem 
+69 co jsme 
+70 co jste 
+71 co nám 
+72 co možno 
+73 co nejblĺže 
+74 co nejdéle 
+75 co nejdříve 
+76 co nejvíce 
+77 co se 
+78 co se týče 
+79 code 
+80 codex 
+81 cokoliv
+82 col 
+83 com 
+84 communiqué 
+85 comp 
+86 con 
+87 contra 
+88 cop 
+89 corpus delicti 
+90 cosi 
+91 což 
+92 cože 
+93 cr 
+94 Creed 
+95 cro 
+96 cs 
+97 Csap 
+98 Csorna 
+99 ct

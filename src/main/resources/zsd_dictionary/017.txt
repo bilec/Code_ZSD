@@ -1,0 +1,15 @@
+017
+
+00 bytost
+01 bytový 
+02 byv 
+03 bývá 
+04 bývají 
+05 býval 
+06 bývali 
+07 bývalo 
+08 bývaly 
+09 bývalý 
+10 byvše 
+11 byvši 
+12 bz

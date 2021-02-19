@@ -1,0 +1,104 @@
+063
+
+00 konsulát 
+01 kosulární 
+02 konsum 
+03 konsumovati 
+04 kont 
+05 kontakt 
+06 kontinent 
+07 kontingent 
+08 konto 
+09 kontra 
+10 kontribuce 
+11 kontrola 
+12 kontrolní 
+13 kontrolní komise  
+14 kontrolní orgán
+15 kontrolní sbor voj . správy 
+16 kontrolovati 
+17 kontroverse 
+18 kontu 
+19 konvence 
+20 konvenční 
+21 konvenovati 
+22 konversace 
+23 konversační 
+24 konvikt 
+25 kooperativ 
+26 kooperovati 
+27 koordinace 
+28 koordinovati 
+29 kop 
+30 kopí 
+31 kopírovaný 
+32 kopírovati 
+33 kor 
+34 korektní 
+34 korektně
+35 korektura 
+36 koř 
+37 kořen 
+38 korespondence 
+39 korespondovati 
+40 koři 
+41 kořist 
+42 kormidlo 
+43 Korneuburg 
+44 koro 
+45 korouhev 
+46 I. korouhev 
+47 II. korouhev
+48 korpus 
+49 korpus delikti 
+50 korun čsl.
+51 koruna 
+52 korunní 
+53 korunní prínc 
+54 korunní rada
+55 korunovace 
+56 korunovati 
+57 korupce 
+58 korupční 
+59 korv 
+60 koryto 
+61 kos 
+62 koso 
+63 kosočtverec 
+64 kost 
+65 kostel 
+66 koš 
+67 Košice 
+68 kot 
+69 kota 
+70 kou 
+71 koupě 
+72 koupený 
+73 koupiti 
+74 kouř 
+75 kouřový 
+76 kous 
+77 kousek 
+78 kout 
+79 kouti 
+80 kouzlo 
+81 kov 
+82 kova 
+83 kování
+83 kováný
+84 kovárna 
+85 kovati 
+86 kovo 
+87 kovodělník 
+88 kovový 
+89 koz 
+90 kozák 
+91 kožený 
+92 koži 
+93 kožní 
+94 kr 
+95 kra 
+96 krad 
+97 krádež 
+98 kraj
+99 kraj lesa

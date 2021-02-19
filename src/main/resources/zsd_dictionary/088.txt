@@ -1,0 +1,137 @@
+088
+
+00 nenáviděný 
+01 nenáviděti 
+02 nenávist 
+03 není 
+04 není—li 
+05 není možno 
+06 není námitek 
+07 není pochyby 
+08 není spojení 
+09 není třeba 
+10 není známo 
+11 nenucený 
+11 nenuceně
+12 neob 
+13 neoblomný  
+13 neoblomně
+14 neobratný  
+14 neobratně
+15 neobvyklý  
+15 neobvykle 
+16 neobyčejný 
+16 neobyčejně
+17 neočekávaně 
+18 neočekávaný 
+19 neoď 
+20 neodbytný  
+20 neodbytně
+21 neodkladný 
+21 neodkladně 
+22 neodůvodněný 
+22 neodůvodněně 
+23 neodvisle 
+24 neodvislý 
+25 neodvolatelný 
+25 neodvolatelně 
+26 neochota 
+27 neochotný 
+27 neochotně
+28 neomezený  
+28 neomezeně 
+29 neopatrný 
+29 neopatrně 
+30 neopevněný 
+31 neoprávněně 
+32 neoprávněný 
+33 nep 
+34 nepamatovati se 
+35 nepamatovati si 
+36 nepatrný 
+36 nepatrně 
+37 neplatný 
+37 neplatně 
+38 nepoctivý
+38 nepoctivě
+39 nepodařený 
+40 nepodařiti se 
+41 nepohod 
+42 nepohodlný 
+43 nepochopitelný 
+43 nepochopitelně
+44 nepochopiti 
+45 nepochybně  
+45 nepochybný
+46 nepokoje 
+47 nepokojný 
+47 nepokojně
+48 nepokrytě
+48 nepokrytý
+49 nepolepšitelný 
+49 nepolepšitelně 
+50 nepoměr 
+51 nepoměrně
+51 nepoměrný 
+52 nepopíratelný 
+53 nepořádek 
+54 nepořádný
+54 nepořádně  
+55 nepoříditi 
+56 neporušený
+56 neporušeně  
+57 neposlušnost 
+58 neposlušný  
+58 neposlušně
+59 nepostradatelný 
+60 nepostrádati 
+61 nepotřebný 
+62 nepovinný 
+62 nepovinně 
+63 nepozorovaný 
+63 nepozorovaně 
+64 nepřátelská 
+65 nepřátelská posice 
+66 nepřátelská situace 
+67 nepřátelské 
+68 nepřátelské dělostřelec. 
+69 nepřátelské lev.křídlo 
+70 nepřátelské prav.křídlo
+71 nepřátelské pátrání 
+72 nepřátelské pěš.voj 
+73 nepřátelské postavení 
+74 nepřátelské smýšlení 
+75 nepřátelský 
+76 nepřátelský odpor 
+77 nepřátelský plyn.útok 
+78 nepřátelský protiútok 
+79 nepřátelský útok 
+80 nepřátelský útok zastaven 
+81 nepřátelství 
+82 nepřáti 
+83 nepřáti si 
+84 nepravda 
+85 nepravdivý
+85 nepravdivě
+86 neprávem 
+87 nepravidelný 
+87 nepravidelně
+86 nepravý 
+89 nepředložený 
+89 nepředloženě 
+90 nepředpojatý  
+90 nepředpojatě 
+91 nepředvídaný 
+91 nepředvídaně 
+92 nepředvídati 
+93 nepřehledný 
+93 nepřehledně 
+94 nepřející 
+95 nepřekonaný 
+96 nepřekonatelný 
+96 nepřekonatelně
+97 nepřesnost 
+98 nepřesný 
+98 nepřesně 
+99 nepřetržitý 
+99 nepřetržitě 

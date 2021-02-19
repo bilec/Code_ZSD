@@ -1,0 +1,102 @@
+186
+
+00 vybrati 
+01 vybudování 
+02 vyloudovaný 
+03 vybudovati 
+04 výbuch 
+05 vybuchlý 
+06 vybuchnouti 
+07 vyburcovati 
+08 výbušný 
+09 výbušná látka 
+10 výbušný motor 
+11 vyclený 
+12 vyclíti 
+13 vycpati 
+14 vycvičený 
+15 vycvičiti 
+16 výcvik 
+17 výcvikový 
+18 výcviková skupina 
+19 výcvikové středisko 
+20 výcvikový tábor 
+21 výčep 
+22 vyčerpati 
+23 vyčerpaný 
+24 vyčistěný 
+25 vyčistiti 
+26 vyčísti 
+27 výčitka 
+28 vyčkati 
+29 vyčkejte 
+30 vyčkaný 
+31 vyčekávací 
+32 vyčekávací postavení 
+33 vyčekávací stanoviště 
+34 vyčkávati 
+35 vyčnívati 
+36 vyčtený 
+37 výdaje 
+38 vydání 
+39 vydaný 
+40 vydané rozkazy
+41 vydařený 
+42 vydařiti se 
+43 vydati 
+44 vydatně 
+45 vydatný 
+46 vydávání 
+47 vydávání disposic 
+48 vydavatel 
+49 vydávati
+50 vydávací
+51 výdej 
+52 výdejna 
+53 vydělávati
+54 výdělek  
+55 vyděrač 
+56 vyděračný 
+57 vydírati 
+58 vydlužiti 
+59 vydobíti 
+60 vydra 
+61 vydražiti 
+62 vydrážditi 
+63 vydržeti 
+64 vydržovati 
+65 vyhas 
+66 vyházeti 
+67 výheň 
+68 vyhladiti 
+69 vyhladověti 
+70 vyhlásiti 
+71 vyhlášení 
+72 vyhlášený 
+73 vyhléška 
+74 vyhlašovati 
+75 vyhlazení 
+76 vyhlazený 
+77 vyhlazovati 
+78 výhled 
+79 vyhledání 
+80 vyhledaný 
+81 vyhledati 
+82 vyhledávání 
+83 vyhledávání zpráv 
+84 vyhledávati 
+85 vyhlídka 
+86 vyhlížeti 
+87 vyhnanec 
+88 vyhnanství 
+89 vyhnaný 
+90 vyhnati 
+91 vyhnouti 
+92 vyhnouti se 
+93 výhoda 
+94 vyhoditi 
+95 vyhoditi do povětří 
+96 výhodně 
+97 výhodný 
+98 vyhojiti 
+99 vyhořeti

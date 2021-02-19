@@ -1,0 +1,104 @@
+028
+
+00 disponování 
+01 disponovati 
+02 distinkce 
+03 distribuce 
+04 distrikt 
+05 dit 
+06 dítě 
+07 diti 
+08 div 
+09 divadelní  
+09 divadelně 
+10 divadlo 
+11 divák 
+12 dívati se 
+13 divě 
+14 divi 
+15 dividenda 
+16 divise 
+17 divisionář 
+18 divisní 
+19 divisní dělostřelectvo 
+20 divisní eskadrona 
+21 divisní generál 
+22 divisní jezdectvo 
+23 divisní nemocnice 
+24 divisní prov. sklad 
+25 divisní rozkaz 
+26 divisní soud 
+27 divisní štáb 
+28 divisní telegrafní rota 
+29 divisní velitel 
+30 divisní velitelství 
+31 divisní záloha 
+32 divisní zbroj. dílny 
+33 divisní zbroj. park 
+34 divisní zbroj. sklad 
+35 divisní zbrojnice 
+56 diviti se 
+37 divný 
+37 divně 
+38 divo 
+39 divoký 
+40 divý 
+41 dl 
+42 dla 
+43 dlaň 
+44 dlažba 
+45 dle 
+46 dle doslechu 
+47 dle hlášení 
+48 dle mého názoru 
+49 dle možnosti 
+50 dle rozkazu 
+51 dle toho 
+52 dlíti 
+53 dlo 
+54 dlouho 
+55 dlouholetý 
+56 dlouhotrvající 
+57 dlouhovlnný 
+58 dlouhý 
+59 dluh 
+60 dluhovati 
+61 dlužen 
+62 dlužiti 
+63 dlužník 
+64 dlužno 
+65 dlužný 
+66 dm 
+67 dmý 
+68 dn 
+69 dna 
+70 dne 
+71 Dněpr 
+72 dnes 
+73 dnes dopoledne 
+74 dnes odpoledne 
+75 dnes ráno 
+76 dnes večer 
+77 dnes v noci 
+78 dnes v poledne 
+79 dnešek 
+80 dnešní 
+81 dnešního 
+82 dnešního dne 
+83 dni 
+84 dní 
+85 dno 
+86 dny 
+87 do 
+88 do 
+89 do detailu 
+90 do konce 
+91 do konce t. m.
+92 do konce r. r.
+93 do konce t. týdne 
+94 do odchodu 
+95 do Prahy 
+96 do příchodu 
+97 do příjezdu 
+98 do rána 
+99 do toho 

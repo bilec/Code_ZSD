@@ -1,0 +1,109 @@
+167
+
+00 trčeti 
+01 tré 
+02 tře 
+03 třeba 
+04 trebaže 
+05 třecí 
+06 trefa 
+07 trefiti 
+08 třech 
+09 třem 
+10 třemi 
+11 trén 
+12 trén armády 
+13 trén brigády 
+14 trén divise 
+15 trén pluku 
+16 trén praporu 
+17 trén sborů 
+18 trén vojsk.tělesa 
+19 Trenčín 
+20 tření 
+21 třenice 
+22 třený 
+23 třepiti se 
+24 třesk 
+25 tresor 
+26 trest 
+27 trest smrti 
+28 tresť 
+29 trestanec 
+30 trestati 
+31 trestní 
+32 trestní čin 
+33 trestní oznámení 
+34 trestnice 
+35 trestný 
+35 trestně 
+36 trestuhodný
+36 trestuhodně 
+37 třetí 
+38 třetí mob.den 
+39 třetina 
+40 trh 
+41 trhání 
+42 trhati 
+43 trhaviny 
+44 trhlina 
+45 trhnouti 
+46 trhnutí 
+47 trhovní 
+48 trhový 
+49 tři 
+50 tří 
+51 tříbiti 
+52 třicáty
+53 tříčlenný
+54 třída 
+55 třídění 
+56 tříditi 
+57 třídílný 
+58 třídní 
+59 trig 
+60 trigonometr 
+61 trigonometrický 
+62 trigonometrický bod 
+63 třikráte 
+64 třímati 
+65 třísniti 
+66 tříšť
+67 tříštiti 
+68 tříti 
+69 triumf 
+70 triumfální 
+70 triumfálně
+71 trmáceti 
+72 trn 
+73 Trnava 
+74 trní 
+75 trnouti 
+76 tro 
+77 trochu 
+78 troj 
+79 trojí 
+80 trojitý 
+80 trojitě
+81 trojmo 
+82 trojnásobný 
+82 trojnásobně
+83 trolejbus 
+84 trojroj 
+85 trojúhelník 
+86 trojstup 
+87 trop 
+88 tropiti 
+89 trosky 
+90 trou 
+91 troubený 
+92 troubiti 
+93 troufalý 
+93 troufale
+94 troufati si 
+95 trouchnivěti 
+96 trouchnivý 
+97 trousiti 
+98 trp
+99 trpký
+99 trpce

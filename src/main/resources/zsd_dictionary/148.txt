@@ -1,0 +1,111 @@
+148
+
+00 sluha 
+01 sluch 
+02 sluchátko 
+03 slunce 
+04 sluneční 
+05 slunný 
+06 slušeti 
+07 slušnost 
+08 slušný  
+08 slušně
+09 služba 
+10 služby 
+11 služeb 
+12 služ 
+13 služební 
+14 služební cesta 
+15 služební poměr 
+16 služební zařazení 
+17 služka 
+18 služné 
+19 sly 
+20 slý 
+21 slýchati 
+22 slyšený 
+23 slyšeti 
+24 slyšitelný
+24 slyšitelně
+25 slza 
+26 slzeti 
+27 slzotvorný plyn 
+28 sm
+29 sma 
+30 smá 
+31 smačkaný 
+32 smačkati 
+33 smáčknouti 
+34 smalt 
+35 smáti se 
+36 smazaný 
+37 smazati 
+38 sme 
+39 smě 
+40 smečka 
+41 smeknouti 
+42 směl 
+43 směle 
+44 smělost 
+45 smělý 
+46 směna 
+47 směnárna 
+48 sněnitelný 
+49 sněniti 
+50 směrka
+51 směr 
+52 směr néletu 
+53 směr pochodu
+54 směr útoku 
+55 směrem 
+56 směrem do
+57 směrem k
+58 směrem na 
+59 směrem z
+59 směrem ze
+60 směrnice 
+61 směrodatný
+61 směrodatně 
+62 směřovati 
+63 směrový  
+63 směrově 
+64 směrový objekt 
+65 směs 
+66 směšný
+66 směšně 
+67 směstnati 
+68 smet 
+69 směti 
+70 smějí 
+71 smí 
+72 smích 
+73 smíchati 
+74 smiloveti se 
+75 smír
+76 smížení 
+77 smířený 
+78 smířiti se 
+79 smiřlivý 
+79 smiřlivě 
+80 smirný
+80 smirně 
+81 smíš 
+82 sníšenina 
+83 smíšený 
+84 smíšené brigáda 
+85 smíšený přezv.oddíl 
+86 smířiti 
+87 smíti 
+88 smlouva 
+89 smlouvati 
+90 smluvený
+91 smluvené znamení 
+92 smluviti 
+93 smluviti se
+94 smo 
+95 smr 
+96 smrt 
+97 smelný 
+97 smelně
+98 smu
+99 smuteční

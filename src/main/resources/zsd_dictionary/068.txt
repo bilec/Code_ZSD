@@ -1,0 +1,104 @@
+068
+
+00 letadlo bombardovací 
+01 letadlo dělostřelectva 
+02 letadlo dvoumístné 
+03 letadlo jednomístné 
+04 letadlo na střehu 
+05 letadlo pěchoty 
+06 letadlo pozorovací 
+07 letadlo stíhací 
+08 letadlo zpravodajské 
+09 letadlo zvědné 
+10 letadlový 
+11 leták 
+12 létati 
+13 letec 
+14 letecká 
+15 letecká činnost 
+16 letecká eskadra 
+17 letecká fotografie 
+18 letecká mapa 
+19 letecká ochrana 
+20 letecká povětrnoství stanie 
+21 letecká přejímací správa 
+22 letecká převaha 
+23 letecká zpráva 
+24 letecké 
+25 letecké dílny 
+26 letecké hlášení
+27 letecké pozorování 
+26 letecké přezvědy 
+29 letecké pumy
+30 letecké snímky 
+31 letecké učiliště 
+32 letecké zabraňování 
+33 letecké zvědy 
+34 letecký 
+35 letecký boj 
+36 letecký důstojník 
+37 letecký nálet 
+38 letecký odbor 
+39 letecký park 
+40 letecký pluk 
+41 letecký průzkum 
+42 letecký sklad 
+43 letecký útok 
+44 letecký útvar 
+45 letectvo 
+46 letectvo armádní 
+47 letectvo bojové 
+48 letectvo bombardovací 
+49 letectvo pozorovací 
+50 letectvo stíhací 
+51 letectvo zpravodajské 
+52 letectvo zvědné 
+53 letěti 
+54 letiště 
+55 letiště pomocné 
+56 letiště pracovní 
+57 letiště základní 
+58 letka 
+59 letka bomb.lehká 
+60 letka bomb.těžká 
+61 letka cvičná 
+62 letka pozorovací 
+63 letka stihací
+64 letka stihací noční 
+65 letmo 
+66 letní 
+67 léto 
+68 letos 
+69 letošní 
+70 letoun 
+71 letoun bitevní 
+72 letoun bombardovací 
+73 letoun dělostřelectva 
+74 letoun na střehu 
+75 letoun pěchoty 
+76 letoun pozorovací 
+77 letoun stíhací 
+76 letoun zpravodajský 
+79 letoun zvědný 
+80 lev 
+81 levice 
+82 Levice 
+83 levný
+83 levně 
+84 Levoča 
+85 levá 
+86 levé 
+87 levé křídlo 
+88 levý 
+89 levý bok 
+90 Lewis 
+91 lez 
+92 lézti 
+93 lež 
+94 ležatý 
+94 ležatě 
+95 ležení 
+96 ležeti 
+97 ležící 
+98 lhář 
+99 lháti 

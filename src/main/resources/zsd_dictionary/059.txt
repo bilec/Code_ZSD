@@ -1,0 +1,108 @@
+059
+
+00 kapitalista 
+01 kapitalistický  
+02 kapitán 
+03 kapitán dělostřelectva
+04 kapitán gen. štábu 
+05 kapitán jezdectva 
+06 kapitán letectva 
+07 kapitán pěchoty 
+08 kapitán ve výslužbě 
+09 kapitán v záloze 
+10 kapitola 
+11 kapitulace 
+12 kapitulovati  
+13 kapl 
+14 kaple 
+15 kaplice 
+16 kaplička 
+17 Keposvár 
+18 kapr 
+19 kapslovna 
+20 kapu 
+21 kar 
+22 kára 
+23 karabina 
+24 Karancssád 
+25 karát 
+26 kárati 
+27 karbol 
+28 kard 
+29 kardinální  
+29 kardinálně 
+30 kare 
+31 Karel 
+32 kari 
+33 Karlovy Vary 
+34 Karlsruhe 
+35 karm 
+36 karn 
+37 kárné řízení 
+38 kárný výbor 
+39 Károly 
+40 Karpaty 
+41 Karpaty Bílé 
+42 Karpaty Malé
+43 Karpaty Poloninské 
+44 Karpaty Velké
+45 kartel 
+46 karto 
+47 kartografický 
+48 kartografie 
+49 karton 
+50 kas 
+51 kasa 
+52 kasace  
+52 kasační 
+53 kasárna 
+54 kase 
+55 kasi 
+56 kasino 
+57 Kaspické noře 
+58 kast 
+59 kasta 
+60 kastovní 
+61 kastovníctví 
+62 kaš 
+63 kat 
+64 kata 
+65 katalog 
+66 katastr 
+67 katastrofa 
+68 katastrofální
+68 katastrofálně
+69 katedr 
+70 kateg 
+71 kategorický 
+71 kategoricky
+72 kategorie 
+73 katech 
+74 katol 
+75 katolický 
+76 Katovice 
+77 kauce 
+78 kaučuk 
+79 kav 
+80 káva 
+81 kavalír 
+82 kavárna 
+83 kavent 
+84 kaverna 
+85 kaz 
+86 kázání 
+87 kázati 
+88 kázeň 
+89 kazití 
+90 káznice 
+91 každôdenní
+91 každôdenně 
+92 každoroční 
+92 každoročně 
+93 každou 
+94 každý 
+95 každým způsoben 
+96 kb
+97 Kbely
+98 kde 
+99 kde je

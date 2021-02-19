@@ -1,0 +1,107 @@
+199
+
+00 zane 
+01 zámecký 
+02 zámek 
+03 záměna 
+04 zatněněný 
+05 zaměniti 
+06 záměnný 
+07 záměnné postavení 
+08 záměnné stanoviště 
+09 zaměňovati 
+10 záměr 
+11 zaměřený 
+12 záměrný
+12 záměrně
+13 zaměřovati 
+14 zaměstnanec 
+15 zaměstnání 
+16 zaměstnaný 
+17 zaměstnavatel 
+18 zaměstnávati 
+19 zameškání 
+20 zaneškaný 
+21 zameškati 
+22 zemezení
+23 zanezený 
+24 zameziti 
+25 záminka 
+26 zamířiti 
+27 zamítavý
+27 zamítavě 
+28 zamítnouti 
+29 zamítnutí 
+30 zamítnutý 
+31 zamlčený 
+32 zamlčeti 
+33 zamlklý 
+34 zamlouvati 
+35 zamluvený 
+36 zamlžení 
+37 zamlžený 
+38 zamlžiti 
+39 zamlžovati 
+40 zamořený 
+41 zamořený plynem 
+42 zamořený prostor 
+43 zamořený terén 
+44 zámoří 
+45 zamořiti 
+46 zamotaný 
+47 zamotati 
+48 zámožný 
+49 zamračený 
+50 zamračiti se 
+51 zamýšlený  
+51 zamýšleně
+52 zamýšlený 
+53 zamýšleti
+54 zamyslíti se 
+55 zan
+56 zaň 
+57 zanášeti 
+58 zanedbaný 
+59 zanedbati 
+60 zanechaný 
+61 zanechati 
+62 zaneprázdněný 
+65 zaneprázdniti 
+64 zanesený 
+65 zanésti 
+66 zánět 
+67 zanevřiti 
+68 zani 
+69 zanícený 
+70 zánik 
+71 zanikati 
+72 zaniknouti 
+73 zaobalený
+73 zaobaleně
+74 zaokouhlený
+74 zaokouhleně
+75 zaokrouhliti 
+76 zaopatření 
+77 zaopatřený 
+78 zaopatřiti 
+79 zaopatřovací 
+80 zaopatřovati 
+81 zaostřený 
+82 zaostřiti 
+83 zap 
+84 západ 
+85 zapadati 
+86 zapadlý 
+87 západně 
+88 západní 
+89 zápal 
+90 zapáliti 
+91 zápalný 
+92 zápas 
+93 zápasiti 
+94 zapečetěný 
+95 zapečetiti 
+96 zapírati 
+97 zápis 
+98 zápisník 
+99 zapisování

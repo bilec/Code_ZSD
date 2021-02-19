@@ -1,0 +1,108 @@
+056
+
+00 jednotka 
+01 jednotky 
+02 čjednotky ističů 
+03 jednotlivec 
+04 jednotlivost 
+05 jednotlivý 
+05 jednotlivě 
+06 jednotné vedení 
+07 jednotnost 
+08 jednotný 
+08 jednotně
+09 jednotvárný  
+09 jednotvárně
+10 jednou 
+11 jedovatý 
+12 jehla 
+13 jehli 
+14 jehličnatý 
+15 jeho 
+16 jehož 
+17 jej 
+18 její 
+19 jejich 
+20 jejím 
+21 jehími 
+22 jejíž 
+23 jek 
+24 jel 
+25 jela 
+26 jelen 
+27 je-li 
+28 je-li třeba 
+29 jelikož 
+30 jem 
+31 jenný
+31 jenně
+31 jennost
+32 jemu 
+33 jemuž 
+34 jen 
+35 jenom 
+36 jenž 
+37 jer 
+38 jeř 
+39 jes
+40 jese
+41 jeskyně 
+43 jestliže 
+44 jesuit 
+45 ješitný
+45 ješitně
+45 ješitnost 
+46 ještě 
+47 jještě ednou 
+48 jet 
+49 jete 
+50 jeti
+51 jev 
+52 jevic 
+53 jevič 
+54 jeviště 
+55 jeviti 
+56 jeviti se
+57 jez 
+58 jezdec 
+59 jezdecká 
+60 jezdecká baterie 
+61 jezdecká brigáda 
+62 jezdecká divise 
+63 jezdecká hlídka 
+64 jezdecké 
+65 jezdecké koně 
+66 jezdecké učiliště 
+67 jezdecký 
+68 jezdecký důstojník 
+69 jezdecký kul. oddíl 
+70 jezdecký kůň 
+71 jezdecký pluk 
+72 jezdecký průzkum 
+73 jezdecký útok 
+74 jezdectvo 
+75 jezditi 
+76 jezerní 
+77 jezero 
+78 jež 
+79 ježto 
+80 jho 
+81 ji
+82 jí
+83 jic 
+84 jícen 
+85 jídelna 
+86 jídlo 
+87 jih 
+88 Jihlava 
+89 jihovýchod 
+90 jihovýchodně 
+91 jihovýchodní 
+92 Jihoslovan 
+93 jihoslovanský 
+94 jihozápad 
+95 jihozápadně 
+96 jihozápadní 
+97 jich 
+98 jichž 
+99 jik

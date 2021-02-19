@@ -1,0 +1,109 @@
+124
+
+00 přičleniti  
+01 přičleněný
+02 přičlenění 
+03 příčný  
+03 příčně  
+04 příčná posice
+05 přidati 
+06 přídavek 
+07 příděl 
+08 přidělati 
+09 přidělaný 
+10 přidělení 
+11 přidělený 
+12 přiděliti 
+13 přidružiti 
+14 přidržeti 
+15 přidržovaný 
+16 přihazovati 
+17 přihlásiti se 
+18 přihlášeni 
+19 přihléšený 
+20 přihláška 
+21 přihlížeti 
+22 přihnati 
+23 příhoda 
+24 přihoditi se 
+25 příhodný 
+26 příhodná doba 
+27 příhodný okamžik 
+28 přihrádka 
+29 přihrnouti 
+30 přicházeti 
+31 příchod 
+32 příchozí 
+33 příchuť 
+34 příchylný 
+34 příchylně
+35 přichystati 
+36 přichystati se
+37 přijatelný 
+38 přijati 
+39 přijatý 
+40 přijede 
+41 příjen 
+42 příjemce 
+43 příjemný 
+43 příjemně 
+44 přijeti 
+45 příjezd 
+46 příjímací 
+47 příjímací stanice 
+48 příjmač
+49 přijímati 
+50 přijíti
+51 přijížděti
+52 příjmení 
+53 příjmy 
+54 příkaz 
+55 přikázaný 
+56 přikázaný prostor
+57 přikázati  
+58 příkaznost 
+59 příkazný 
+60 příklad 
+61 přikládati 
+62 příkladný 
+63 přikloniti se 
+64 příklop 
+65 příkop 
+66 příkoří 
+67 příkře 
+68 příkrý 
+69 příkrý sklon 
+70 příkrý svah
+71 přikrýti 
+72 přikrytý 
+73 přilákati 
+74 přilba 
+75 přiléhavý
+75 přiléhavě 
+76 přiléhati 
+77 přilehlý 
+78 přilepiti 
+79 přilepený 
+80 přilepšiti 
+81 přílet 
+82 přiletěti 
+83 přilézti 
+84 příležitost 
+85 příležitostný
+85 příležitostně
+86 příležitý 
+87 příliš 
+88 příliv 
+89 přilnouti 
+90 příhoda 
+91 přiložený
+91 přiloženě
+92 přiložiti 
+93 prima
+94 primátor 
+95 přiměřený 
+95 přiměřeně
+96 příměří 
+97 přiměti 
+98 přiměti k
+99 přímluva 

@@ -1,0 +1,108 @@
+098
+
+00 odňatý 
+01 odo 
+02 odolati 
+03 odolný 
+04 odolnost 
+05 odp 
+06 odpadati 
+07 odpadnouti 
+08 odpadlík 
+09 odpírati 
+10 odpis 
+11 odplata 
+12 odplatiti 
+13 odpočinek 
+14 odpočinouti si 
+15 odpočívati 
+16 odpoledne 
+17 odpolední 
+18 odpor
+19 odporný  
+19 odporně
+20 odporovati 
+21 odporučiti 
+22 odposlouchací
+23 odposlouchaný 
+24 odposlouchati 
+25 odpouštěti 
+26 odpoutání 
+27 odpoutati se 
+28 odpoutati se od nepřítele 
+29 odpověď 
+30 odpověď na 
+31 odpověď na Vaše 
+32 odpověď na Vaše čj.
+33 odpověď zašlete 
+34 odpověděti 
+35 odpovězte 
+36 odpovězte na 
+37 odpovězte na čj.
+38 odpovězte telegraficky
+39 odpovědnost 
+40 odpovědný 
+41 odpovídati 
+42 odpřisáhnouti 
+43 odprositi 
+44 odpustiti 
+45 odpůrce 
+46 odpustitelný 
+47 odpustiti 
+48 odpuštění
+48 odpuštěny 
+49 odpuzovati 
+50 odpykati 
+51 odpykaný 
+52 Odra 
+53 odraditi 
+54 odraz 
+55 odražený
+55 odraženy 
+56 odraziti 
+57 odraziti protiútok 
+58 odraziti útok 
+59 odrážeti 
+60 odřad 
+61 odřeknuti 
+62 odřeknutý
+63 odříci 
+64 odříkati 
+65 odříznouti 
+66 odříznut 
+67 odročiti 
+68 odročený 
+69 odrodilý
+69 odrodilec 
+70 odseděti si 
+71 odsednouti 
+72 odskočiti 
+73 odsloužiti 
+74 odsouditi 
+75 odsouzenec 
+76 odouzený 
+77 odstavec 
+78 odstavený 
+79 odstěhovati 
+80 odstín 
+81 odstuupiti 
+82 odstraněný 
+82 odstraněny
+83 odstraniti 
+84 odstrašiti 
+85 odstrčený 
+86 odstrčiti 
+87 odstup 
+88 odstupné 
+89 odstupovati 
+90 odsun 
+91 odsun nemocných 
+92 odsun raněných 
+93 odsunový 
+94 odsunové místo  
+95 odsunová stanice
+96 odsunové středisko 
+97 odsunutý 
+97 odsunuty 
+98 odsuzovati 
+99 odškodné 

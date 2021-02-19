@@ -1,0 +1,104 @@
+201
+
+00 zasazovati 
+01 zase 
+02 zasedati 
+03 zasednouti 
+04 zasi 
+05 zasilatel 
+06 zasílati 
+07 zásilka 
+08 zašk 
+09 zackočený 
+10 zaskočiti 
+11 zašla 
+12 zaslaný 
+13 zaslati 
+14 zašle 
+15 zašlete 
+16 zaslechnouti 
+17 zaslepený 
+17 zaslepeně
+18 zaslepiti 
+19 zasloužilý 
+20 zasloužiti 
+21 zásluha 
+22 zasluhovati 
+23 záslužný
+23 záslužně 
+24 zašlý 
+25 zásoba 
+26 zásobárna 
+27 zásobení 
+28 zásobený 
+29 zásobiti 
+30 zásobnictvo 
+31 zásobovací 
+32 zásobovací místo 
+33 zásobovací stanice 
+34 zásobovací středisko 
+35 zásobovací vůz 
+36 zásobování 
+37 zásobování střelivem 
+38 zásobovati 
+39 zaspati 
+40 zastánce 
+41 zastání 
+42 zastaralý 
+43 zastarati 
+44 zastati se 
+45 zástava 
+46 zastávati 
+47 zastaveni 
+48 zastavení 
+49 zastavený
+50 zastaviti 
+51 zastaviti se
+52 zastavte  
+53 zastavovati
+54 zastihnouti  
+55 zastihnutý
+56 zastírání 
+57 zastírati 
+58 záštita
+59 záštita dělostřelectva 
+60 zastoupení
+61 zastoupený 
+62 zastoupiti 
+63 zastrašiti 
+64 zastrčený 
+65 zastrčiti 
+66 zastřelení 
+67 zastřelený 
+68 zestřeliti 
+69 zestřeliti se 
+70 zastřelování 
+71 zastřelovati 
+72 zastřený 
+73 zastříleti 
+74 zastříti 
+75 zástup 
+76 zástupce 
+77 zástupce náč.hl.št. 
+78 zástupce náč.štábu 
+79 zástupce přednosty 
+80 zástupce velitele 
+81 zastupitelství 
+82 zastupitelstvo 
+83 zastupovati 
+84 zásuvka 
+85 zasvěcený 
+86 zasvětiti 
+87 zasypati 
+88 zatáčka 
+89 zatáhnouti 
+90 zatajený 
+91 zatajiti 
+92 zatajovaný 
+93 zatajovati 
+94 zatčení 
+95 zatčený 
+96 zatím
+97 zatímně 
+98 zatímní 
+99 zatknouti 

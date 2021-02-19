@@ -1,0 +1,111 @@
+095
+
+00 obléhaný 
+01 obléhati 
+02 oblehnouti 
+03 oblek 
+04 obležení 
+05 obliba 
+06 oblíbený 
+07 oblíbiti si 
+08 obličej 
+09 obligátní 
+09 obligátně 
+10 obligo 
+11 oblo 
+12 oblou 
+13 oblý 
+14 obnášeti 
+15 obnáší 
+16 obnos 
+17 obnoviti 
+18 obnoviti dotyk 
+19 obnoviti spojení 
+20 obnoviti styk 
+21 obnoviti útok 
+22 obnovený 
+23 obnovovati 
+24 obohatiti 
+25 oboje 
+26 obojetný 
+26 obojetně 
+27 obor 
+28 obor působnosti 
+29 obora 
+30 obořiti se 
+31 obou 
+32 oboustranný
+32 oboustranně 
+33 obr 
+34 obrácený 
+35 obraceti 
+36 pozornost 
+37 obřad 
+38 obřadný
+38 obřadně  
+39 obrana 
+40 obrana proti letadlům 
+41 obránce 
+42 obranná 
+43 obranná čára 
+44 obranná opatření 
+45 obranná posice 
+46 obranné 
+47 obranné pásmo 
+48 obranné postavení 
+49 obranné zpravodajství 
+50 obranný
+51 obranný boj 
+52 obranný obvod 
+53 obranný plán  
+54 obrat
+55 obratem 
+56 obrátiti 
+57 obratný  
+57 obratně
+58 obratnost 
+59 obraz 
+60 obrazný 
+60 obrazně
+61 obrněný 
+62 obrněná auta 
+63 obrněný automobil 
+64 obrněný vlak 
+65 obrostlý 
+66 obru 
+67 obrys 
+68 obsaditi 
+69 obsah 
+70 obsah depeše 
+71 obsah hlášení 
+72 obsah telegramu
+73 obsahovati 
+74 obsáhlost 
+75 obsáhlý
+75 obsáhle
+76 obsazení 
+77 obsazený 
+78 obsažený 
+79 obsažný 
+80 obsazovati 
+81 observatoř 
+82 obsílka 
+83 obšírný 
+83 obšírně 
+84 obsloužiti 
+85 obsluha 
+86 obstarati 
+87 obstáti 
+88 obstojný 
+88 obstojně
+89 obstoupený 
+90 obstoupiti 
+91 obstrukce 
+92 obstrukční 
+93 obtěžovati 
+94 obtisk 
+95 obtíž 
+96 obtížný 
+97 obu 
+98 obuv 
+99 obvaz 

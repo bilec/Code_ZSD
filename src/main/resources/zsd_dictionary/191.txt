@@ -1,0 +1,103 @@
+191
+
+00 výše 
+01 vyšetřený 
+02 vyšetřiti 
+03 vyšetřovací 
+04 vyšetřovací vazba 
+05 vyšetřování 
+06 vyšetřovaný 
+07 vyšetřovati 
+08 vyšetřte
+09 vyšins 
+10 vyšinouti se 
+11 vyšinutí 
+12 vyšinutý 
+13 výška 
+14 výškový 
+15 výšková značka 
+16 vyškrtnouti 
+17 vyškrtnutý 
+18 vyšší 
+19 vyšší důstojník 
+20 vyšší jednotka 
+21 vyt
+22 vytáčeti 
+23 výtah
+24 vytáhnouti 
+25 výtažek 
+26 výtečný
+26 výtečně
+27 výtěžek 
+28 vytěžiti 
+29 výtisk 
+30 vytisknouti 
+31 výtka 
+32 vytknouti 
+35 vytknutý 
+34 vytčený 
+35 vytlačený 
+36 vytlačiti 
+37 vytloukati 
+38 vytratiti
+39 vytrhati 
+40 vytříbiti 
+41 vytříti 
+42 vytroubiti 
+43 vytrousiti 
+44 vytrvale 
+45 vytrvalost 
+46 vytrvalý 
+47 vytrvati 
+48 vytržení 
+49 vytržený 
+50 výtržník 
+51 výtržnost 
+52 vytvořený 
+53 vytvořiti 
+54 vytvořiti si
+55 vytyčený
+56 vytyčiti  
+57 vytyčovací 
+58 vytyčovací terče
+59 vyučení 
+60 vyučiti 
+61 vyučovati 
+62 využitkovaný 
+63 využíti 
+64 využití 
+65 využití úspěchu 
+66 využitkovati 
+67 vyv 
+68 vyváděti 
+69 vyvarovati se 
+70 vyváznouti 
+71 vyvážený 
+72 vyvážeti 
+73 vyvážiti 
+74 vyvěšený 
+75 vyvěsiti 
+76 vyvésti 
+77 vyvezený 
+78 vyvézti 
+79 vývin 
+80 vyvinuti 
+81 vyvinutý
+82 vyvlastněný 
+83 vyvlastniti 
+84 vyvléci se 
+85 vývod 
+86 vyvoditi 
+87 vývoj 
+88 vyvolati 
+89 vyvolávati 
+90 vyvoliti 
+91 vývoz 
+92 vývozní 
+93 vyvrácení 
+94 vyvrácený 
+95 vyvraceti 
+96 vyvrátiti 
+97 vyvrhnouti 
+98 vyvstati 
+99 vyvýšenina 

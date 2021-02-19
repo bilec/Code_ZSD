@@ -1,0 +1,106 @@
+114
+
+00 pol 
+01 Polák 
+02 Poláci 
+03 polámaný 
+04 polámati 
+05 polapiti 
+06 polární 
+07 polárka 
+08 pole 
+09 poledne 
+10 polední 
+11 poledník 
+12 polehčující
+13 polehčující okolnost 
+14 polekati 
+15 polemcký 
+15 polemcky
+16 polemika 
+17 polepšiti 
+18 polev 
+19 poli 
+20 polí 
+21 policejní
+21 policejně 
+22 policejní agent 
+23 policejní komisařství 
+24 policejní prohlídka 
+25 policejní raport 
+26 policejní ředitelství 
+27 policejní úřad 
+28 policejní úředník 
+29 policejní zpráva 
+30 policie 
+31 politický 
+31 politicky
+32 politické poměry 
+33 politická situace
+34 politik 
+35 politika 
+36 polknouti 
+37 polní 
+38 polní cesta 
+39 polní četník 
+40 polní četnictvo 
+41 polní dávka 
+42 polní dělo 
+43 polní děl.brigáda 
+44 polní dělostřelectvo 
+45 polní dráha 
+46 polní kuchyně 
+47 polní nemocnice
+48 polní opevnění 
+49 polní OPL 
+50 polní pekárna 
+51 polní pilot 
+52 polní pošta 
+53 polní stráž 
+54 polní tráže 
+55 polní útvar 
+56 polní výzbroj 
+57 polo 
+58 poloha 
+59 polokruh 
+60 pololetí 
+61 pololetní 
+62 poloměr 
+63 poloviční 
+63 polovičně 
+64 polovina 
+65 položiti 
+66 položka 
+67 Polsko 
+68 polská 
+69 polská armáda 
+70 polská pohr.stráž 
+71 polská vláda 
+72 polské 
+73 polské hranice 
+74 polské letadlo 
+75 polské území 
+76 polský 
+77 polský konsulát 
+78 polský příslušník 
+79 polský zběh 
+80 poly 
+81 pom
+82 pomáhati 
+83 pomalu 
+84 pomatený
+84 pomateně 
+86 poměr 
+87 poměrně 
+88 poměrný 
+89 poměry 
+90 pomezí 
+91 pomezní
+92 pomíjeti  
+93 pomíjivý 
+94 pomíjivý cíl
+95 pomlčeti  
+96 pomlouvaný
+97 pomlouvati 
+98 pomluva 
+99 pomník 

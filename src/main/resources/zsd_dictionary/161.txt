@@ -1,0 +1,110 @@
+161
+
+00 šli 
+01 šlo 
+02 šmahem 
+03 šne 
+04 šně 
+05 šno 
+06 šun 
+07 šo 
+08 šos 
+09 šou 
+10 šovinismus 
+11 šovinista 
+12 šovinistický 
+12 šovinisticky
+13 špa 
+14 Španěl 
+15 španělský 
+16 špatně 
+17 špatný
+17 špatnost 
+18 špeh 
+19 špehoun 
+20 špehovati 
+21 špendlík 
+22 šperk 
+23 špetka 
+24 špicl 
+25 špičatý
+25 špičatě
+26 špička 
+27 špína 
+28 špinavost 
+29 špinavý
+29 špinavě
+30 špiniti 
+31 špion 
+32 špionka 
+35 špionáž 
+34 špionážní 
+35 špionážní aféra 
+36 šplhati 
+37 šrám 
+38 šramot 
+39 šran 
+40 šrapnel 
+41 šrapnelový 
+42 šro 
+43 šroub 
+44 šroubový 
+45 štáb 
+46 štáb armády 
+47 štáb brigády 
+48 štáb divise 
+49 štáb pluku  
+50 štáb sboru 
+51 štábní
+52 štábní důstojník 
+53 štábní kapitán 
+54 štábní oddíl 
+55 štábní rotmistr 
+56 štábní rota
+57 štafeta 
+58 šťastný
+58 šťastně  
+59 šťáva
+60 šťavnatý
+60 šťavnatě
+61 šte
+62 ště 
+63 štědře 
+64 štědrý
+64 štědrost 
+65 štěkati 
+66 štem
+67 štěn 
+68 štěp 
+69 štěrb 
+70 štěrk 
+71 štěrkovaný 
+72 štěrkovna 
+73 štěstí 
+74 štět 
+75 šti 
+76 štíhlý 
+77 štika 
+78 štil 
+79 štip 
+80 štiplavý 
+80 štiplavě 
+81 štír 
+82 štít 
+83 štítiti se 
+84 što 
+85 štola 
+86 Štrba 
+87 štu 
+88 štváč 
+89 štvaní 
+90 štvaný 
+91 štváti 
+92 štvavý 
+93 šu 
+94 sum 
+95 šuměti 
+96 šupina 
+97 Šurany 
+98 šust 
+99 šváb 

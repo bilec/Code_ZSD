@@ -1,0 +1,104 @@
+190
+
+00 vyrvati 
+01 vys 
+02 výsada 
+03 vysaditi 
+04 výsadní 
+05 vysazovati 
+06 vyseděti 
+07 vysílání 
+08 vysílati 
+09 vysílení 
+10 vysílený 
+11 vysíliti 
+12 vysilující 
+13 vyskakovati 
+14 vyskočiti 
+15 vyskytnouti se 
+16 vyslanec 
+17 vyslanecký 
+18 vyslanectví 
+19 vyslaný 
+20 vyslati 
+21 vyšlete 
+22 výsledek 
+23 výslech 
+24 vyslechnouti 
+25 vyslechnutý 
+26 vyslíditi 
+27 vysloužilec 
+28 vysloužilý 
+29 vysloužiti 
+30 vyslovený 
+31 vysloviti 
+32 výslovnost 
+33 výslovně 
+34 výslovný 
+35 výslužba 
+36 výslužné 
+37 vyslýchaný 
+38 vyslýchati 
+39 vyslyšeti 
+40 výsměšný 
+41 vysoce 
+42 vysočina 
+43 vysočina Českomoravská 
+44 Vysoké Mýto 
+45 Vysoké Tatry 
+46 vysoký 
+47 vysoká pec 
+48 vysp
+49 vyspělý 
+50 vystačiti 
+51 vystátí 
+52 výstava 
+53 vystavěný
+54 vystavěti 
+55 výstaviště 
+56 vystaviti 
+57 výstavní 
+58 výstavný 
+59 vystavovati 
+60 vystavovati se
+61 vystěhovalec
+62 vystěhovaný 
+63 vystěhovati se 
+64 vystihnouti 
+65 výstižný
+65 výstižně
+66 vystoupiti 
+67 výstraha 
+68 výstražný
+68 výstražně 
+69 vystrčiti 
+70 výstřední 
+71 výstřel 
+72 vystřeliti 
+73 vystřídání 
+74 vystřídaný 
+75 vystřídati 
+76 vystřídejte 
+77 vystříhati se 
+78 vystřihnouti 
+79 vystřízlivěti 
+80 výstřižek 
+81 výstroj 
+82 výstroj a výzbroj 
+83 vystrojení 
+84 vystrojený 
+85 vystrojiti 
+86 výstup 
+87 vystupovati 
+88 vysunouti 
+89 vysunutý 
+90 vysušiti 
+91 vysvědčení 
+92 vysvětlení 
+93 vysvětliti 
+94 vysvětlovati 
+95 vysvítá 
+96 vysvítati 
+97 vysvoboditi 
+98 vysvobozený 
+99 vysypati 

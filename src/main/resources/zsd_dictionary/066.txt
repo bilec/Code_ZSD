@@ -1,0 +1,108 @@
+066
+
+00 kvitance
+01 kvitovati
+02 kvo
+03 kvota
+04 ky
+05 ký
+06 kyanovodík
+07 kých
+08 kyj
+09 Kyjov
+10 kým
+11 kyp
+12 kyselina
+13 kyselina pikrová
+14 kyselina sírová
+15 kyselina solná
+16 kyselý
+16 kysele
+17 kysličník
+18 kysličník uhelnatý
+19 kysličník uhličitý
+20 kyslík
+21 kyt
+22 kyvadlo
+23 kyvadlový
+24 kývati
+25 kýž
+26 kýžený
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+46 
+49 
+50 L
+51 k
+52 l. 
+53 l.
+54 la
+55 lab
+56 Labe
+57 laboratôř
+58 Laborca
+59 labský
+60 lac
+61 laoe
+62 láce
+63 laciný 
+63 lacino
+64 lad
+65 Ladislav
+66 laf
+67 láhev
+68 lach
+69 laický 
+69 laicky
+70 laik
+71 lak
+72 lákati
+73 lákavý 
+73 lákavě
+74 lánati
+75 lampa
+76 lan
+77 lán
+78 land
+79 lang
+80 lano
+81 lanová dráha
+82 lap
+83 las
+84 laš
+85 láska
+86 laskavý
+86 laskavě
+87 lat
+86 laterální
+89 láti
+90 latinský
+90 latinsky
+91 látka
+92 Latorica
+93 latrina
+94 lauf
+95 laut
+96 lav
+97 lavice
+98 lavina
+99 lávka

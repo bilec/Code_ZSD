@@ -1,0 +1,105 @@
+163
+
+00 tasiti 
+01 tat 
+02 tata 
+03 tatáž 
+04 tato 
+05 Tatra 
+06 Tatry 
+07 tatranský
+08 tan 
+09 tav 
+10 taviti 
+11 taxa 
+12 taz 
+13 tázací 
+14 tazatel 
+15 tázati se 
+16 tázaný 
+17 táž 
+18 tažení 
+19 tažený 
+20 tažný 
+21 tažný kůň
+22 te 
+23 té 
+24 tě 
+25 tebe 
+26 téci 
+27 tečka 
+28 tečna 
+29 teď
+30 tedy
+31 tehdejší 
+32 tehdy 
+33 téhož 
+34 tech 
+35 těch 
+36 technická 
+37 technická letka 
+38 technická rota 
+39 technická správa 
+40 technická výstroj 
+41 technická výzbroj 
+42 technické 
+43 technické práce 
+44 technický 
+45 technický material 
+46 technický odbor 
+47 technik 
+48 technika 
+49 těchto 
+50 těkavý 
+50 těkavě  
+51 tekoucí 
+52 tekutina 
+53 tekutý 
+54 tel 
+55 tele 
+56 telefon  
+57 telefonní
+58 telefonní auto 
+59 telefonní četa 
+60 telefonní drát 
+61 telefonní družstvo
+62 telefonní kábel  
+63 telefonní přístroj
+64 telefonní rozhovor 
+65 telefonní souprava 
+66 telefonní spojení  
+67 telefonní ústředna 
+68 telefonní vedení
+69 telefonický
+69 telefonicky
+70 telefonovaný 
+71 telefonovati 
+72 telegraf 
+73 telegrafický 
+73 telegraficky 
+74 telegrafní 
+75 telegrafní četa 
+76 telegrafní dílny 
+77 telegrafní drát 
+78 telegrafní družstvo 
+79 telegrafní kábel 
+80 telegrafní pluk 
+81 telegrafní prapor 
+82 telegrafní přístroj 
+83 telegrafní rota 
+84 telegrafní sklad 
+85 telegrafní souprava 
+86 telegrafní stanice 
+87 telegrafní učliště 
+88 telegrafní uřaď 
+89 telegrafní ústředna 
+90 telegrafní vedení 
+91 telegrafní vojsko 
+92 telegrafování 
+93 telegrafovaný 
+94 telegrafovati 
+95 telegrafujte 
+96 telegram 
+97 tělesný 
+98 těleso 
+99 tělesový 

@@ -1,0 +1,105 @@
+018
+
+00 C  
+01 c 
+02 c. 
+03 ca. 
+04 cm 
+05 cm2
+06 cm3 
+07 ç
+08 ca 
+09 cä 
+10 car 
+11 cár 
+12 Cařihrad 
+13 cas 
+14 cat 
+15 cav 
+16 ce 
+17 ced 
+18 cedule 
+19 cedulová banka 
+20 cei 
+21 cej 
+22 cel 
+23 cela 
+24 celá 
+25 cele 
+26 celé 
+27 celek 
+28 celi 
+29 celistvost 
+30 celkem 
+31 celkově 
+32 celkový 
+33 celkový dojem 
+34 celní 
+35 celní prohlídka 
+36 celnice 
+37 celo 
+38 celodenní 
+38 celodenně
+39 celoroční 
+39 celoročně
+40 celulosa 
+41 celý 
+42 cem 
+43 cement 
+44 cen 
+45 cena 
+46 cené 
+47 ceníti 
+48 cenné papíry 
+49 cenný 
+50 cens 
+51 censor 
+52 censura 
+53 censurovaný 
+54 censurovati 
+55 cent 
+56 centimetr 
+57 centr 
+58 centrála 
+59 centralisace 
+60 centralistický 
+61 centralisovaný 
+62 centralisované vedení 
+63 centralisovati 
+64 centrálně 
+65 centrální 
+66 centrum 
+67 cer 
+68 ceremoni 
+69 certifik 
+70 ces 
+71 cesta 
+72 cesta lesní 
+73 cesta polní 
+74 cestovati 
+75 cestovní 
+76 cestovní pas 
+77 cestovní výlohy 
+78 cestující 
+79 cet 
+80 Cetinje 
+81 ceň 
+82 cev 
+83 ci 
+84 cí
+85 cia 
+86 cib 
+87 cid 
+88 cle 
+89 cif 
+90 cifra 
+91 ciferný
+91 ciferně 
+92 cier 
+93 cih 
+94 cihelna 
+95 cích 
+96 cik 
+97 cikán 
+98 cikánka 
+99 cikánský 

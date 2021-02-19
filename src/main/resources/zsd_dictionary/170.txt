@@ -1,0 +1,106 @@
+170
+
+00 U
+01 u
+02 u
+03 u. 
+04 ü
+05 ub 
+06 uba 
+07 uběhnouti 
+08 ubezpečiti 
+09 ubezpečovati 
+10 ubi 
+11 ubikace 
+12 ubíhati 
+13 ubírati 
+14 ubírati se 
+15 ubíti 
+16 ubitý 
+17 ubl 
+18 ublížiti 
+19 ubo 
+20 ubohý 
+21 ubrániti se 
+22 ubrati 
+23 úbytek 
+24 ubytovací 
+25 ubytovací prostor 
+26 ubytování 
+27 ubytovati 
+28 ubytovati se 
+29 ubytovatel 
+30 ubytovaný 
+31 uc 
+32 uč 
+35 učiti 
+34 učiti se 
+35 ucítiti 
+36 úcta 
+37 uctíti 
+38 uctivý 
+39 účast 
+40 účastník 
+41 účastniti se 
+42 účastný 
+43 úče 
+44 učební 
+45 učebnice 
+46 účel 
+47 účelem 
+48 učelně 
+49 účelnost 
+50 účelný
+51 učelivý
+52 učenec 
+53 učení 
+54 učený 
+55 účet 
+56 účetní 
+57 účetní kontrola 
+58 účetníctví
+59 uči
+60 učí
+61 učiliště 
+62 účinek 
+63 učiněný 
+64 učiniti 
+65 účinkovati 
+66 účinný 
+66 účinně
+66 účinnost  
+67 účinná palba 
+68 učitel 
+69 učiti 
+70 učiti se 
+71 učlenění 
+72 učleniti 
+73 účtárna 
+74 účtovati 
+75 účtovaný 
+76 úd
+77 údaj 
+78 údaje 
+79 událost 
+80 udání 
+81 udaný 
+82 udaný cíl 
+83 udaný směr 
+84 udati 
+85 udatný 
+85 udatně
+85 udatnost 
+86 udavač 
+87 udě 
+88 udejte 
+89 úděl 
+90 udělati 
+91 uděliti 
+92 úder 
+93 udeření 
+94 údornícký 
+95 údornícké seskupení 
+96 úderník 
+97 úderný 
+98 úderný prapor 
+99 úderná rota 

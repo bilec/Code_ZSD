@@ -1,0 +1,106 @@
+121
+ 
+00 předsednictví
+01 předsevzetí
+02 předsevzíti si 
+03 představa 
+04 představený
+05 představitel 
+06 představiti 
+07 předstihnouti 
+08 předstírati 
+09 předstoupiti 
+10 předsudek 
+11 předsunutí 
+12 předsunutý  
+13 předsunutá polní stráž
+14 předsunutá posice
+15 předtím 
+16 předtucha 
+17 předurčení 
+18 předurčený 
+19 předurčiti 
+20 předváděti 
+21 předvčerejší 
+22 předvedení 
+23 předvésti 
+24 předvídaný 
+25 předvídati 
+26 předvoj 
+27 předvojový 
+28 předvojová hlídka 
+29 předvojový houf 
+30 předvojový houfec 
+31 předvolání
+32 předvolaný 
+33 předvolati 
+34 předzvěst 
+35 prefekt 
+36 přeháněti 
+37 přehlasovati 
+38 přehled 
+39 přehledně 
+40 přehlédnouti 
+41 přehlédnutý 
+42 přehledný 
+45 přehlídka 
+44 přehlížený 
+45 přehlížeti 
+46 přehlušiti 
+47 přehnat 
+48 přehnaný 
+48 přehnaně 
+49 přehnati 
+50 přehoditi 
+51 přehrada 
+52 přehradný 
+53 přehradná palba 
+54 přehradná posice 
+55 přehraditi 
+56 přecházeti 
+57 přechod 
+58 přechodně 
+59 přechovávač 
+60 přechovávaný 
+61 přechovávati 
+62 přeje 
+63 přejeti 
+64 přejí 
+65 přejímací 
+66 přejímati 
+67 přejíti 
+68 přejíti v obranu 
+69 přejíti k utoku 
+70 přejmouti 
+71 překaziti 
+72 překažený 
+73 překážeti 
+74 překážka 
+75 překlad 
+76 překládati 
+77 překládaný 
+78 překonatelný 
+78 překonatelně
+79 překonati 
+80 překonaný 
+81 překot 
+82 překročení 
+83 překročený 
+84 překročiti 
+85 překvapení 
+86 překvapený 
+87 překvapiti 
+88 překvapující 
+89 prelát 
+90 přela 
+91 přelet 
+92 přeletěti 
+93 preliminář 
+94 preliminovaný 
+95 preliminova±i 
+96 přelíčení 
+97 přelidnění 
+97 přelidněny
+97 přelidněnost 
+98 přeložení 
+99 přeložený 
