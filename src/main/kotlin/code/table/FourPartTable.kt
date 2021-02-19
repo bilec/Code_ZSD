@@ -168,8 +168,8 @@ class FourPartTable: AbstractTable {
         for(i in 0..99)
         {
             val columnNumber = i%17
-            if(columnNumber == 0) stringBuilder.append("\n").append("   ")
-            if(columnNumber in aStartWidth..aEndWidth) stringBuilder.append(String.format("%02d",i)).append("    ")
+            if(columnNumber == 0) stringBuilder.append("\n").append("      ")
+            if(columnNumber in aStartWidth until aEndWidth) stringBuilder.append(String.format("%02d",i)).append("        ")
         }
 
         stringBuilder.append("\n")

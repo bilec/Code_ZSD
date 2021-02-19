@@ -2,7 +2,6 @@ package gui.jpanels
 
 import gui.listeners.combobox.ShowJComboBoxListener
 import tools.Constants
-import java.awt.Font
 import javax.swing.*
 
 class ShowDictionaryPanel: JPanel() {
@@ -14,7 +13,6 @@ class ShowDictionaryPanel: JPanel() {
     init {
         layout = BoxLayout(this, BoxLayout.Y_AXIS)
 
-        showJTextArea.font = Font(Font.MONOSPACED, Font.PLAIN, 14)
         showJTextArea.isEditable = false
 
         showJComboBox.addActionListener(ShowJComboBoxListener(showJTextArea))

@@ -84,8 +84,8 @@ class TwoPartTable: AbstractTable {
 
         for(i in 0..99)
         {
-            if(i%17 == 0) stringBuilder.append("\n").append("   ")
-            stringBuilder.append(String.format("%02d",i)).append("    ")
+            if(i%17 == 0) stringBuilder.append("\n").append("      ")
+            stringBuilder.append(String.format("%02d",i)).append("        ")
 
         }
 
