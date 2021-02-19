@@ -22,6 +22,8 @@ abstract class AbstractSuperCodePanel: AbstractCodePanel() {
 
         tableJComboBox.addActionListener(TableJComboBoxListener())
 
+        tableAndNumberPanel.maximumSize = Constants.MAXIMUM_PANEL_SIZE
+
         tableJComboBox.maximumSize = tableJComboBox.preferredSize
         tableJComboBox.isLightWeightPopupEnabled = false
 

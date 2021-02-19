@@ -1,5 +1,6 @@
 package tools
 
+import java.awt.Dimension
 import java.util.*
 
 class Constants {
@@ -99,6 +100,7 @@ class Constants {
         }
         val SHOW_ENTRIES = getShowEntries()
 
+        val MAXIMUM_PANEL_SIZE = Dimension(450,50)
 
         const val WARNING = "Upozornenie"
         const val WORD_CANT_BE_BLANK = "Vstup pre slovo nemôže byť prázdny"
