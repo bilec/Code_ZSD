@@ -12,7 +12,7 @@ data class Page(val pageFileName: String)
     init {
         val bufferedReader = FileReader.readToBufferedRead("zsd_dictionary/$pageFileName.txt")
 
-        number = bufferedReader.readLine()
+        number = bufferedReader.readLine().trimEnd()
         bufferedReader.readLine()
 
         for(line in bufferedReader.lines())
