@@ -8,11 +8,11 @@ object Code {
     fun encode(aWords: String): String
     {
         val wordList = ArrayList<WordGroup>()
-        for(word in aWords.split(" "))
+        for(word in aWords.split("\\s+|(?=\\W\\p{Punct}|\\p{Punct}\\W)|(?<=\\W\\p{Punct}|\\p{Punct}\\W})".toRegex()))
         {
             if(word.isNotBlank()) wordList.add(WordGroup(word.trimEnd()))
         }
-        
+
         forLoopEncode(wordList, dictionary::encode)
         forLoopEncode(wordList, ::encodeWithTellers)
 
