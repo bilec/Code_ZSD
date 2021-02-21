@@ -12,54 +12,7 @@ object Code {
         {
             if(word.isNotBlank()) wordList.add(WordGroup(word.trimEnd()))
         }
-
-//        for(i in 1..wordList.size)
-//        {
-//            second@ for(j in i downTo 1)
-//            {
-//                val stringBuilder = StringBuilder()
-//                for(k in (i-j)..(wordList.size-j))
-//                {
-//                    val wordGroup = wordList[k]
-//                    if(wordGroup.isChangeable) stringBuilder.append(wordGroup.value).append(" ")
-//                    else continue@second
-//                }
-//                val word = stringBuilder.toString().trimEnd()
-//                val encodedWord = dictionary.encode(word)
-//                if(encodedWord.isNotBlank())
-//                {
-//                    for(k in (i-j)..(wordList.size-j))
-//                    {
-//                        wordList[k] = WordGroup("", false)
-//                    }
-//                    wordList[i-j] = WordGroup(encodedWord, false)
-//                }
-//            }
-//        }
-//
-//        for(i in 1..wordList.size)
-//        {
-//            second@ for(j in i downTo 1)
-//            {
-//                val stringBuilder = StringBuilder()
-//                for(k in (i-j)..(wordList.size-j))
-//                {
-//                    val wordGroup = wordList[k]
-//                    if(wordGroup.isChangeable) stringBuilder.append(wordGroup.value).append(" ")
-//                    else continue@second
-//                }
-//                val word = stringBuilder.toString().trimEnd()
-//                val encodedWord = encodeWithTellers(word)
-//                if(encodedWord.isNotBlank())
-//                {
-//                    for(k in (i-j)..(wordList.size-j))
-//                    {
-//                        wordList[k] = WordGroup("", false)
-//                    }
-//                    wordList[i-j] = WordGroup(encodedWord, false)
-//                }
-//            }
-//        }
+        
         forLoopEncode(wordList, dictionary::encode)
         forLoopEncode(wordList, ::encodeWithTellers)
 
