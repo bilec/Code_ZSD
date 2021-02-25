@@ -100,7 +100,7 @@ class Constants {
         }
         val SHOW_ENTRIES = getShowEntries()
 
-        val MAXIMUM_PANEL_SIZE = Dimension(450,50)
+        val MAXIMUM_PANEL_SIZE = Dimension(900,50)
 
         const val WARNING = "Upozornenie"
         const val WORD_CANT_BE_BLANK = "Vstup pre slovo nemôže byť prázdny"
