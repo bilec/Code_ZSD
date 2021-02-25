@@ -1,4 +1,4 @@
-package code
+﻿package code
 
 import code.dictionary.Dictionary
 
@@ -135,24 +135,29 @@ object Code {
         dictionary.pages.forEach { page ->
             page.getAllWords().forEach {
                 if(word.startsWith(it)) {
-                    val restOfWord = word.replace(it, "").trim()
+                    val restOfWord = word.replaceFirst(it, "").trim()
                     val restOfWordCodeGroup = dictionary.encode(restOfWord)
                     if(restOfWordCodeGroup.isNotBlank()) return "${page.findWordNumber(it)}${page.number} $restOfWordCodeGroup 19001"
                 }
             }
         }
 
-        dictionary.pages.forEach { page ->
-            page.getAllWords().forEach {
-                if(word.startsWith(it))
+        dictionary.pages.forEach { firstLoopPage ->
+            firstLoopPage.getAllWords().forEach { firstLoopWord ->
+                if(word.startsWith(firstLoopWord))
                 {
-                    val restOfWord = word.replace(it, "").trim()
-                    dictionary.pages.forEach { restOfWordPage ->
-                        page.getAllWords().forEach { restOfWordIt ->
-                            if(restOfWord.startsWith(restOfWordIt)) {
-                                val lastPartOfWord = restOfWord.replace(restOfWordIt, "").trim()
-                                val lastPartOfWordCodeGroup = dictionary.encode(lastPartOfWord)
-                                if(lastPartOfWordCodeGroup.isNotBlank()) return "${page.findWordNumber(it)}${page.number} ${restOfWordPage.findWordNumber(restOfWordIt)}${restOfWordPage.number} $lastPartOfWordCodeGroup 20001"
+                    val firstWordPart = word.replaceFirst(firstLoopWord,"")
+                    dictionary.pages.forEach { secondLoopPage ->
+                        secondLoopPage.getAllWords().forEach { secondLoopWord ->
+                            if(firstWordPart.startsWith(secondLoopWord))
+                            {
+                                val secondWordPart = firstWordPart.replaceFirst(secondLoopWord,"")
+                                val lastWordPart = dictionary.encode(secondWordPart)
+                                if(lastWordPart.isNotBlank())
+                                {
+                                    println("$firstLoopWord $secondLoopWord $secondWordPart")
+                                    return "${firstLoopPage.findWordNumber(firstLoopWord)}${firstLoopPage.number} ${secondLoopPage.findWordNumber(secondLoopWord)}${secondLoopPage.number} $lastWordPart 20001"
+                                }
                             }
                         }
                     }
