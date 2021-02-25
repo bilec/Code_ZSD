@@ -155,7 +155,6 @@ object Code {
                                 val lastWordPart = dictionary.encode(secondWordPart)
                                 if(lastWordPart.isNotBlank())
                                 {
-                                    println("$firstLoopWord $secondLoopWord $secondWordPart")
                                     return "${firstLoopPage.findWordNumber(firstLoopWord)}${firstLoopPage.number} ${secondLoopPage.findWordNumber(secondLoopWord)}${secondLoopPage.number} $lastWordPart 20001"
                                 }
                             }
