@@ -35,5 +35,8 @@ class SaveButtonListener(private val wordJTextArea: JTextArea,
 
         val dictionary = Dictionary
         dictionary.addUserDefinedWord(code, word)
+
+        wordJTextArea.text = ""
+        codeJTextArea.text = ""
     }
 }

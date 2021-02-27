@@ -104,11 +104,11 @@ object Dictionary {
         {
             for(word in userDefinedWords[codeGroup]!!)
             {
-                stringBuilder.append("$codeGroup - ${word.value}")
+                stringBuilder.append("$codeGroup - ${word.value}").append("\n")
             }
         }
 
-        return stringBuilder.toString()
+        return stringBuilder.toString().trim()
     }
 
 }
