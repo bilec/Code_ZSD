@@ -10,7 +10,6 @@ class TableJComboBoxListener: ActionListener {
         val tableJComboBox = e?.source as JComboBox<*>
         val selectedItem = tableJComboBox.selectedItem as String
 
-        val table = Table
-        table.selectedTable = Character.getNumericValue(selectedItem.last())
+        Table.selectedTable = Character.getNumericValue(selectedItem.last())
     }
 }
