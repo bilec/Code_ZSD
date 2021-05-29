@@ -183,6 +183,8 @@ object Code {
 
     private fun decodeWithTellers(codeGroups: ArrayList<String>): String
     {
+        var lastChangedGroup = 0
+
         for(i in 0 until codeGroups.size)
         {
             when(codeGroups[i])
@@ -195,6 +197,7 @@ object Code {
                         if(decodedCodeGroup.isNotBlank()) {
                             codeGroups[index] = decodedCodeGroup.capitalize()
                             codeGroups[i] = ""
+                            lastChangedGroup = i
                         }
                     }
                 }
@@ -207,6 +210,7 @@ object Code {
                         if(decodedCodeGroup.isNotBlank()) {
                             codeGroups[index] = decodedCodeGroup.substring(0,2)
                             codeGroups[i] = ""
+                            lastChangedGroup = i
                         }
                     }
                 }
@@ -218,6 +222,7 @@ object Code {
                         if(decodedCodeGroup.isNotBlank()) {
                             codeGroups[index] = decodedCodeGroup.substring(0,3)
                             codeGroups[i] = ""
+                            lastChangedGroup = i
                         }
                     }
                 }
@@ -229,6 +234,7 @@ object Code {
                         if(decodedCodeGroup.isNotBlank()) {
                             codeGroups[index] = decodedCodeGroup.substring(0,4)
                             codeGroups[i] = ""
+                            lastChangedGroup = i
                         }
                     }
                 }
@@ -240,6 +246,7 @@ object Code {
                         if(decodedCodeGroup.isNotBlank()) {
                             codeGroups[index] = decodedCodeGroup.substring(0,5)
                             codeGroups[i] = ""
+                            lastChangedGroup = i
                         }
                     }
                 }
@@ -251,6 +258,7 @@ object Code {
                         if(decodedCodeGroup.isNotBlank()) {
                             codeGroups[index] = decodedCodeGroup.substring(0,6)
                             codeGroups[i] = ""
+                            lastChangedGroup = i
                         }
                     }
                 }
@@ -262,6 +270,7 @@ object Code {
                         if(decodedCodeGroup.isNotBlank()) {
                             codeGroups[index] = decodedCodeGroup.substring(0,7)
                             codeGroups[i] = ""
+                            lastChangedGroup = i
                         }
                     }
                 }
@@ -273,6 +282,7 @@ object Code {
                         if(decodedCodeGroup.isNotBlank()) {
                             codeGroups[index] = decodedCodeGroup.substring(0,8)
                             codeGroups[i] = ""
+                            lastChangedGroup = i
                         }
                     }
                 }
@@ -285,6 +295,7 @@ object Code {
                         if(decodedCodeGroup.isNotBlank()) {
                             codeGroups[index] = decodedCodeGroup.dropLast(1)
                             codeGroups[i] = ""
+                            lastChangedGroup = i
                         }
                     }
                 }
@@ -296,6 +307,7 @@ object Code {
                         if(decodedCodeGroup.isNotBlank()) {
                             codeGroups[index] = decodedCodeGroup.dropLast(2)
                             codeGroups[i] = ""
+                            lastChangedGroup = i
                         }
                     }
                 }
@@ -307,6 +319,7 @@ object Code {
                         if(decodedCodeGroup.isNotBlank()) {
                             codeGroups[index] = decodedCodeGroup.dropLast(3)
                             codeGroups[i] = ""
+                            lastChangedGroup = i
                         }
                     }
                 }
@@ -321,6 +334,7 @@ object Code {
                             if (splitDecodedCodeGroup.size > 1) {
                                 codeGroups[index] = splitDecodedCodeGroup[0]
                                 codeGroups[i] = ""
+                                lastChangedGroup = i
                             }
                         }
                     }
@@ -335,6 +349,7 @@ object Code {
                             if (splitDecodedCodeGroup.size > 2) {
                                 codeGroups[index] = "${splitDecodedCodeGroup[0]} ${splitDecodedCodeGroup[1]}"
                                 codeGroups[i] = ""
+                                lastChangedGroup = i
                             }
                         }
                     }
@@ -349,6 +364,7 @@ object Code {
                             if (splitDecodedCodeGroup.size > 2) {
                                 codeGroups[index] = splitDecodedCodeGroup[1]
                                 codeGroups[i] = ""
+                                lastChangedGroup = i
                             }
                         }
                     }
@@ -363,6 +379,7 @@ object Code {
                             if (splitDecodedCodeGroup.size > 2) {
                                 codeGroups[index] = splitDecodedCodeGroup.last()
                                 codeGroups[i] = ""
+                                lastChangedGroup = i
                             }
                         }
                     }
@@ -381,6 +398,7 @@ object Code {
                             codeGroups[index] = "$decodedFirstCodeGroup$decodedSecondCodeGroup"
                             codeGroups[index + 1] = ""
                             codeGroups[index + 2] = ""
+                            lastChangedGroup = i
                         }
                     }
                 }
@@ -400,23 +418,23 @@ object Code {
                             codeGroups[index + 1] = ""
                             codeGroups[index + 2] = ""
                             codeGroups[index + 3] = ""
+                            lastChangedGroup = i
                         }
                     }
                 }
+
                 "21001" -> {
-                    var valid = true
                     val stringBuilder = StringBuilder()
-                    for(index in 0 until i)
+                    for(index in (lastChangedGroup + 1) until i)
                     {
                         val codeGroupToDecode = codeGroups[index]
                         val decodedCodeGroup = dictionary.decode(codeGroupToDecode)
-                        if(decodedCodeGroup.isNotBlank()) stringBuilder.append(decodedCodeGroup)
-                        else {
-                            valid = false
-                            break
-                        }
+
+                        stringBuilder.append(decodedCodeGroup)
+                        codeGroups[index] = ""
                     }
-                    if(valid) return stringBuilder.toString().trimEnd()
+                    codeGroups[i] = stringBuilder.toString().trim()
+                    lastChangedGroup = i
                 }
 
                 "12001" -> {
@@ -427,6 +445,7 @@ object Code {
                         if(decodedCodeGroup.isNotBlank()) {
                                 codeGroups[index] = "„$decodedCodeGroup“"
                                 codeGroups[i] = ""
+                                lastChangedGroup = i
                         }
                     }
                 }
