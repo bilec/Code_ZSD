@@ -65,13 +65,4 @@ data class Page(val pageFileName: String)
         return null
     }
 
-    fun printPage()
-    {
-        for(wordNumber in words.keys)
-        {
-            println(wordNumber)
-            words[wordNumber]?.forEach { println(" ${it.value}") }
-        }
-    }
-
 }
