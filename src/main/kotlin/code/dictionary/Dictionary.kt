@@ -3,8 +3,8 @@ package code.dictionary
 object Dictionary {
 
     val pages: ArrayList<Page> = ArrayList()
-    private val punctuation: HashMap<String, Word> = HashMap()
-    private var userDefinedWords: HashMap<String, ArrayList<Word>> = HashMap()
+    private val punctuation: HashMap<String, String> = HashMap()
+    private var userDefinedWords: HashMap<String, ArrayList<String>> = HashMap()
 
     init {
         for(number in 2..212)
@@ -13,21 +13,21 @@ object Dictionary {
             pages.add(page)
         }
 
-        punctuation["00001"] = Word("’")
-        punctuation["01001"] = Word(",")
-        punctuation["02001"] = Word(".")
-        punctuation["03001"] = Word(":")
-        punctuation["04001"] = Word("/")
-        punctuation["05001"] = Word("?")
-        punctuation["06001"] = Word("—")
-        punctuation["07001"] = Word("-")
-        punctuation["08001"] = Word(".")
-        punctuation["08001"] = Word(".\n")
-        punctuation["10001"] = Word("„")
-        punctuation["11001"] = Word("“")
-        punctuation["13001"] = Word("!")
-        punctuation["14001"] = Word("(")
-        punctuation["15001"] = Word(")")
+        punctuation["00001"] = "’"
+        punctuation["01001"] = ","
+        punctuation["02001"] = "."
+        punctuation["03001"] = ":"
+        punctuation["04001"] = "/"
+        punctuation["05001"] = "?"
+        punctuation["06001"] = "—"
+        punctuation["07001"] = "-"
+        punctuation["08001"] = "."
+        punctuation["08001"] = ".\n"
+        punctuation["10001"] = "„"
+        punctuation["11001"] = "“"
+        punctuation["13001"] = "!"
+        punctuation["14001"] = "("
+        punctuation["15001"] = ")"
     }
 
     fun encode(aWord: String): String
@@ -42,7 +42,7 @@ object Dictionary {
 
         for(codeGroup in punctuation.keys)
         {
-            if(punctuation[codeGroup]?.value == aWord)
+            if(punctuation[codeGroup] == aWord)
             {
                 return codeGroup
             }
@@ -50,7 +50,7 @@ object Dictionary {
 
         for(codeGroup in userDefinedWords.keys)
         {
-            userDefinedWords[codeGroup]?.forEach { if(it.value == aWord) return codeGroup }
+            userDefinedWords[codeGroup]?.forEach { if(it == aWord) return codeGroup }
         }
 
         return ""
@@ -69,10 +69,10 @@ object Dictionary {
             if(foundWord != null) return foundWord
         }
 
-        foundWord = punctuation[aCode]?.value
+        foundWord = punctuation[aCode]
         if(foundWord != null) return foundWord
 
-        foundWord = userDefinedWords[aCode]?.get(0)?.value
+        foundWord = userDefinedWords[aCode]?.get(0)
         if(foundWord != null) return foundWord
 
         return ""
@@ -82,12 +82,12 @@ object Dictionary {
     {
         if(userDefinedWords.containsKey(aCode))
         {
-            userDefinedWords[aCode]?.add(Word(aWord))
+            userDefinedWords[aCode]?.add(aWord)
         }
         else
         {
-            val wordList = ArrayList<Word>()
-            wordList.add(Word(aWord))
+            val wordList = ArrayList<String>()
+            wordList.add(aWord)
             userDefinedWords[aCode] = wordList
         }
     }
@@ -100,7 +100,7 @@ object Dictionary {
         {
             for(word in userDefinedWords[codeGroup]!!)
             {
-                stringBuilder.append("$codeGroup - ${word.value}").append("\n")
+                stringBuilder.append("$codeGroup - $word").append("\n")
             }
         }
 

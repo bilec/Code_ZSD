@@ -4,7 +4,7 @@ import tools.FileReader
 
 data class Page(val pageFileName: String)
 {
-    private val words: HashMap<String, ArrayList<Word>> = HashMap() //<number, list of words> <key, value>
+    private val words: HashMap<String, ArrayList<String>> = HashMap() //<number, list of words> <key, value>
     val number: String
     val allWords: Set<String>
         get() {
@@ -12,7 +12,7 @@ data class Page(val pageFileName: String)
 
             for(wordList in words.values)
             {
-                wordList.forEach { allWords.add(it.value) }
+                wordList.forEach { allWords.add(it) }
             }
 
             return allWords
@@ -37,28 +37,28 @@ data class Page(val pageFileName: String)
 
             if(!words.containsKey(wordNumber))
             {
-                val wordList = ArrayList<Word>()
-                wordList.add(Word(word))
+                val wordList = ArrayList<String>()
+                wordList.add(word)
 
                 words[wordNumber] = wordList
             }
             else
             {
-                words[wordNumber]!!.add(Word(word))
+                words[wordNumber]!!.add(word)
             }
         }
     }
 
     fun findWord(aWordNumber: String): String?
     {
-        return words[aWordNumber]?.get(0)?.value
+        return words[aWordNumber]?.get(0)
     }
 
     fun findWordNumber(aWord: String): String?
     {
         for(wordNumber in words.keys)
         {
-            words[wordNumber]?.forEach { if(it.value == aWord) return wordNumber }
+            words[wordNumber]?.forEach { if(it == aWord) return wordNumber }
         }
         return null
     }
