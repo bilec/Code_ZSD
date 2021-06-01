@@ -51,7 +51,7 @@ object Table {
         var checkRandomNumber = CodeGroup(textSuperCodeGroups.last())
         checkRandomNumber -= evenSequence
 
-        if(randomNumber != checkRandomNumber) throw Exception(Constants.CHECK_RANDOM_NUMBER_EXCEPTION)
+        if(randomNumber != checkRandomNumber) throw Exception("${Constants.CHECK_RANDOM_NUMBER_EXCEPTION} ${randomNumber.textValue} ${checkRandomNumber.textValue}")
 
         textSuperCodeGroups = textSuperCodeGroups.drop(1)
         textSuperCodeGroups = textSuperCodeGroups.dropLast(1)

@@ -2,7 +2,7 @@ package code
 
 import tools.Constants
 
-class CodeGroup(val textValue: String) {
+data class CodeGroup(val textValue: String) {
 
     val numberValue: ArrayList<Int> = ArrayList()
 
