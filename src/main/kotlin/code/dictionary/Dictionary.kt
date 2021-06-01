@@ -1,13 +1,10 @@
 package code.dictionary
 
-import com.google.common.collect.BiMap
-import com.google.common.collect.HashBiMap
-
 object Dictionary {
 
     val pages: ArrayList<Page> = ArrayList()
-    private val punctuation: BiMap<String, Word> = HashBiMap.create()
-    private var userDefinedWords: BiMap<String, ArrayList<Word>> = HashBiMap.create()
+    private val punctuation: HashMap<String, Word> = HashMap()
+    private var userDefinedWords: HashMap<String, ArrayList<Word>> = HashMap()
 
     init {
         for(number in 2..212)

@@ -1,7 +1,6 @@
 package code.table
 
 import code.CodeGroup
-import com.google.common.collect.BiMap
 
 class TwoPartTable: AbstractTable {
 
@@ -18,8 +17,8 @@ class TwoPartTable: AbstractTable {
         secondPartTable = initRandom(50, 99,17)
     }
 
-    private val firstPartTable: BiMap<String, ArrayList<CodeGroup>>
-    private val secondPartTable: BiMap<String, ArrayList<CodeGroup>>
+    private val firstPartTable: HashMap<String, ArrayList<CodeGroup>>
+    private val secondPartTable: HashMap<String, ArrayList<CodeGroup>>
 
     //codeGroup 58-40-2
     // riadok-stlpec- parna - po riadkoch lavo->pravo
@@ -31,7 +30,7 @@ class TwoPartTable: AbstractTable {
         var column = aColumn
         var row = aRow
 
-        val tableToUse: BiMap<String, ArrayList<CodeGroup>>
+        val tableToUse: HashMap<String, ArrayList<CodeGroup>>
         val rowAdd: Int
         if(aRow < 50)
         {
@@ -77,7 +76,7 @@ class TwoPartTable: AbstractTable {
         return codeGroupSequence
     }
 
-    private fun partTableToString(partTable: BiMap<String, ArrayList<CodeGroup>>, startHeight: Int, endHeight: Int): String
+    private fun partTableToString(partTable: HashMap<String, ArrayList<CodeGroup>>, startHeight: Int, endHeight: Int): String
     {
         val stringBuilder = StringBuilder()
 

@@ -1,12 +1,10 @@
 package code.dictionary
 
-import com.google.common.collect.BiMap
-import com.google.common.collect.HashBiMap
 import tools.FileReader
 
 data class Page(val pageFileName: String)
 {
-    private val words: BiMap<String, ArrayList<Word>> = HashBiMap.create() //<number, list of words> <key, value>
+    private val words: HashMap<String, ArrayList<Word>> = HashMap() //<number, list of words> <key, value>
     val number: String
     val allWords: Set<String>
         get() {

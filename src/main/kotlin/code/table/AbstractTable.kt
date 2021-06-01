@@ -1,16 +1,14 @@
 package code.table
 
 import code.CodeGroup
-import com.google.common.collect.BiMap
-import com.google.common.collect.HashBiMap
 import tools.FileReader
 import kotlin.random.Random
 
 abstract class AbstractTable {
 
-    fun initFromFile(partOfTableFileName: String): BiMap<String, ArrayList<CodeGroup>>
+    fun initFromFile(partOfTableFileName: String): HashMap<String, ArrayList<CodeGroup>>
     {
-        val partOfTable = HashBiMap.create<String, ArrayList<CodeGroup>>()
+        val partOfTable = HashMap<String, ArrayList<CodeGroup>>()
 
         val bufferedReader = FileReader.readToBufferedRead("zsd_table/$partOfTableFileName.txt")
 
@@ -39,9 +37,9 @@ abstract class AbstractTable {
         return partOfTable
     }
 
-    fun initRandom(aStartHeight: Int, aEndHeight: Int, aWidth: Int): BiMap<String, ArrayList<CodeGroup>>
+    fun initRandom(aStartHeight: Int, aEndHeight: Int, aWidth: Int): HashMap<String, ArrayList<CodeGroup>>
     {
-        val partOfTable = HashBiMap.create<String, ArrayList<CodeGroup>>()
+        val partOfTable = HashMap<String, ArrayList<CodeGroup>>()
 
         for(i in aStartHeight..aEndHeight)
         {
