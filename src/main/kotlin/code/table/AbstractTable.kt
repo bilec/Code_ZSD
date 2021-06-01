@@ -4,7 +4,6 @@ import code.CodeGroup
 import com.google.common.collect.BiMap
 import com.google.common.collect.HashBiMap
 import tools.FileReader
-import java.lang.StringBuilder
 import kotlin.random.Random
 
 abstract class AbstractTable {

@@ -4,7 +4,6 @@ import gui.listeners.button.CleanButtonListener
 import gui.listeners.button.CopyButtonListener
 import gui.listeners.button.PasteButtonListener
 import tools.Constants
-import java.awt.Dimension
 import java.awt.FlowLayout
 import javax.swing.*
 

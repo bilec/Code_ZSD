@@ -2,7 +2,6 @@ package code.dictionary
 
 import com.google.common.collect.BiMap
 import com.google.common.collect.HashBiMap
-import java.lang.StringBuilder
 
 object Dictionary {
 

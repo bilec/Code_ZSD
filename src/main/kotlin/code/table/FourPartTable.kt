@@ -2,7 +2,6 @@ package code.table
 
 import code.CodeGroup
 import com.google.common.collect.BiMap
-import java.lang.StringBuilder
 
 class FourPartTable: AbstractTable {
 
