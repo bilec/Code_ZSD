@@ -8,6 +8,17 @@ data class Page(val pageFileName: String)
 {
     private val words: BiMap<String, ArrayList<Word>> = HashBiMap.create() //<number, list of words> <key, value>
     val number: String
+    val allWords: Set<String>
+        get() {
+            val allWords = HashSet<String>()
+
+            for(wordList in words.values)
+            {
+                wordList.forEach { allWords.add(it.value) }
+            }
+
+            return allWords
+        }
 
     init {
         val bufferedReader = FileReader.readToBufferedRead("zsd_dictionary/$pageFileName.txt")
@@ -52,18 +63,6 @@ data class Page(val pageFileName: String)
             words[wordNumber]?.forEach { if(it.value == aWord) return wordNumber }
         }
         return null
-    }
-
-    fun getAllWords(): Set<String>
-    {
-        val allWords = HashSet<String>()
-
-        for(wordList in words.values)
-        {
-            wordList.forEach { allWords.add(it.value) }
-        }
-
-        return allWords
     }
 
     fun printPage()

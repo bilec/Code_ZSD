@@ -88,7 +88,7 @@ object Code {
         if(capitalized.isNotBlank()) return "$capitalized 23001"
 
         dictionary.pages.forEach { page ->
-            page.getAllWords().forEach {
+            page.allWords.forEach {
                 if(it.startsWith(word))
                 {
                     when(word.length)
@@ -106,7 +106,7 @@ object Code {
         }
 
         dictionary.pages.forEach { page ->
-            page.getAllWords().forEach {
+            page.allWords.forEach {
                 if(it.dropLast(1) == word) return "${page.findWordNumber(it)}${page.number} 31001"
                 if(it.dropLast(2) == word) return "${page.findWordNumber(it)}${page.number} 32001"
                 if(it.dropLast(3) == word) return "${page.findWordNumber(it)}${page.number} 33001"
@@ -114,7 +114,7 @@ object Code {
         }
 
         dictionary.pages.forEach { page ->
-            page.getAllWords().forEach {
+            page.allWords.forEach {
                 val splitWord = it.split(" ")
                 if(splitWord.size > 1)
                 {
@@ -133,7 +133,7 @@ object Code {
         }
 
         dictionary.pages.forEach { page ->
-            page.getAllWords().forEach {
+            page.allWords.forEach {
                 if(word.startsWith(it)) {
                     val restOfWord = word.replaceFirst(it, "").trim()
                     val restOfWordCodeGroup = dictionary.encode(restOfWord)
@@ -143,12 +143,12 @@ object Code {
         }
 
         dictionary.pages.forEach { firstLoopPage ->
-            firstLoopPage.getAllWords().forEach { firstLoopWord ->
+            firstLoopPage.allWords.forEach { firstLoopWord ->
                 if(word.startsWith(firstLoopWord))
                 {
                     val firstWordPart = word.replaceFirst(firstLoopWord,"")
                     dictionary.pages.forEach { secondLoopPage ->
-                        secondLoopPage.getAllWords().forEach { secondLoopWord ->
+                        secondLoopPage.allWords.forEach { secondLoopWord ->
                             if(firstWordPart.startsWith(secondLoopWord))
                             {
                                 val secondWordPart = firstWordPart.replaceFirst(secondLoopWord,"")
