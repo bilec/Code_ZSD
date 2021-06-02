@@ -103,9 +103,10 @@ class Constants {
         val MAXIMUM_PANEL_SIZE = Dimension(900,50)
 
         const val WARNING = "Upozornenie"
+        const val WORD_AND_CODE_CANT_BE_BLANK = "Vstup pre slovo a kódovú skupinu nemôže byť prázdny"
         const val WORD_CANT_BE_BLANK = "Vstup pre slovo nemôže byť prázdny"
         const val CODE_CANT_BE_BLANK = "Vstup pre kódovú skupinu nemôže byť prázdny"
-        const val CODE_GROUP_ERROR = "Chyba v kódovej skupine"
+        const val CODE_GROUP_ERROR = "Kódová skupina / kódové skupiny musí byť zložená z piatich čísiel"
         const val WRONG_INPUT = "Nesprávny vstup"
         const val WRONG_RANDOM_NUMBER = "Nesprávne náhodné číslo"
 

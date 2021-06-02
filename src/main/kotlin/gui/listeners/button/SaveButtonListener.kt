@@ -16,12 +16,17 @@ class SaveButtonListener(private val wordJTextArea: JTextArea,
         val word = wordJTextArea.text.trim()
         val code = codeJTextArea.text.trim()
 
-        if(word.isBlank())
+        if(word.isBlank() && code.isBlank())
+        {
+            JOptionPane.showMessageDialog(MyFrame,Constants.WORD_AND_CODE_CANT_BE_BLANK,Constants.WARNING, JOptionPane.WARNING_MESSAGE)
+            return
+        }
+        else if(word.isBlank())
         {
             JOptionPane.showMessageDialog(MyFrame,Constants.WORD_CANT_BE_BLANK,Constants.WARNING, JOptionPane.WARNING_MESSAGE)
             return
         }
-        if(code.isBlank())
+        else if(code.isBlank())
         {
             JOptionPane.showMessageDialog(MyFrame,Constants.CODE_CANT_BE_BLANK,Constants.WARNING, JOptionPane.WARNING_MESSAGE)
             return
